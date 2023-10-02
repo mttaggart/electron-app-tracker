@@ -1,0 +1,741 @@
+app_name,repo,electron_version,vulnerable_cve_2023_4863,date_accessed
+1Clipboard,https://github.com/wiziple/1clipboard,,
+1Password,None,25.8.1,FALSE
+3CX Desktop App,,19.0.8,TRUE
+5EClient,None,,
+Abstract,None,,
+Account Surfer,None,,
+Advanced REST Client,https://github.com/advanced-rest-client/arc-electron,^17.0.0,TRUE
+Aedron Shrine,None,,
+Aeon,https://github.com/leinelissen/aeon,23.2.0,TRUE
+Aether,https://github.com/aethereans/aether-app,,
+Agora Flat,https://github.com/netless-io/flat,,
+Aipo.com,None,,
+Airtame,None,,
+Altair GraphQL Client,https://github.com/imolorhe/altair,,
+Amialive,None,,
+AnotherRedisDesktopManager,None,,
+Antares,https://github.com/Fabio286/antares,~22.0.3,TRUE
+Appium Desktop,https://github.com/appium/appium-desktop,^10.0,TRUE
+Arena,None,,
+Asana,None,,
+Assessment Disaggregation,https://github.com/tazzben/Assessment-Disaggregation.git,^25.8.1,FALSE
+Assetizr,None,,
+AstroPrint Desktop,None,,
+Atom,https://github.com/atom/atom,,
+Authy,,16.2.8,TRUE
+Barklarm,https://github.com/kanekotic/barklarm,25.3.2,TRUE
+Basecamp 3,None,,
+Bdash,None,,
+Beaker Browser,https://github.com/beakerbrowser/beaker,,
+Beekeeper Studio,https://github.com/beekeeper-studio/beekeeper-studio,,
+Believers Sword,https://github.com/Bible-Projects/believers-sword-app,^19.0.0,TRUE
+bibisco,https://github.com/andreafeccomandi/bibisco/,,
+Biscuit,None,,
+Blockbench,https://github.com/JannisX11/blockbench,^25.7.0,TRUE
+Boost Changer,None,,
+Bootstrap Studio,None,,
+BoxHero,https://github.com/bgpworks/boxhero-electron,23.0.0,TRUE
+Boxy SVG,None,,
+Brim,https://github.com/brimsec/brim,22.3.25,TRUE
+Brisqi,None,,
+Browserosaurus,None,,
+Buckets,None,,
+Buka,None,,
+Buttercup,https://github.com/buttercup/buttercup-desktop,^22.0.0,TRUE
+Cacher,None,,
+Calmly Writer,None,,
+Camunda Modeler,https://github.com/camunda/camunda-modeler/,^26.0.0,TRUE
+canSnippet,None,,
+Caption Pro,None,,
+Caret,None,,
+Cargo Messenger,None,,
+CashNotify,None,,
+CatLight,None,,
+CBETA Reader 2 (Unofficial),None,,
+ChatWork,None,,
+Chronobreak,None,,
+Cider,https://github.com/ciderapp/Cider,github:castlabs/electron-releases,TRUE
+clipboard-manager-electron,None,,
+Clipper,None,,
+clippo,None,,
+cliptext,None,,
+clockodo,None,,
+Clovery,https://github.com/webcatalog/neutron,18.0.1,TRUE
+CLtracer,None,,
+Cocos Creator,https://github.com/cocos-creator/engine,,
+Codex,https://github.com/jcv8000/Codex,^22.3.18,TRUE
+Colibri,None,,
+Collectie,None,,
+Color Ramp Formulator,None,,
+Colorpicker,https://github.com/Toinane/colorpicker,^19.1.7,TRUE
+Commandeer,https://github.com/commandeer/open,,
+Compact Log Viewer,None,,
+Companion,None,,
+Composercat,None,,
+Compress,None,,
+Container PS,None,,
+Copy 2 Online,None,,
+Cozy Desktop,https://github.com/cozy-labs/cozy-desktop,23.0.0,TRUE
+CryptoARM GOST,https://github.com/TrustedRu/CryptoARMGOST,7.1.13,TRUE
+csBooks,https://github.com/caesiumstudio/csBooks-updates.git,,
+csgo-tracker,None,,
+CyberX,None,,
+Cycle,None,,
+Cycligent Git Tool,None,,
+Danger Crew,None,,
+DarkJ,None,,
+Dashy,None,,
+Dat,https://github.com/datproject/dat-desktop,^6.1.7,TRUE
+Data Pixels Playground,None,,
+Data-Forge Notebook,None,,
+Datazenit,None,,
+DBcloner,https://github.com/felipeleivav/dbcloner-app,,
+DbGate,https://github.com/dbgate/dbgate,,
+DBGlass,https://github.com/web-pal/DBGlass,,
+Debugtron,None,,
+DECK,https://github.com/sfx101/docker-stacks,^13.0.0,TRUE
+Deckboard,https://github.com/rivafarabi/deckboard,,
+DeckMaster,https://github.com/TheOtterlord/deckmaster,^11.2.1,TRUE
+Deco IDE,https://github.com/decosoftware/deco-ide,,
+Deepnest,None,,
+Deer,None,,
+Demio,None,,
+Demoflow,None,,
+Deskfiler,https://github.com/deskfiler/deskfiler,6.0.9,TRUE
+Devbook,None,,
+DevHub,None,,
+Dict,https://github.com/bryht/Dict,^9.4.4,TRUE
+Diffuse,https://github.com/icidasset/diffuse,,
+DigiExam,None,,
+Discord,None,22.3.24,FALSE
+Discord RPC Maker,https://github.com/thatonecalculator/discordrpcmaker,^22.0.0,TRUE
+display-dj,https://github.com/synle/display-dj,^19.0.2,TRUE
+Ditto++,None,,
+Dixa,https://github.com/dixahq/dixa-desktop-app-release,,
+Dn Tool Container,None,,
+Doki Doki Mod Manager,https://github.com/DokiDokiModManager/Mod-Manager,^10.1.3,TRUE
+Domain Book,https://github.com/darawish/domainbook,,
+domodel-diary,None,13.1.0,TRUE
+DomTerm,https://github.com/PerBothner/DomTerm,,
+Dopamine,https://github.com/digimezzo/dopamine,^21.0.0,TRUE
+Drawtify Designer,None,,
+DropPoint,https://github.com/GameGodS3/DropPoint,^21.3.1,TRUE
+DupFinder,None,,
+Dusk Player,https://github.com/Aveek-Saha/MusicPlayer,^7.3.3,TRUE
+Dynobase,None,,
+Eagle,None,,
+eagluet,None,,
+EBTCalc,https://github.com/EricTerrell/EBTCalc,^26.1.0,TRUE
+echo,https://github.com/afractal/echo-app,,
+elcalc,None,,
+Electorrent,None,,
+Electro,None,,
+ElectroCRUD,https://github.com/garrylachman/ElectroCRUD,^22.0.0,TRUE
+Electron App Store (Unofficial),https://github.com/Electron-Store/electron-app-store,^15.3.0,TRUE
+Electron-clippy,None,,
+Elements,None,,
+Elephicon,None,,
+email-securely-app,None,,
+Enclica Messenger,None,,
+encrypt0r,https://github.com/kunalnagar/encrypt0r,,
+EnderFramework,None,,
+Erin,https://github.com/losbiw/erin,^20.1.0,TRUE
+eSearch,https://github.com/xushengfeng/eSearch,^22.3.6,TRUE
+ETCD Manager,https://github.com/icellmobilsoft/etcdmanager.git,^6,TRUE
+Etcher,https://github.com/resin-io/etcher,^19.1.9,TRUE
+EVE Trade,None,,
+Everdo,None,,
+Excel Parser Processor,None,,
+ExifCleaner,https://github.com/szTheory/exifcleaner,^11.0,TRUE
+ExpanDrive,,22.3.1,TRUE
+Explorer,None,,
+ExpressLRS Configurator,None,,
+F-Curator,https://github.com/xizon/F-Curator/,^16.0.6,TRUE
+FAIRshare,https://github.com/fairdataihub/FAIRshare,25.8.1,FALSE
+fangyuanjian,None,,
+FATpick,None,,
+Fenêtre,None,,
+Ferdi,https://github.com/getferdi/ferdi,,
+Fifo,https://github.com/snaildos/Fifo-Browser,21.4.4,TRUE
+Figma,None,,
+FileCtor,https://github.com/tomaschyly/FileCtor,^9.2.0,TRUE
+Fileside,None,,
+Final-Countdown,None,,
+Find Better Questions,None,,
+Fireman,None,,
+Fishing Funds,https://github.com/1zilc/fishing-funds,^26.0.0,TRUE
+Flawesome,None,,
+FLB Music,https://github.com/Patrick-web/FLB-Music-Player-Official,13.2.2,TRUE
+FleetDeck,None,,
+FlexPaper,None,,
+Flow,None,,
+Fluent Reader,https://github.com/yang991178/fluent-reader,^21.0.1,TRUE
+Focused Task,None,,
+Fog,None,,
+FontBase,None,,
+Forestpin Analytics,None,,
+Forget Me Not,None,,
+FotoJet,None,,
+Frame,https://github.com/floating/frame.git,23.1.3,TRUE
+Franz,None,,
+Free Chess Club,https://github.com/freechessclub/freechessclub-app,^24.1.3,TRUE
+Freeter,None,,
+Friends,None,,
+Front,None,,
+Fudget,None,,
+Galeri,None,,
+Gaucho,https://github.com/angrykoala/gaucho,~13.1.9,TRUE
+GaussSense Desktop,None,,
+GDevelop,https://github.com/4ian/GDevelop,18.2.2,TRUE
+Geeks Diary,None,,
+Geniemoji,https://github.com/virejdasani/Geniemoji,^12.0.4,TRUE
+Getränkeliste App,None,,
+Gibu,None,,
+Git-it,None,,
+GitBook,None,,
+GitHoard,None,,
+GitHub Desktop,https://github.com/desktop/desktop,26.2.1,FALSE
+Gitify,https://github.com/manosim/gitify,^13.1.7,TRUE
+GitKraken,None,22.3.24,FALSE
+Gitscout,None,,
+Gluppi,None,,
+Glyphr Studio,None,,
+Gordie,None,,
+GrabCAD Print,None,,
+GramTools,None,,
+GraphiQL,None,,
+GraphQL Playground,None,,
+graSSHopper,None,,
+Gravit Designer,None,,
+Graviton Editor,https://github.com/Graviton-Code-Editor/Graviton-App,^10.1.5,TRUE
+gSubs,https://github.com/sanjevirau/gsubs/,~9.1.0,TRUE
+HashTag,None,,
+HBBatchBeast,None,,
+heads-tails,https://github.com/SmartHoldemDAPPs/heads-tails,,
+Headset,None,,
+healthi,https://github.com/pablopunk/healthi-app,^15.5.5,TRUE
+Hearo,None,,
+Helios Launcher,None,,
+Heroic,None,,
+HexoClient,https://github.com/gaoyoubo/hexo-client,^7.2.4,TRUE
+Hive,None,,
+homura,None,,
+Horen,None,,
+Hoster,None,,
+Hozz,None,,
+HTTP Toolkit,https://github.com/httptoolkit,,
+HTTPS Checker,None,,
+Hyper,https://github.com/vercel/hyper,22.3.24,FALSE
+Hyperspace,None,,
+i18n Manager,None,,
+i5sing,None,,
+Iconset,None,,
+Illyriad,None,,
+Image Optimizer,None,,
+ImageShrinker,https://github.com/stefansl/image-shrinker,^11.2.1,TRUE
+Imagine,None,,
+Inboxer,https://github.com/denysdovhan/inboxer,^3.0,TRUE
+INDE Writer,None,,
+InfiniTex,None,,
+Infiniti Clips,https://github.com/azure06/infiniti-clips.git,^21.2.0,TRUE
+Infinity,None,,
+Inkdrop,None,,
+Insomnia,https://github.com/getinsomnia/insomnia,25.8.1,FALSE
+Instatron,None,,
+Interactive Data Editor,None,,
+Intu-Mind,None,,
+Invizi,https://github.com/invizi/invizi/,^8.3.0,TRUE
+ioui,None,,
+Iperius Console,None,,
+IPTVnator,None,,
+Istrolid,None,,
+itch,https://github.com/itchio/itch,^22.3.14,TRUE
+Jabra Direct,None,"16,2,2",TRUE
+jamovi,https://github.com/jamovi/jamovi,,
+JANDI,None,,
+Janpankana,None,,
+Janus Workspace,None,,
+Jasper,https://github.com/jasperapp/jasper,18.0.4,TRUE
+Joplin,https://github.com/laurent22/joplin,25.8.1,FALSE
+jqi,None,,
+Juggernaut,https://github.com/LN-Juggernaut/juggernaut-desktop,8.2.0,TRUE
+Jukeboks,None,,
+JumpFm,https://github.com/Gilad-Kutiel-App/jumpfm,,
+Kahla,https://github.com/AiursoftWeb/Kahla.App,^8.3.0,TRUE
+kalk,None,,
+KanKan,None,,
+Kap,https://github.com/wulkano/kap,13.6.9,TRUE
+Kaplan Desktop,https://github.com/kaplanPRO/kaplan-desktop,,
+kappo,None,,
+Karaoke Mugen,https://gitlab.com/karaokemugen/karaokemugen-app,,
+Katana,None,,
+Kattana,None,,
+Keeper Password Manager & Digital Vault,None,,
+KeeWeb,https://github.com/keeweb/keeweb,^12.0.7,TRUE
+KeyCombiner,https://github.com/tkainrad/keycombiner,,
+Kinesis CI,https://github.com/Kinesis-CI/education-and-innovation,,
+Kitematic,None,,
+Knowte,https://github.com/digimezzo/knowte-electron,17.3.1,TRUE
+Kobiton,None,,
+Kube Dev Dashboard,https://github.com/prsh9/KubeCtl-Dashboard,^22.0.0,TRUE
+Kube Forwarder,https://github.com/pixel-point/kube-forwarder,12.0.2,TRUE
+LaraDumps,https://github.com/laradumps/app,26.2.1,FALSE
+Laravel Kit,https://github.com/tmdh/laravel-kit,21.0.1,TRUE
+Last Hit,https://github.com/last-hit-aab/last-hit,^7.1.1,TRUE
+Laverna,None,,
+Lax,None,,
+lazyType,None,,
+LBRY Desktop,https://github.com/lbryio/lbry-desktop,17.2.0,TRUE
+LeafView,None,,
+Lectrote,None,,
+Left,https://hundredrabbits.itch.io/left,,
+Lepton,https://github.com/hackjutsu/Lepton,^13.0.0,TRUE
+Light Table,None,,
+lightgallery,https://github.com/sachinchoolur/lightgallery-desktop,,
+LightProxy,None,,
+linked,https://github.com/lostdesign/linked,17.0.0,TRUE
+Lisk Hub,https://github.com/LiskHQ/lisk-hub,25.2.0,TRUE
+Local by Flywheel,https://github.com/getflywheel/local-components,,
+Local Mock Server,None,,
+Lode,None,,
+LogSnag,https://github.com/LogSnag/LogSnag,,
+Loom,None,,
+Loop Team,None,,
+LosslessCut,None,,
+LoT - Lot of Things,https://github.com/Jisco/LotOfThings,,
+lsdeer,https://github.com/AlexanderPershin/lsdeer,^8.2.1,TRUE
+luna,None,,
+Lyna,None,,
+MagicCap,None,,
+Mailspring,https://github.com/Foundry376/Mailspring,17.4.0,TRUE
+Manyverse,https://gitlab.com/staltz/manyverse,,
+Markdown C3,None,,
+Markdownify,https://github.com/amitmerchant1990/electron-markdownify,^7.2.4,TRUE
+MarkText,None,,
+massCode,https://github.com/antonreshetov/massCode,^7.1.6,TRUE
+Master Tour,None,,
+Matrix Writer,None,,
+Mattermost,https://github.com/mattermost/desktop,26.2.1,FALSE
+MD5 Application,None,,
+mdp,https://github.com/ericlink/mdp,^13.1.6,TRUE
+media-dupes,None,,
+mediaChips,https://github.com/fupdec/mediaChips,^17.0.0,TRUE
+MeisterTask,None,,
+Mélodie,https://github.com/feugy/melodie,18.0.0,TRUE
+Merge Request Notifier,None,,
+Metastream,https://github.com/samuelmaddock/metastream,,
+Metronome,None,,
+Metronome Wallet,https://github.com/autonomoussoftware/metronome-wallet-desktop,13.1.4,TRUE
+Microsoft Teams,None,19.1.8  ,TRUE
+Microstockr,None,,
+Mikropausen,None,,
+Min,https://github.com/minbrowser/min,26.2.1,FALSE
+Mindmapp,https://github.com/Mindmapp/mindmapp,,
+Mingo,https://github.com/mingo-app/mingo,,
+Mini Diary,https://github.com/samuelmeuli/mini-diary,^8.3.0,TRUE
+Minimal Image Viewer,None,,
+Missive,None,,
+Mixmax,None,,
+MJML App,https://github.com/mjmlio/mjml-app,7.2.4,TRUE
+Mobile Locker,None,,
+Mobirise,https://github.com/Mobirise/Mobirise,,
+MockingBot,None,,
+Mockoon,https://github.com/255kb/mockoon,,
+modelDBA,None,,
+ModernDeck for Twitter,https://github.com/dangeredwolf/ModernDeck,^19.1.9,TRUE
+MonAmi Note,None,,
+MongoDB Compass,None,24.8.2,FALSE
+Mongomix,None,,
+Mongotron,None,,
+Monokle,https://github.com/kubeshop/monokle,26.2.2,TRUE
+monolith code,https://github.com/Haeri/MonolithCode2,^19.0.6,TRUE
+MonsterWriter,None,,
+Moonitor,None,,
+Moosync,https://github.com/Moosync/Moosync,,
+Morgen,None,,
+Motrix,https://github.com/agalwood/Motrix,^22.3.9,TRUE
+MoviePrint,https://github.com/fakob/MoviePrint_v004,7.1.11,TRUE
+Mr Noplay,https://github.com/scris/mrnoplay,,
+Mr.Dclutterer,None,,
+mStream,https://github.com/IrosTheBeggar/mStream,,
+muezzin,None,,
+Multiple File Manager,None,,
+Multrin,None,,
+Museeks,https://github.com/martpie/museeks,26.1.0,TRUE
+Music Player,https://github.com/Tenpi/Music-Player,^17.2.0,TRUE
+music-player,https://github.com/Aveek-Saha/MusicPlayer,^7.3.3,TRUE
+Musify,https://github.com/SrGMC/musify,^7.2.4,TRUE
+MuteMe,,23.2.2,TRUE
+MyLottery,https://gitee.com/gemron/myLottery,,
+MyTools,None,,
+NATTT,None,,
+Nertivia,https://github.com/supertiger1234/nertivia-desktop-app/,^15.3.1,TRUE
+Netron,https://github.com/lutzroeder/netron,26.2.2,TRUE
+Network Status Check,https://github.com/cjerrington/net-check,^22.0.0,TRUE
+NetworkAssembler,None,,
+NeuCalculator,None,,
+Nicepage,https://github.com/NicepageApp/Nicepage,,
+nimblenote,https://github.com/nimblenote/nimblenote,,
+NodemailerApp,https://github.com/nodemailer/nodemailer-app,,
+Norde Source,None,,
+NorthReader,None,,
+Nota,https://github.com/notaapp/releases,,
+Notable,https://github.com/notable/notable,,
+Notejoy,None,,
+Notion,None,26.2.1,FALSE
+nteract,https://github.com/nteract/nteract,11.5.0,TRUE
+NubiDo,None,,
+nuclear,https://github.com/nukeop/nuclear,^12.1.0,TRUE
+Nuclide,None,,
+nxshell,None,,
+Obsidian,None,25.8.1,FALSE
+octopi-init,https://github.com/OutsourcedGuru/octopi-init/blob/master/electron_README.md,2.0.8,TRUE
+ODrive,None,,
+OhHai Browser,https://github.com/OhHaiBrowser/Browser/,^8.2.5,TRUE
+One Copy,None,,
+Open Log Viewer,None,,
+Open Stage Control,None,,
+OpenBazaar,None,,
+OpenComic,None,,
+OpenSpeedTest-Server,https://github.com/openspeedtest/Speed-Test,,
+Oversetter,https://github.com/4gray/oversetter,^7.1.9,TRUE
+P3X OneNote,https://github.com/patrikx3/onenote,^25.8.2,FALSE
+P3X Redis UI,https://github.com/patrikx3/redis-ui,^26.1.0,TRUE
+PamFax,None,,
+Panda 2,None,,
+PanWriter,https://github.com/mb21/panwriter,^22.0.0,TRUE
+PaperArxiv,None,,
+PaperCubes,None,,
+Papyrus,None,,
+Parsify Desktop,None,,
+Particle Dev,None,,
+passky,https://github.com/Rabbit-Company/Passky-Desktop,^22.1.0,TRUE
+Patchwork,https://github.com/ssbc/patchwork,^11.3.0,TRUE
+Paymo Time Tracker,None,,
+Peacock,None,,
+PeerShare,None,,
+Pencil,https://github.com/evolus/pencil,16.0.0,TRUE
+Pendulums,https://github.com/Swing-team/pendulums-web-client,,
+Pennywise,None,,
+Petal,None,,
+Phiewer,None,,
+PhonePresenter,None,,
+Photo Viewer,None,,
+PhotoScreenSaver,None,,
+Pic Crop,None,,
+Picturama,https://github.com/picturama/picturama,~11.1.0,TRUE
+PileMd,None,,
+PiTV,https://github.com/ozankaraali/PiTV,22.0.0,TRUE
+Playback,None,,
+PlayCode,None,,
+Pocket Server,None,,
+Poddycast,None,,
+poi,https://github.com/poooi/poi,^24.2.0,TRUE
+Polypane,None,26.2.4,FALSE
+pomodoro-logger,None,,
+Pomolectron,None,,
+Pomotroid,https://github.com/Splode/pomotroid,^11.0.1,TRUE
+PopSQL,None,,
+Postbird,None,,
+Postman,None,18.3.5,TRUE
+Pragli,None,,
+PreMiD,https://github.com/PreMiD/PreMiD,11.3.0,TRUE
+Preserver,None,,
+Presets.io,None,,
+PrettyEarth,https://github.com/evertdespiegeleer/PrettyEarth,^15.0.0,TRUE
+PrexView,None,,
+Primate,https://github.com/getprimate/primate,^22.0.3,TRUE
+primitive.nextgen,None,,
+ProDoctor Medicamentos,None,,
+Proposales,None,,
+ProSecrec,https://github.com/HydroCarbons/ProSecrec,,
+ProtegoPDF,None,,
+Protoman,None,,
+ProtoPie,None,,
+Pullp,None,,
+Puppetry,https://github.com/dsheiko/puppetry/,^12.0.6,TRUE
+Putler,None,,
+Q-player,https://github.com/Toooorch/q-player/,,
+Qawl,https://github.com/sufone/qawl,^10.2.0,TRUE
+qikQR,None,,
+QMUI Web,https://github.com/QMUI/qmui_web_desktop,,
+Quail,None,,
+Quark,https://github.com/Nishkalkashyap/Quark-electron,^6.1.9,TRUE
+Quba E-Invoice Viewer,https://github.com/ZUGFeRD/quba-viewer,20.0.0,TRUE
+QuickBooks,None,,
+QuickRedis,https://github.com/quick123official/quick_redis_blog,15.5.5,TRUE
+r2e-todoworks,None,,
+R6RC,https://github.com/austinleath/r6rc,^9.1.0,TRUE
+Racompass,https://github.com/racompass/racompass,,
+Radio 50/50 Player,None,,
+Raider for Instagram,https://github.com/AssetKid/raider-release,,
+Rainbow Board,https://github.com/HarshKhandeparkar/rainbow-board,^12.0.1,TRUE
+Rambox,https://github.com/saenzramiro/rambox,13.6.3,TRUE
+Raven Reader,None,,
+raycho,None,,
+Reach Podcast Player,None,,
+React-Explorer,None,,
+Rebaslight,https://github.com/rebaslight/rebaslight,^23.1.0,TRUE
+Recode Converter,https://github.com/murgatt/recode-converter,^11.5.0,TRUE
+Recollectr,https://github.com/Recollectr/releases,,
+Redis GUI (unofficial),https://github.com/ekvedaras/redis-gui,19.1.9,TRUE
+Remaining Time,None,,
+Remember,None,,
+Remind,None,,
+Remindr,https://github.com/MrDavidRios/remindr_releases,,
+RemSupp,None,,
+RenderTune,https://github.com/MartinBarker/RenderTune,11.3.0,TRUE
+Repic,None,,
+ReqView,None,,
+Responsively App,https://github.com/manojVivek/responsively-app,,
+Responsivize,https://github.com/virejdasani/Responsivize,^12.0.7,TRUE
+Reversee,None,,
+RIDE,None,,
+Ride Receipts,https://github.com/ridereceipts/ridereceipts,^9.0.4,TRUE
+Riot,https://github.com/vector-im/element-desktop,^26.2.1,FALSE
+rmclient,None,,
+Rocket.Chat,None,,
+RunJS,None,,
+Runlet,https://github.com/runletapp/runlet,,
+RStudio,https://github.com/rstudio/rstudio,26.2.4,FALSE
+Saadhn,None,,
+Scratch For Discord,https://github.com/scratch-for-discord/scratch-for-discord-app,^19.0.8,TRUE
+ScreenCat,None,,
+ScreenTray,https://github.com/DSnopov/screentray-distribution,,
+SeaPig,https://github.com/yasumichi/seapig,^7.0.0,TRUE
+Sejda PDF Desktop,None,^7.0.0,TRUE
+Sencha Architect,None,,
+Sencha Inspector,None,,
+Sencha Test,None,,
+Sencha Themer,None,,
+SEOBrowse,https://github.com/seobrowse/serp/,^9.0.0,TRUE
+Serene App,None,,
+Serina,https://github.com/ORN-Fox/serina-1,^24.2.0,TRUE
+Ses,None,,
+sFTP Client,None,,
+shadowsocks-electron,None,,
+Shapespark,None,,
+sheepChat,None,,
+Shift,None,,
+Shuttle,None,,
+Signal,https://github.com/signalapp/Signal-Desktop,25.8.1,FALSE
+Silex website builder,https://github.com/silexlabs/silex-desktop/,10.1.5,TRUE
+Simpico,None,,
+Simple-Finder,None,,
+SimpleInstaBot,https://github.com/mifi/SimpleInstaBot,^19.1.8,TRUE
+Simplenote,https://github.com/Automattic/simplenote-electron,12.0.5,TRUE
+Singlebox,https://github.com/webcatalog/neutron,18.0.1,TRUE
+Sizzy,None,,
+Skype,None,,
+Slack,None,26.2.1,FALSE
+Slapdash,None,,
+sleek,None,,
+Smallpdf,None,,
+SnailFM,https://github.com/snaildos/SnailFM-Application,25.8.1,FALSE
+SnipAway,None,,
+SnipCommand,None,,
+Snipline,None,,
+Snippet Store,https://github.com/ZeroX-DG/SnippetStore,^7.3.3,TRUE
+SnowyOwl,None,,
+Social Amnesia,None,,
+Socially,https://github.com/JackHumphries9/Socially,^12.0.2,TRUE
+Sofia,None,,
+Somiibo,None,,
+SongRiffer,None,,
+Sononym,None,,
+Soundboard,None,,
+Soundglass,None,,
+Soundnode,https://github.com/Soundnode/soundnode-app,^8.0.1,TRUE
+Source Me,None,,
+SpaceEye,https://github.com/KYDronePilot/SpaceEye,~9.2.0,TRUE
+SparkChess,None,,
+SpinShare Client,https://github.com/SpinShare/client,12.2.3,TRUE
+Splice,None,,
+spofly,https://github.com/itsjustaplant/spofly,,
+SportFX Studio,None,,
+SpotSpot,None,,
+Spreaker Studio,None,,
+Sqlectron,https://github.com/sqlectron/sqlectron-gui,^12.0.1,TRUE
+sqlui-native,https://github.com/synle/sqlui-native,^20.2.0,TRUE
+Stack,None,,
+stacker,https://github.com/enqueuer-land/stacker,^22.3.24,FALSE
+Stacks,None,,
+STAMP,None,,
+Standard Notes,https://github.com/standardnotes/desktop,17.4.2,TRUE
+Standup Picker,https://github.com/Mokkapps/scrum-daily-standup-picker,^16.0.7,TRUE
+Station,None,,
+stay-hydrated,None,,
+SteelSeries Engine 3,None,23.1.3,TRUE
+StickyNotes,None,,
+Stinker,https://github.com/PatentLobster/stinker,^11.4.11,TRUE
+Stockifier,None,,
+Stopawu,None,,
+StopLight,None,,
+Storaji,None,,
+Storm,https://github.com/StormSDK/StormApp,,
+StreamBop,https://github.com/snaildos/StreamBop,25.8.1,FALSE
+Streamlabs Desktop,https://github.com/stream-labs/desktop,17.4.11,TRUE
+Street View Download 360,None,,
+StudioTrans,None,,
+StudyMD,None,,
+Sturdy,https://github.com/sturdy-dev/sturdy,19.0.0-alpha.3,TRUE
+Subordination,None,,
+Subtitler,https://github.com/s8sachin/subtitler,^8,TRUE
+Super Productivity,https://github.com/johannesjo/super-productivity,^23.3.13,TRUE
+Superpowers — HTML5 2D+3D game maker,None,,
+Superscript,None,,
+Svgsus,None,,
+Swifty,None,,
+Swit,None,,
+Switch,https://github.com/ahkohd/switch-desktop,^7.0.0-beta.6,TRUE
+SwitchHosts,https://github.com/oldj/SwitchHosts,24.8.3,FALSE
+Symphony,https://github.com/symphonyoss/SymphonyElectron,^26.2.1,FALSE
+Synap,None,,
+T.Viewer,None,,
+Tabby,None,,
+Tabby Terminal,https://github.com/Eugeny/tabby,^25.3.0,TRUE
+TagFlow,None,,
+TagSpaces,https://github.com/tagspaces/tagspaces,25.1.1,TRUE
+Tagstoo,https://sourceforge.net/projects/tagstoo/files/Tagstoo__sourcecode/,,
+Taskade,None,,
+Taskana,https://github.com/mountainash/taskana,24.1.2,TRUE
+TEA Ebook,None,,
+Teleios Bible,None,,
+Ten Hands,https://github.com/saisandeepvaddi/ten-hands,,
+Tèsèvè,https://github.com/teseve/teseve,1.2.1,TRUE
+Tess,None,,
+TestCafe Studio,None,,
+TestMace,https://github.com/TestMace/TestMace-issues,,
+Testrec,None,,
+texpaste,None,,
+TextureLab,https://github.com/njbrown/texturelab,^13.0.0,TRUE
+The Poker Timer,None,,
+themebuilder,None,,
+ThisMyPC,None,,
+Thorium Reader,https://github.com/edrlab/thorium-reader/,^25.5.0,TRUE
+Threema For Desktop,None,,
+ThunderDocs,None,,
+TIDAL,None,,
+TidGi,None,,
+Tilde,None,,
+Tiliq,None,,
+Time Series Admin,https://github.com/timeseriesadmin/timeseriesadmin,8.5.2,TRUE
+Time Zone Converter and World Clock,None,,
+timeBuzzer,None,,
+Timetable,None,,
+To Do,https://github.com/luapp/ToDo,^11.1.1,TRUE
+Tockler,https://github.com/MayGo/tockler,,
+todometer,https://github.com/cassidoo/todometer/,^22.0.2,TRUE
+Tofino,None,,
+tonfotos,None,,
+Top Browser,https://bitbucket.org/speedydemon/electron_top_browser/,,
+Tough Cookies,None,,
+Trackabi Time Tracker,https://github.com/Trackabi/desktop-time-tracking,,
+TrackingTime,None,,
+Transee,https://github.com/alessioforte/transee,^18.0.1,TRUE
+Translation Editor,https://bitbucket.org/bflower/react-intl-editor,,
+Translatium,https://github.com/webcatalog/translatium-desktop,16.1.0,TRUE
+Trello,None,,
+TriCo,None,,
+Trilium Notes,None,,
+Trivia Desktop,None,,
+Tropy,https://github.com/tropy/tropy/,^26.1.0,TRUE
+Trym,None,,
+ttth,None,,
+Tunlookup,https://github.com/thephucit/tunlookup,,
+Turbo Download Manager,None,,
+Tusk,https://github.com/klaussinani/tusk,6.0.11,TRUE
+Tutti Quanti Shelf,None,,
+TweakStyle,None,,
+Tweeten,None,,
+Twinkle Tray,https://github.com/xanderfrangos/twinkle-tray,^20.3.6,TRUE
+Twitch,None,,
+TwitterTron,https://github.com/afractal/twittertron-app,,
+Typetalk,None,,
+Tzared,None,,
+U Stair,https://github.com/afmorenosa/U_Stair,^9.3.4,TRUE
+UbAuth,https://github.com/chrisenytc/ubauth,,
+ueli,https://github.com/oliverschwendener/ueli,^26.2.1,FALSE
+UMLBoard,None,,
+Unfx Proxy Checker,https://github.com/assnctr/unfx-proxy-checker,^20.1.4,TRUE
+Unicopedia Plus,None,,
+Unicopedia Sinica,None,,
+Unofficial Desktop Client for Google Assistant,None,,
+Unofficial Google Chat App,None,,
+Unofficial Zalo,None,,
+Upcount,https://github.com/madisvain/upcount,^10.2.0,TRUE
+uPhone,None,,
+Utilso,None,,
+Vade Mecum Shelf,None,,
+Vagrant Manager,None,,
+Vectr,None,,
+Vershd,None,,
+Video Hub App,None,,
+Video Player,None,,
+Vikunja,https://code.vikunja.io/desktop,26.2.3,TRUE
+Visual Family Tree,https://github.com/Jisco/VisualFamilyTree,,
+Visual Studio Code,https://github.com/microsoft/vscode,25.8.2,FALSE
+VivifyScrum,https://github.com/Vivify-Ideas/vivifyscrum2-electron/,,
+VK Messenger,None,,
+Voice Notifies,None,,
+VoIPstudio,None,,
+Vrap,None,,
+Vue Calc,None,,
+VuPC,None,,
+Waifu2x GUI,None,,
+WAIL,None,,
+Waiterio Restaurant POS,None,,
+Wakefy,None,,
+Walling,None,,
+Wanna Class,None,,
+Waqt,None,,
+Wayward,None,,
+wdOS,https://github.com/Webdeskme/wdOS/releases,,
+Web Net,https://github.com/MEGAMINDMK,,
+Web Toolbox,None,,
+WebCatalog,None,,
+Webkiosk-Wrapper,None,,
+WebKitty,https://github.com/yikuansun/webkitty,^17.1.0,TRUE
+WebTorrent,https://github.com/webtorrent/webtorrent-desktop,15.5.7,TRUE
+WeekToDo,None,,
+WeFlow,None,,
+WeightHub,None,,
+Weltenschaft,None,,
+Wexond,None,,
+Whale,None,,
+WhatsApp,None,,
+Wildlink,None,,
+winds.yml,https://github.com/getstream/winds,,
+Wire,https://github.com/wireapp,,
+WizardMirror,https://www.github.com/Sanjit1/WizardMirror,^6.0.2,TRUE
+wnr,https://github.com/RoderickQiu/wnr,22.3.18,TRUE
+WordMark,None,,
+WordofTheHour,None,,
+WordPress,None,,
+WorkPuls,None,,
+WORKSHEETS Data Studio,https://github.com/FalconSoft/worksheets-data.studio,,
+World History AP,None,,
+WoW Stat,None,,
+WriteBar,https://github.com/alexander-shvets/writebar,,
+XMind ZEN,None,,
+Xuanxuan IM,None,,
+y2mp3,None,,
+yana,https://github.com/lukasbach/yana,^10.1.1,TRUE
+Yet-Another-Gitbook-Reader,None,,
+Yoheim,None,,
+Yout,None,,
+Youtube Music for Desktop (Unofficial),https://github.com/Venipa/ytmdesktop2,^20.3.3,TRUE
+YTMDesktop App,https://github.com/adlerluiz/ytmdesktop,^11.4.9,TRUE
+Zap,https://github.com/LN-Zap/zap-desktop,9.4.4,TRUE
+Zector,None,,
+Zefenify,https://github.com/Zefenify/Wolf-Cola,,
+Zello,None,,
+Zeplin,None,,
+Zerabase,None,,
+Zettlr,https://github.com/zettlr/zettlr,^25.8.1,FALSE
+Znote,https://github.com/alagrede/znote-app,,
+zonote,None,,
+Zoommy,None,,
+Zulip,https://github.com/zulip/zulip-desktop,^25.8.1,FALSE
+白前,None,,
