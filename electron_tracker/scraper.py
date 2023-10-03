@@ -1,5 +1,7 @@
 import requests
+import json
 from bs4 import BeautifulSoup
+from .logger import *
 
 def has_package_json(html: str) -> str:
     """
@@ -12,7 +14,7 @@ def has_package_json(html: str) -> str:
     
     html: str - Text response of a HTTP request
     """
-    soup = BeautifulSoup(html)
+    soup = BeautifulSoup(html, features="html.parser")
     clean_links = [l for l in soup.find_all("a") if "href" in l.attrs] 
     package_links = [a["href"] for a in soup.find_all("a") if "href" in a.attrs and "package.json" in a["href"]]
     if len(package_links) > 0:
@@ -38,12 +40,12 @@ def search_package_json(repo_url: str) -> str:
         found_package_json = has_package_json(repo_res.text)
         # If it's package.json, we're done
         if found_package_json:
-            info("Found package.json at /")
+            info(f"Found package.json at {repo_url}")
             return "https://" + repo_url.split("/")[2] + found_package_json
         # Otherwise, we go through each likely dir
         else:
-            warn(f"Package.json not found at root; trying directories")
-            soup = BeautifulSoup(repo_res.text) 
+            warn(f"Package.json not found at root of {repo_url}; trying directories")
+            soup = BeautifulSoup(repo_res.text, features="html.parser") 
             # Look for tree links, but we have to (for sanity) stay in main branches. Sorry, Signal
             clean_links = [l for l in soup.find_all("a") if "href" in l.attrs] 
             links = [l["href"] for l in clean_links if "tree/main" in l["href"] or "tree/master" in l["href"]]
@@ -52,7 +54,7 @@ def search_package_json(repo_url: str) -> str:
                 info(f"Trying {url}")
                 file_res = requests.get(url).text
                 if has_package_json(file_res):
-                    info(f"Found package.json in: {url}")
+                    info(f"Found package.json in {url}")
                     return url 
             else:
                 crit("Could not find package.json in first-level-subdirs")                 
@@ -65,7 +67,15 @@ def get_electron_version(package_json_url: str) -> str:
     info(f"Getting {package_json_url}")
     package_res = requests.get(package_json_url)
     if package_res.status_code == 200:
-        package_json_data = json.loads("".join(package_res.json()["payload"]["blob"]["rawLines"]))
+        try:
+            package_json_data = json.loads("".join(package_res.json()["payload"]["blob"]["rawLines"]))
+        except json.JSONDecodeError:
+            crit(f"Could not retrieve electron version from f{package_json_url}")
+            return None
+        except KeyError:
+            crit(f"Could not extract raw lines from f{package_json_url}")
+            return None
+
         for k in ["devDependencies", "dependencies"]:
             if k in package_json_data.keys():
                 test_deps = package_json_data[k]
