@@ -45,7 +45,7 @@ Buka,,,,programmatic,unknown,unknown
 Buttercup,https://github.com/buttercup/buttercup-desktop,^22.0.0,2023-10-02 22:10:03-0700,programmatic,vulnerable,vulnerable
 Cacher,,,,programmatic,unknown,unknown
 Calmly Writer,,,,programmatic,unknown,unknown
-Camunda Modeler,https://github.com/camunda/camunda-modeler/,^26.0.0,2023-10-02 22:10:04-0700,programmatic,vulnerable,vulnerable
+Camunda Modeler,https://github.com/camunda/camunda-modeler/,^26.2.4,2023-10-03 10:42:00+0200,manual,patched,patched
 canSnippet,,,,programmatic,unknown,unknown
 Caption Pro,,,,programmatic,unknown,unknown
 Caret,,,,programmatic,unknown,unknown
