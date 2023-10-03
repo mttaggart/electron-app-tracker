@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "electron-app-tracker"
+version = "0.1.0"
+description = "Electron App vulnerability tracker"
+authors = ["Michael Taggart <mtaggart@taggart-tech.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+jupyterlab = "^4.0.6"
+rich = {extras = ["jupyter"], version = "^13.6.0"}
+requests = "^2.31.0"
+semver = "^3.0.1"
+bs4 = "^0.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
