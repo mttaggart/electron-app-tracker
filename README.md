@@ -23,4 +23,6 @@ Electron will continue to inherit vulnerabilities, so this tracker is designed t
 
 ## Contributing 
 
-Contributing is easy! Simply open a Pull Request updating `electron_apps.csv` with a `manual` access type. Please provide evidence of the versions of the apps you're updating. And thank you for helping with the effort!
+Contributing is easy! Simply open a Pull Request updating `electron_apps.csv` with a `manual` access type. Please provide evidence of the versions of the apps you're updating. We are particularly in need of any updates on the apps listed as `manual`.
+
+And thank you for helping with the effort!
