@@ -1,52 +1,52 @@
 app_name,repo,electron_version,date_accessed,access_type,vulnerable_cve_2023_4863,vulnerable_cve_2023_5217
 1Clipboard,https://github.com/wiziple/1clipboard,,,programmatic,unknown,unknown
-1Password,,25.8.1,,programmatic,patched,unknown
+1Password,,25.8.1,,manual,patched,vulnerable
 3CX Desktop App,,19.0.8,,programmatic,vulnerable,unknown
 5EClient,,,,programmatic,unknown,unknown
 Abstract,,,,programmatic,unknown,unknown
 Account Surfer,,,,programmatic,unknown,unknown
-Advanced REST Client,https://github.com/advanced-rest-client/arc-electron,^17.0.0,2023-10-03 01:39:48-0700,programmatic,vulnerable,vulnerable
+Advanced REST Client,https://github.com/advanced-rest-client/arc-electron,^17.0.0,2023-10-03 19:10:52-0700,programmatic,vulnerable,vulnerable
 Aedron Shrine,,,,programmatic,unknown,unknown
-Aeon,https://github.com/leinelissen/aeon,23.2.0,2023-10-03 01:39:49-0700,programmatic,vulnerable,vulnerable
+Aeon,https://github.com/leinelissen/aeon,23.2.0,2023-10-03 19:10:54-0700,programmatic,vulnerable,vulnerable
 Aether,https://github.com/aethereans/aether-app,,,programmatic,unknown,unknown
-Agora Flat,https://github.com/netless-io/flat,,2023-10-03 01:39:52-0700,programmatic,unknown,unknown
+Agora Flat,https://github.com/netless-io/flat,,2023-10-03 19:10:56-0700,programmatic,unknown,unknown
 Aipo.com,,,,programmatic,unknown,unknown
 Airtame,,,,programmatic,unknown,unknown
-Altair GraphQL Client,https://github.com/imolorhe/altair,,2023-10-03 01:39:54-0700,programmatic,unknown,unknown
+Altair GraphQL Client,https://github.com/imolorhe/altair,,2023-10-03 19:10:58-0700,programmatic,unknown,unknown
 Amialive,,,,programmatic,unknown,unknown
 AnotherRedisDesktopManager,,,,programmatic,unknown,unknown
-Antares,https://github.com/Fabio286/antares,~22.3.23,2023-10-03 01:39:55-0700,programmatic,vulnerable,vulnerable
-Appium Desktop,https://github.com/appium/appium-desktop,^10.0,2023-10-03 01:39:57-0700,programmatic,vulnerable,vulnerable
+Antares,https://github.com/Fabio286/antares,~22.3.23,2023-10-03 19:10:59-0700,programmatic,vulnerable,vulnerable
+Appium Desktop,https://github.com/appium/appium-desktop,^10.0,2023-10-03 19:11:01-0700,programmatic,vulnerable,vulnerable
 Arena,,,,programmatic,unknown,unknown
 Asana,,,,programmatic,unknown,unknown
-Assessment Disaggregation,https://github.com/tazzben/Assessment-Disaggregation.git,^25.8.1,2023-10-03 01:39:58-0700,programmatic,patched,vulnerable
+Assessment Disaggregation,https://github.com/tazzben/Assessment-Disaggregation.git,^25.8.1,2023-10-03 19:11:03-0700,programmatic,patched,vulnerable
 Assetizr,,,,programmatic,unknown,unknown
 AstroPrint Desktop,,,,programmatic,unknown,unknown
-Atom,https://github.com/atom/atom,,2023-10-03 01:39:59-0700,programmatic,unknown,unknown
+Atom,https://github.com/atom/atom,,2023-10-03 19:11:04-0700,programmatic,unknown,unknown
 Authy,,16.2.8,,programmatic,vulnerable,unknown
-awsaml,https://github.com/rapid7/awsaml,,,programmatic,unknown,unknown
-Barklarm,https://github.com/kanekotic/barklarm,25.3.2,2023-10-03 01:40:01-0700,programmatic,vulnerable,vulnerable
+awsaml,https://github.com/rapid7/awsaml,^26.1.0,2023-10-03 19:11:05-0700,programmatic,vulnerable,vulnerable
+Barklarm,https://github.com/kanekotic/barklarm,25.3.2,2023-10-03 19:11:07-0700,programmatic,vulnerable,vulnerable
 Basecamp 3,,,,programmatic,unknown,unknown
 Bdash,,,,programmatic,unknown,unknown
 Beaker Browser,https://github.com/beakerbrowser/beaker,,,programmatic,unknown,unknown
-Beekeeper Studio,https://github.com/beekeeper-studio/beekeeper-studio,,2023-10-03 01:40:05-0700,programmatic,unknown,unknown
-Believers Sword,https://github.com/Bible-Projects/believers-sword-app,^19.0.0,2023-10-03 01:40:07-0700,programmatic,vulnerable,vulnerable
+Beekeeper Studio,https://github.com/beekeeper-studio/beekeeper-studio,,2023-10-03 19:11:11-0700,programmatic,unknown,unknown
+Believers Sword,https://github.com/Bible-Projects/believers-sword-app,^19.0.0,2023-10-03 19:11:12-0700,programmatic,vulnerable,vulnerable
 bibisco,https://github.com/andreafeccomandi/bibisco/,,,programmatic,unknown,unknown
 Biscuit,,,,programmatic,unknown,unknown
-Blockbench,https://github.com/JannisX11/blockbench,^25.7.0,2023-10-03 01:40:10-0700,programmatic,vulnerable,vulnerable
+Blockbench,https://github.com/JannisX11/blockbench,^25.7.0,2023-10-03 19:11:15-0700,programmatic,vulnerable,vulnerable
 Boost Changer,,,,programmatic,unknown,unknown
 Bootstrap Studio,,,,programmatic,unknown,unknown
-BoxHero,https://github.com/bgpworks/boxhero-electron,23.0.0,2023-10-03 01:40:11-0700,programmatic,vulnerable,vulnerable
+BoxHero,https://github.com/bgpworks/boxhero-electron,23.0.0,2023-10-03 19:11:16-0700,programmatic,vulnerable,vulnerable
 Boxy SVG,,,,programmatic,unknown,unknown
-Brim,https://github.com/brimsec/brim,,2023-10-03 01:40:13-0700,programmatic,unknown,unknown
+Brim,https://github.com/brimsec/brim,,2023-10-03 19:11:17-0700,programmatic,unknown,unknown
 Brisqi,,,,programmatic,unknown,unknown
 Browserosaurus,,,,programmatic,unknown,unknown
 Buckets,,,,programmatic,unknown,unknown
 Buka,,,,programmatic,unknown,unknown
-Buttercup,https://github.com/buttercup/buttercup-desktop,^22.0.0,2023-10-03 01:40:14-0700,programmatic,vulnerable,vulnerable
+Buttercup,https://github.com/buttercup/buttercup-desktop,^22.0.0,2023-10-03 19:11:18-0700,programmatic,vulnerable,vulnerable
 Cacher,,,,programmatic,unknown,unknown
 Calmly Writer,,,,programmatic,unknown,unknown
-Camunda Modeler,https://github.com/camunda/camunda-modeler/,^26.2.4,2023-10-03 01:40:15-0700,programmatic,patched,patched
+Camunda Modeler,https://github.com/camunda/camunda-modeler/,^26.2.4,2023-10-03 19:11:20-0700,programmatic,patched,patched
 canSnippet,,,,programmatic,unknown,unknown
 Caption Pro,,,,programmatic,unknown,unknown
 Caret,,,,programmatic,unknown,unknown
@@ -56,29 +56,29 @@ CatLight,,,,programmatic,unknown,unknown
 CBETA Reader 2 (Unofficial),,,,programmatic,unknown,unknown
 ChatWork,,,,programmatic,unknown,unknown
 Chronobreak,,,,programmatic,unknown,unknown
-Cider,https://github.com/ciderapp/Cider,github:castlabs/electron-releases,2023-10-03 01:40:16-0700,programmatic,vulnerable,vulnerable
+Cider,https://github.com/ciderapp/Cider,github:castlabs/electron-releases,2023-10-03 19:11:21-0700,programmatic,vulnerable,vulnerable
 clipboard-manager-electron,,,,programmatic,unknown,unknown
 Clipper,,,,programmatic,unknown,unknown
 clippo,,,,programmatic,unknown,unknown
 cliptext,,,,programmatic,unknown,unknown
 clockodo,,,,programmatic,unknown,unknown
-Clovery,https://github.com/webcatalog/neutron,18.0.1,2023-10-03 01:40:18-0700,programmatic,vulnerable,vulnerable
+Clovery,https://github.com/webcatalog/neutron,18.0.1,2023-10-03 19:11:22-0700,programmatic,vulnerable,vulnerable
 CLtracer,,,,programmatic,unknown,unknown
-Cocos Creator,https://github.com/cocos-creator/engine,,2023-10-03 01:40:19-0700,programmatic,unknown,unknown
-Codex,https://github.com/jcv8000/Codex,^22.3.18,2023-10-03 01:40:20-0700,programmatic,vulnerable,vulnerable
+Cocos Creator,https://github.com/cocos-creator/engine,,2023-10-03 19:11:24-0700,programmatic,unknown,unknown
+Codex,https://github.com/jcv8000/Codex,^22.3.18,2023-10-03 19:11:25-0700,programmatic,vulnerable,vulnerable
 Colibri,,,,programmatic,unknown,unknown
 Collectie,,,,programmatic,unknown,unknown
 Color Ramp Formulator,,,,programmatic,unknown,unknown
-Colorpicker,https://github.com/Toinane/colorpicker,^19.1.7,2023-10-03 01:40:22-0700,programmatic,vulnerable,vulnerable
-Commandeer,https://github.com/commandeer/open,,2023-10-03 01:40:23-0700,programmatic,unknown,unknown
+Colorpicker,https://github.com/Toinane/colorpicker,^19.1.7,2023-10-03 19:11:26-0700,programmatic,vulnerable,vulnerable
+Commandeer,https://github.com/commandeer/open,,2023-10-03 19:11:27-0700,programmatic,unknown,unknown
 Compact Log Viewer,,,,programmatic,unknown,unknown
 Companion,,,,programmatic,unknown,unknown
 Composercat,,,,programmatic,unknown,unknown
 Compress,,,,programmatic,unknown,unknown
 Container PS,,,,programmatic,unknown,unknown
 Copy 2 Online,,,,programmatic,unknown,unknown
-Cozy Desktop,https://github.com/cozy-labs/cozy-desktop,23.0.0,2023-10-03 01:40:24-0700,programmatic,vulnerable,vulnerable
-CryptoARM GOST,https://github.com/TrustedRu/CryptoARMGOST,7.1.13,2023-10-03 01:40:26-0700,programmatic,vulnerable,vulnerable
+Cozy Desktop,https://github.com/cozy-labs/cozy-desktop,23.0.0,2023-10-03 19:11:28-0700,programmatic,vulnerable,vulnerable
+CryptoARM GOST,https://github.com/TrustedRu/CryptoARMGOST,7.1.13,2023-10-03 19:11:30-0700,programmatic,vulnerable,vulnerable
 csBooks,https://github.com/caesiumstudio/csBooks-updates.git,,,programmatic,unknown,unknown
 csgo-tracker,,,,programmatic,unknown,unknown
 CyberX,,,,programmatic,unknown,unknown
@@ -87,106 +87,106 @@ Cycligent Git Tool,,,,programmatic,unknown,unknown
 Danger Crew,,,,programmatic,unknown,unknown
 DarkJ,,,,programmatic,unknown,unknown
 Dashy,,,,programmatic,unknown,unknown
-Dat,https://github.com/datproject/dat-desktop,^6.1.7,2023-10-03 01:40:29-0700,programmatic,vulnerable,vulnerable
+Dat,https://github.com/datproject/dat-desktop,^6.1.7,2023-10-03 19:11:33-0700,programmatic,vulnerable,vulnerable
 Data Pixels Playground,,,,programmatic,unknown,unknown
 Data-Forge Notebook,,,,programmatic,unknown,unknown
 Datazenit,,,,programmatic,unknown,unknown
 DBcloner,https://github.com/felipeleivav/dbcloner-app,,,programmatic,unknown,unknown
-DbGate,https://github.com/dbgate/dbgate,,2023-10-03 01:40:32-0700,programmatic,unknown,unknown
-DBGlass,https://github.com/web-pal/DBGlass,,2023-10-03 01:40:33-0700,programmatic,unknown,unknown
+DbGate,https://github.com/dbgate/dbgate,,2023-10-03 19:11:36-0700,programmatic,unknown,unknown
+DBGlass,https://github.com/web-pal/DBGlass,,2023-10-03 19:11:37-0700,programmatic,unknown,unknown
 Debugtron,,,,programmatic,unknown,unknown
-DECK,https://github.com/sfx101/docker-stacks,^13.0.0,2023-10-03 01:40:35-0700,programmatic,vulnerable,vulnerable
+DECK,https://github.com/sfx101/docker-stacks,^13.0.0,2023-10-03 19:11:39-0700,programmatic,vulnerable,vulnerable
 Deckboard,https://github.com/rivafarabi/deckboard,,,programmatic,unknown,unknown
-DeckMaster,https://github.com/TheOtterlord/deckmaster,^11.2.1,2023-10-03 01:40:38-0700,programmatic,vulnerable,vulnerable
+DeckMaster,https://github.com/TheOtterlord/deckmaster,^11.2.1,2023-10-03 19:11:42-0700,programmatic,vulnerable,vulnerable
 Deco IDE,https://github.com/decosoftware/deco-ide,,,programmatic,unknown,unknown
 Deepnest,,,,programmatic,unknown,unknown
 Deer,,,,programmatic,unknown,unknown
 Demio,,,,programmatic,unknown,unknown
 Demoflow,,,,programmatic,unknown,unknown
-Deskfiler,https://github.com/deskfiler/deskfiler,6.0.9,2023-10-03 01:40:42-0700,programmatic,vulnerable,vulnerable
+Deskfiler,https://github.com/deskfiler/deskfiler,6.0.9,2023-10-03 19:11:45-0700,programmatic,vulnerable,vulnerable
 Devbook,,,,programmatic,unknown,unknown
 DevHub,,,,programmatic,unknown,unknown
-Dict,https://github.com/bryht/Dict,^9.4.4,2023-10-03 01:40:43-0700,programmatic,vulnerable,vulnerable
-Diffuse,https://github.com/icidasset/diffuse,,2023-10-03 01:40:45-0700,programmatic,unknown,unknown
+Dict,https://github.com/bryht/Dict,^9.4.4,2023-10-03 19:11:47-0700,programmatic,vulnerable,vulnerable
+Diffuse,https://github.com/icidasset/diffuse,,2023-10-03 19:11:48-0700,programmatic,unknown,unknown
 DigiExam,,,,programmatic,unknown,unknown
 Discord,,22.3.24,,programmatic,patched,unknown
-Discord RPC Maker,https://github.com/thatonecalculator/discordrpcmaker,^22.0.0,2023-10-03 01:40:46-0700,programmatic,vulnerable,vulnerable
-display-dj,https://github.com/synle/display-dj,^19.0.2,2023-10-03 01:40:47-0700,programmatic,vulnerable,vulnerable
+Discord RPC Maker,https://github.com/thatonecalculator/discordrpcmaker,^22.0.0,2023-10-03 19:11:49-0700,programmatic,vulnerable,vulnerable
+display-dj,https://github.com/synle/display-dj,^19.0.2,2023-10-03 19:11:50-0700,programmatic,vulnerable,vulnerable
 Ditto++,,,,programmatic,unknown,unknown
 Dixa,https://github.com/dixahq/dixa-desktop-app-release,,,programmatic,unknown,unknown
 Dn Tool Container,,,,programmatic,unknown,unknown
-Doki Doki Mod Manager,https://github.com/DokiDokiModManager/Mod-Manager,^10.1.3,2023-10-03 01:40:50-0700,programmatic,vulnerable,vulnerable
+Doki Doki Mod Manager,https://github.com/DokiDokiModManager/Mod-Manager,^10.1.3,2023-10-03 19:11:53-0700,programmatic,vulnerable,vulnerable
 Domain Book,https://github.com/darawish/domainbook,,,programmatic,unknown,unknown
 domodel-diary,,13.1.0,,programmatic,vulnerable,unknown
-DomTerm,https://github.com/PerBothner/DomTerm,,2023-10-03 01:40:53-0700,programmatic,unknown,unknown
-Dopamine,https://github.com/digimezzo/dopamine,^21.0.0,2023-10-03 01:40:54-0700,programmatic,vulnerable,vulnerable
+DomTerm,https://github.com/PerBothner/DomTerm,,2023-10-03 19:11:56-0700,programmatic,unknown,unknown
+Dopamine,https://github.com/digimezzo/dopamine,^21.0.0,2023-10-03 19:11:57-0700,programmatic,vulnerable,vulnerable
 Drawtify Designer,,,,programmatic,unknown,unknown
-DropPoint,https://github.com/GameGodS3/DropPoint,^21.3.1,2023-10-03 01:40:55-0700,programmatic,vulnerable,vulnerable
+DropPoint,https://github.com/GameGodS3/DropPoint,^21.3.1,2023-10-03 19:11:59-0700,programmatic,vulnerable,vulnerable
 DupFinder,,,,programmatic,unknown,unknown
-Dusk Player,https://github.com/Aveek-Saha/MusicPlayer,^7.3.3,2023-10-03 01:40:56-0700,programmatic,vulnerable,vulnerable
+Dusk Player,https://github.com/Aveek-Saha/MusicPlayer,^7.3.3,2023-10-03 19:12:00-0700,programmatic,vulnerable,vulnerable
 Dynobase,,,,programmatic,unknown,unknown
 Eagle,,,,programmatic,unknown,unknown
 eagluet,,,,programmatic,unknown,unknown
-EBTCalc,https://github.com/EricTerrell/EBTCalc,^26.1.0,2023-10-03 01:40:58-0700,programmatic,vulnerable,vulnerable
-echo,https://github.com/afractal/echo-app,,2023-10-03 01:40:59-0700,programmatic,unknown,unknown
+EBTCalc,https://github.com/EricTerrell/EBTCalc,^26.1.0,2023-10-03 19:12:01-0700,programmatic,vulnerable,vulnerable
+echo,https://github.com/afractal/echo-app,,2023-10-03 19:12:02-0700,programmatic,unknown,unknown
 elcalc,,,,programmatic,unknown,unknown
 Electorrent,,,,programmatic,unknown,unknown
 Electro,,,,programmatic,unknown,unknown
-ElectroCRUD,https://github.com/garrylachman/ElectroCRUD,^22.0.0,2023-10-03 01:41:00-0700,programmatic,vulnerable,vulnerable
-Electron App Store (Unofficial),https://github.com/Electron-Store/electron-app-store,^15.3.0,2023-10-03 01:41:01-0700,programmatic,vulnerable,vulnerable
+ElectroCRUD,https://github.com/garrylachman/ElectroCRUD,^22.0.0,2023-10-03 19:12:04-0700,programmatic,vulnerable,vulnerable
+Electron App Store (Unofficial),https://github.com/Electron-Store/electron-app-store,^15.3.0,2023-10-03 19:12:05-0700,programmatic,vulnerable,vulnerable
 Electron-clippy,,,,programmatic,unknown,unknown
 Elements,,,,programmatic,unknown,unknown
 Elephicon,,,,programmatic,unknown,unknown
 email-securely-app,,,,programmatic,unknown,unknown
 Enclica Messenger,,,,programmatic,unknown,unknown
-encrypt0r,https://github.com/kunalnagar/encrypt0r,18.3.15,2023-10-03 01:41:02-0700,programmatic,vulnerable,vulnerable
+encrypt0r,https://github.com/kunalnagar/encrypt0r,18.3.15,2023-10-03 19:12:06-0700,programmatic,vulnerable,vulnerable
 EnderFramework,,,,programmatic,unknown,unknown
-Erin,https://github.com/losbiw/erin,^20.1.0,2023-10-03 01:41:04-0700,programmatic,vulnerable,vulnerable
-eSearch,https://github.com/xushengfeng/eSearch,^22.3.6,2023-10-03 01:41:05-0700,programmatic,vulnerable,vulnerable
-ETCD Manager,https://github.com/icellmobilsoft/etcdmanager.git,^6,2023-10-03 01:41:07-0700,programmatic,vulnerable,vulnerable
-Etcher,https://github.com/resin-io/etcher,^19.1.9,2023-10-03 01:41:08-0700,programmatic,vulnerable,vulnerable
+Erin,https://github.com/losbiw/erin,^20.1.0,2023-10-03 19:12:08-0700,programmatic,vulnerable,vulnerable
+eSearch,https://github.com/xushengfeng/eSearch,^22.3.6,2023-10-03 19:12:09-0700,programmatic,vulnerable,vulnerable
+ETCD Manager,https://github.com/icellmobilsoft/etcdmanager.git,^6,2023-10-03 19:12:11-0700,programmatic,vulnerable,vulnerable
+Etcher,https://github.com/resin-io/etcher,^19.1.9,2023-10-03 19:12:12-0700,programmatic,vulnerable,vulnerable
 EVE Trade,,,,programmatic,unknown,unknown
 Everdo,,,,programmatic,unknown,unknown
 Excel Parser Processor,,,,programmatic,unknown,unknown
-ExifCleaner,https://github.com/szTheory/exifcleaner,^11.0,2023-10-03 01:41:10-0700,programmatic,vulnerable,vulnerable
+ExifCleaner,https://github.com/szTheory/exifcleaner,^11.0,2023-10-03 19:12:13-0700,programmatic,vulnerable,vulnerable
 ExpanDrive,,22.3.1,,programmatic,vulnerable,unknown
 Explorer,,,,programmatic,unknown,unknown
 ExpressLRS Configurator,,,,programmatic,unknown,unknown
-F-Curator,https://github.com/xizon/F-Curator/,^16.0.6,2023-10-03 01:41:11-0700,programmatic,vulnerable,vulnerable
-FAIRshare,https://github.com/fairdataihub/FAIRshare,25.8.1,2023-10-03 01:41:12-0700,programmatic,patched,vulnerable
+F-Curator,https://github.com/xizon/F-Curator/,^16.0.6,2023-10-03 19:12:15-0700,programmatic,vulnerable,vulnerable
+FAIRshare,https://github.com/fairdataihub/FAIRshare,25.8.1,2023-10-03 19:12:16-0700,programmatic,patched,vulnerable
 fangyuanjian,,,,programmatic,unknown,unknown
 FATpick,,,,programmatic,unknown,unknown
 Fenêtre,,,,programmatic,unknown,unknown
 Ferdi,https://github.com/getferdi/ferdi,,,programmatic,unknown,unknown
-Fifo,https://github.com/snaildos/Fifo-Browser,21.4.4,2023-10-03 01:41:14-0700,programmatic,vulnerable,vulnerable
+Fifo,https://github.com/snaildos/Fifo-Browser,21.4.4,2023-10-03 19:12:18-0700,programmatic,vulnerable,vulnerable
 Figma,,,,programmatic,unknown,unknown
-FileCtor,https://github.com/tomaschyly/FileCtor,^9.2.0,2023-10-03 01:41:16-0700,programmatic,vulnerable,vulnerable
+FileCtor,https://github.com/tomaschyly/FileCtor,^9.2.0,2023-10-03 19:12:19-0700,programmatic,vulnerable,vulnerable
 Fileside,,,,programmatic,unknown,unknown
 Final-Countdown,,,,programmatic,unknown,unknown
 Find Better Questions,,,,programmatic,unknown,unknown
 Fireman,,,,programmatic,unknown,unknown
-Fishing Funds,https://github.com/1zilc/fishing-funds,^26.0.0,2023-10-03 01:41:17-0700,programmatic,vulnerable,vulnerable
+Fishing Funds,https://github.com/1zilc/fishing-funds,^26.0.0,2023-10-03 19:12:20-0700,programmatic,vulnerable,vulnerable
 Flawesome,,,,programmatic,unknown,unknown
-FLB Music,https://github.com/Patrick-web/FLB-Music-Player-Official,13.2.2,2023-10-03 01:41:18-0700,programmatic,vulnerable,vulnerable
+FLB Music,https://github.com/Patrick-web/FLB-Music-Player-Official,13.2.2,2023-10-03 19:12:22-0700,programmatic,vulnerable,vulnerable
 FleetDeck,,,,programmatic,unknown,unknown
 FlexPaper,,,,programmatic,unknown,unknown
 Flow,,,,programmatic,unknown,unknown
-Fluent Reader,https://github.com/yang991178/fluent-reader,^21.0.1,2023-10-03 01:41:20-0700,programmatic,vulnerable,vulnerable
+Fluent Reader,https://github.com/yang991178/fluent-reader,^21.0.1,2023-10-03 19:12:23-0700,programmatic,vulnerable,vulnerable
 Focused Task,,,,programmatic,unknown,unknown
 Fog,,,,programmatic,unknown,unknown
 FontBase,,,,programmatic,unknown,unknown
 Forestpin Analytics,,,,programmatic,unknown,unknown
 Forget Me Not,,,,programmatic,unknown,unknown
 FotoJet,,,,programmatic,unknown,unknown
-Frame,https://github.com/floating/frame.git,23.1.3,2023-10-03 01:41:21-0700,programmatic,vulnerable,vulnerable
+Frame,https://github.com/floating/frame.git,23.1.3,2023-10-03 19:12:24-0700,programmatic,vulnerable,vulnerable
 Franz,,,,programmatic,unknown,unknown
-Free Chess Club,https://github.com/freechessclub/freechessclub-app,^24.1.3,2023-10-03 01:41:22-0700,programmatic,vulnerable,vulnerable
+Free Chess Club,https://github.com/freechessclub/freechessclub-app,^24.1.3,2023-10-03 19:12:26-0700,programmatic,vulnerable,vulnerable
 Freeter,,,,programmatic,unknown,unknown
 Friends,,,,programmatic,unknown,unknown
 Front,,,,programmatic,unknown,unknown
 Fudget,,,,programmatic,unknown,unknown
 Galeri,,,,programmatic,unknown,unknown
-Gaucho,https://github.com/angrykoala/gaucho,~13.1.9,2023-10-03 01:41:23-0700,programmatic,vulnerable,vulnerable
+Gaucho,https://github.com/angrykoala/gaucho,~13.1.9,2023-10-03 19:12:27-0700,programmatic,vulnerable,vulnerable
 GaussSense Desktop,,,,programmatic,unknown,unknown
 GDevelop,https://github.com/4ian/GDevelop,18.2.2,,programmatic,vulnerable,unknown
 Geeks Diary,,,,programmatic,unknown,unknown
@@ -196,8 +196,8 @@ Gibu,,,,programmatic,unknown,unknown
 Git-it,,,,programmatic,unknown,unknown
 GitBook,,,,programmatic,unknown,unknown
 GitHoard,,,,programmatic,unknown,unknown
-GitHub Desktop,https://github.com/desktop/desktop,26.2.1,2023-10-03 01:41:34-0700,programmatic,patched,vulnerable
-Gitify,https://github.com/manosim/gitify,^13.1.7,2023-10-03 01:41:35-0700,programmatic,vulnerable,vulnerable
+GitHub Desktop,https://github.com/desktop/desktop,26.2.1,2023-10-03 19:12:37-0700,programmatic,patched,vulnerable
+Gitify,https://github.com/manosim/gitify,^13.1.7,2023-10-03 19:12:38-0700,programmatic,vulnerable,vulnerable
 GitKraken,,22.3.24,,programmatic,patched,unknown
 Gitscout,,,,programmatic,unknown,unknown
 Gluppi,,,,programmatic,unknown,unknown
@@ -209,17 +209,17 @@ GraphiQL,,,,programmatic,unknown,unknown
 GraphQL Playground,,,,programmatic,unknown,unknown
 graSSHopper,,,,programmatic,unknown,unknown
 Gravit Designer,,,,programmatic,unknown,unknown
-Graviton Editor,https://github.com/Graviton-Code-Editor/Graviton-App,,2023-10-03 01:41:36-0700,programmatic,unknown,unknown
-gSubs,https://github.com/sanjevirau/gsubs/,~9.1.0,2023-10-03 01:41:38-0700,programmatic,vulnerable,vulnerable
+Graviton Editor,https://github.com/Graviton-Code-Editor/Graviton-App,,2023-10-03 19:12:39-0700,programmatic,unknown,unknown
+gSubs,https://github.com/sanjevirau/gsubs/,~9.1.0,2023-10-03 19:12:41-0700,programmatic,vulnerable,vulnerable
 HashTag,,,,programmatic,unknown,unknown
 HBBatchBeast,,,,programmatic,unknown,unknown
 heads-tails,https://github.com/SmartHoldemDAPPs/heads-tails,,,programmatic,unknown,unknown
 Headset,,,,programmatic,unknown,unknown
-healthi,https://github.com/pablopunk/healthi-app,^15.5.5,2023-10-03 01:41:40-0700,programmatic,vulnerable,vulnerable
+healthi,https://github.com/pablopunk/healthi-app,^15.5.5,2023-10-03 19:12:43-0700,programmatic,vulnerable,vulnerable
 Hearo,,,,programmatic,unknown,unknown
 Helios Launcher,,,,programmatic,unknown,unknown
 Heroic,,,,programmatic,unknown,unknown
-HexoClient,https://github.com/gaoyoubo/hexo-client,^7.2.4,2023-10-03 01:41:41-0700,programmatic,vulnerable,vulnerable
+HexoClient,https://github.com/gaoyoubo/hexo-client,^7.2.4,2023-10-03 19:12:44-0700,programmatic,vulnerable,vulnerable
 Hive,,,,programmatic,unknown,unknown
 homura,,,,programmatic,unknown,unknown
 Horen,,,,programmatic,unknown,unknown
@@ -227,77 +227,77 @@ Hoster,,,,programmatic,unknown,unknown
 Hozz,,,,programmatic,unknown,unknown
 HTTP Toolkit,https://github.com/httptoolkit,,,programmatic,unknown,unknown
 HTTPS Checker,,,,programmatic,unknown,unknown
-Hyper,https://github.com/vercel/hyper,22.3.24,2023-10-03 01:41:44-0700,programmatic,patched,vulnerable
+Hyper,https://github.com/vercel/hyper,22.3.24,2023-10-03 19:12:46-0700,programmatic,patched,vulnerable
 Hyperspace,,,,programmatic,unknown,unknown
 i18n Manager,,,,programmatic,unknown,unknown
 i5sing,,,,programmatic,unknown,unknown
 Iconset,,,,programmatic,unknown,unknown
 Illyriad,,,,programmatic,unknown,unknown
 Image Optimizer,,,,programmatic,unknown,unknown
-ImageShrinker,https://github.com/stefansl/image-shrinker,^11.2.1,2023-10-03 01:41:45-0700,programmatic,vulnerable,vulnerable
+ImageShrinker,https://github.com/stefansl/image-shrinker,^11.2.1,2023-10-03 19:12:47-0700,programmatic,vulnerable,vulnerable
 Imagine,,,,programmatic,unknown,unknown
-Inboxer,https://github.com/denysdovhan/inboxer,^3.0,2023-10-03 01:41:46-0700,programmatic,vulnerable,vulnerable
+Inboxer,https://github.com/denysdovhan/inboxer,^3.0,2023-10-03 19:12:49-0700,programmatic,vulnerable,vulnerable
 INDE Writer,,,,programmatic,unknown,unknown
 InfiniTex,,,,programmatic,unknown,unknown
-Infiniti Clips,https://github.com/azure06/infiniti-clips.git,^21.2.0,2023-10-03 01:41:48-0700,programmatic,vulnerable,vulnerable
+Infiniti Clips,https://github.com/azure06/infiniti-clips.git,^21.2.0,2023-10-03 19:12:50-0700,programmatic,vulnerable,vulnerable
 Infinity,,,,programmatic,unknown,unknown
 Inkdrop,,,,programmatic,unknown,unknown
-Insomnia,https://github.com/getinsomnia/insomnia,,2023-10-03 01:41:49-0700,programmatic,unknown,unknown
+Insomnia,https://github.com/getinsomnia/insomnia,,2023-10-03 19:12:52-0700,programmatic,unknown,unknown
 Instatron,,,,programmatic,unknown,unknown
 Interactive Data Editor,,,,programmatic,unknown,unknown
 Intu-Mind,,,,programmatic,unknown,unknown
-Invizi,https://github.com/invizi/invizi/,^8.3.0,2023-10-03 01:41:51-0700,programmatic,vulnerable,vulnerable
+Invizi,https://github.com/invizi/invizi/,^8.3.0,2023-10-03 19:12:53-0700,programmatic,vulnerable,vulnerable
 ioui,,,,programmatic,unknown,unknown
 Iperius Console,,,,programmatic,unknown,unknown
 IPTVnator,,,,programmatic,unknown,unknown
 Istrolid,,,,programmatic,unknown,unknown
-itch,https://github.com/itchio/itch,^22.3.14,2023-10-03 01:41:52-0700,programmatic,vulnerable,vulnerable
+itch,https://github.com/itchio/itch,^22.3.14,2023-10-03 19:12:54-0700,programmatic,vulnerable,vulnerable
 Jabra Direct,,"16,2,2",,programmatic,vulnerable,unknown
 jamovi,https://github.com/jamovi/jamovi,,,programmatic,unknown,unknown
 JANDI,,,,programmatic,unknown,unknown
 Janpankana,,,,programmatic,unknown,unknown
 Janus Workspace,,,,programmatic,unknown,unknown
-Jasper,https://github.com/jasperapp/jasper,18.0.4,2023-10-03 01:41:55-0700,programmatic,vulnerable,vulnerable
-Joplin,https://github.com/laurent22/joplin,,2023-10-03 01:41:56-0700,programmatic,unknown,unknown
+Jasper,https://github.com/jasperapp/jasper,18.0.4,2023-10-03 19:12:56-0700,programmatic,vulnerable,vulnerable
+Joplin,https://github.com/laurent22/joplin,,2023-10-03 19:12:58-0700,programmatic,unknown,unknown
 jqi,,,,programmatic,unknown,unknown
-Juggernaut,https://github.com/LN-Juggernaut/juggernaut-desktop,8.2.0,2023-10-03 01:41:57-0700,programmatic,vulnerable,vulnerable
+Juggernaut,https://github.com/LN-Juggernaut/juggernaut-desktop,8.2.0,2023-10-03 19:12:59-0700,programmatic,vulnerable,vulnerable
 Jukeboks,,,,programmatic,unknown,unknown
-JumpFm,https://github.com/Gilad-Kutiel-App/jumpfm,,2023-10-03 01:41:59-0700,programmatic,unknown,unknown
-Kahla,https://github.com/AiursoftWeb/Kahla.App,^8.3.0,2023-10-03 01:42:00-0700,programmatic,vulnerable,vulnerable
+JumpFm,https://github.com/Gilad-Kutiel-App/jumpfm,,2023-10-03 19:13:01-0700,programmatic,unknown,unknown
+Kahla,https://github.com/AiursoftWeb/Kahla.App,^8.3.0,2023-10-03 19:13:02-0700,programmatic,vulnerable,vulnerable
 kalk,,,,programmatic,unknown,unknown
 KanKan,,,,programmatic,unknown,unknown
-Kap,https://github.com/wulkano/kap,13.6.9,2023-10-03 01:42:02-0700,programmatic,vulnerable,vulnerable
+Kap,https://github.com/wulkano/kap,13.6.9,2023-10-03 19:13:03-0700,programmatic,vulnerable,vulnerable
 Kaplan Desktop,https://github.com/kaplanPRO/kaplan-desktop,,,programmatic,unknown,unknown
 kappo,,,,programmatic,unknown,unknown
 Karaoke Mugen,https://gitlab.com/karaokemugen/karaokemugen-app,,,programmatic,unknown,unknown
 Katana,,,,programmatic,unknown,unknown
 Kattana,,,,programmatic,unknown,unknown
 Keeper Password Manager & Digital Vault,,,,programmatic,unknown,unknown
-KeeWeb,https://github.com/keeweb/keeweb,^12.0.7,2023-10-03 01:42:06-0700,programmatic,vulnerable,vulnerable
+KeeWeb,https://github.com/keeweb/keeweb,^12.0.7,2023-10-03 19:13:07-0700,programmatic,vulnerable,vulnerable
 KeyCombiner,https://github.com/tkainrad/keycombiner,,,programmatic,unknown,unknown
 Kinesis CI,https://github.com/Kinesis-CI/education-and-innovation,,,programmatic,unknown,unknown
 Kitematic,,,,programmatic,unknown,unknown
-Knowte,https://github.com/digimezzo/knowte-electron,17.3.1,2023-10-03 01:42:12-0700,programmatic,vulnerable,vulnerable
+Knowte,https://github.com/digimezzo/knowte-electron,17.3.1,2023-10-03 19:13:12-0700,programmatic,vulnerable,vulnerable
 Kobiton,,,,programmatic,unknown,unknown
-Kube Dev Dashboard,https://github.com/prsh9/KubeCtl-Dashboard,^22.0.0,2023-10-03 01:42:13-0700,programmatic,vulnerable,vulnerable
-Kube Forwarder,https://github.com/pixel-point/kube-forwarder,12.0.2,2023-10-03 01:42:14-0700,programmatic,vulnerable,vulnerable
-LaraDumps,https://github.com/laradumps/app,26.2.1,2023-10-03 01:42:16-0700,programmatic,patched,vulnerable
-Laravel Kit,https://github.com/tmdh/laravel-kit,21.0.1,2023-10-03 01:42:17-0700,programmatic,vulnerable,vulnerable
-Last Hit,https://github.com/last-hit-aab/last-hit,^7.1.1,2023-10-03 01:42:18-0700,programmatic,vulnerable,vulnerable
+Kube Dev Dashboard,https://github.com/prsh9/KubeCtl-Dashboard,^22.0.0,2023-10-03 19:13:14-0700,programmatic,vulnerable,vulnerable
+Kube Forwarder,https://github.com/pixel-point/kube-forwarder,12.0.2,2023-10-03 19:13:15-0700,programmatic,vulnerable,vulnerable
+LaraDumps,https://github.com/laradumps/app,26.2.1,2023-10-03 19:13:16-0700,programmatic,patched,vulnerable
+Laravel Kit,https://github.com/tmdh/laravel-kit,21.0.1,2023-10-03 19:13:18-0700,programmatic,vulnerable,vulnerable
+Last Hit,https://github.com/last-hit-aab/last-hit,^7.1.1,2023-10-03 19:13:19-0700,programmatic,vulnerable,vulnerable
 Laverna,,,,programmatic,unknown,unknown
 Lax,,,,programmatic,unknown,unknown
 lazyType,,,,programmatic,unknown,unknown
-LBRY Desktop,https://github.com/lbryio/lbry-desktop,17.2.0,2023-10-03 01:42:20-0700,programmatic,vulnerable,vulnerable
+LBRY Desktop,https://github.com/lbryio/lbry-desktop,17.2.0,2023-10-03 19:13:20-0700,programmatic,vulnerable,vulnerable
 LeafView,,,,programmatic,unknown,unknown
 Lectrote,,,,programmatic,unknown,unknown
 Left,https://hundredrabbits.itch.io/left,,,programmatic,unknown,unknown
-Lepton,https://github.com/hackjutsu/Lepton,^13.0.0,2023-10-03 01:42:21-0700,programmatic,vulnerable,vulnerable
+Lepton,https://github.com/hackjutsu/Lepton,^13.0.0,2023-10-03 19:13:22-0700,programmatic,vulnerable,vulnerable
 Light Table,,,,programmatic,unknown,unknown
-lightgallery,https://github.com/sachinchoolur/lightgallery-desktop,,2023-10-03 01:42:23-0700,programmatic,unknown,unknown
+lightgallery,https://github.com/sachinchoolur/lightgallery-desktop,,2023-10-03 19:13:23-0700,programmatic,unknown,unknown
 LightProxy,,,,programmatic,unknown,unknown
-linked,https://github.com/lostdesign/linked,17.0.0,2023-10-03 01:42:24-0700,programmatic,vulnerable,vulnerable
-Lisk Hub,https://github.com/LiskHQ/lisk-hub,25.2.0,2023-10-03 01:42:25-0700,programmatic,vulnerable,vulnerable
-Local by Flywheel,https://github.com/getflywheel/local-components,,2023-10-03 01:42:26-0700,programmatic,unknown,unknown
+linked,https://github.com/lostdesign/linked,17.0.0,2023-10-03 19:13:25-0700,programmatic,vulnerable,vulnerable
+Lisk Hub,https://github.com/LiskHQ/lisk-hub,25.2.0,2023-10-03 19:13:26-0700,programmatic,vulnerable,vulnerable
+Local by Flywheel,https://github.com/getflywheel/local-components,,2023-10-03 19:13:28-0700,programmatic,unknown,unknown
 Local Mock Server,,,,programmatic,unknown,unknown
 Lode,,,,programmatic,unknown,unknown
 LogSnag,https://github.com/LogSnag/LogSnag,,,programmatic,unknown,unknown
@@ -305,75 +305,75 @@ Loom,,,,programmatic,unknown,unknown
 Loop Team,,,,programmatic,unknown,unknown
 LosslessCut,,,,programmatic,unknown,unknown
 LoT - Lot of Things,https://github.com/Jisco/LotOfThings,,,programmatic,unknown,unknown
-lsdeer,https://github.com/AlexanderPershin/lsdeer,^8.2.1,2023-10-03 01:42:31-0700,programmatic,vulnerable,vulnerable
+lsdeer,https://github.com/AlexanderPershin/lsdeer,^8.2.1,2023-10-03 19:13:31-0700,programmatic,vulnerable,vulnerable
 luna,,,,programmatic,unknown,unknown
 Lyna,,,,programmatic,unknown,unknown
 MagicCap,,,,programmatic,unknown,unknown
-Mailspring,https://github.com/Foundry376/Mailspring,17.4.0,2023-10-03 01:42:32-0700,programmatic,vulnerable,vulnerable
+Mailspring,https://github.com/Foundry376/Mailspring,17.4.0,2023-10-03 19:13:32-0700,programmatic,vulnerable,vulnerable
 Manyverse,https://gitlab.com/staltz/manyverse,,,programmatic,unknown,unknown
 Markdown C3,,,,programmatic,unknown,unknown
-Markdownify,https://github.com/amitmerchant1990/electron-markdownify,^7.2.4,2023-10-03 01:42:34-0700,programmatic,vulnerable,vulnerable
+Markdownify,https://github.com/amitmerchant1990/electron-markdownify,^7.2.4,2023-10-03 19:13:34-0700,programmatic,vulnerable,vulnerable
 MarkText,,,,programmatic,unknown,unknown
-massCode,https://github.com/antonreshetov/massCode,^7.1.6,2023-10-03 01:42:36-0700,programmatic,vulnerable,vulnerable
+massCode,https://github.com/antonreshetov/massCode,^7.1.6,2023-10-03 19:13:36-0700,programmatic,vulnerable,vulnerable
 Master Tour,,,,programmatic,unknown,unknown
 Matrix Writer,,,,programmatic,unknown,unknown
-Mattermost,https://github.com/mattermost/desktop,26.2.1,2023-10-03 01:42:37-0700,programmatic,patched,vulnerable
+Mattermost,https://github.com/mattermost/desktop,26.2.1,2023-10-03 19:13:37-0700,programmatic,patched,vulnerable
 MD5 Application,,,,programmatic,unknown,unknown
-mdp,https://github.com/ericlink/mdp,^13.1.6,2023-10-03 01:42:38-0700,programmatic,vulnerable,vulnerable
+mdp,https://github.com/ericlink/mdp,^13.1.6,2023-10-03 19:13:38-0700,programmatic,vulnerable,vulnerable
 media-dupes,,,,programmatic,unknown,unknown
-mediaChips,https://github.com/fupdec/mediaChips,^17.0.0,2023-10-03 01:42:40-0700,programmatic,vulnerable,vulnerable
+mediaChips,https://github.com/fupdec/mediaChips,^17.0.0,2023-10-03 19:13:39-0700,programmatic,vulnerable,vulnerable
 MeisterTask,,,,programmatic,unknown,unknown
-Mélodie,https://github.com/feugy/melodie,,2023-10-03 01:42:41-0700,programmatic,unknown,unknown
+Mélodie,https://github.com/feugy/melodie,,2023-10-03 19:13:41-0700,programmatic,unknown,unknown
 Merge Request Notifier,,,,programmatic,unknown,unknown
-Metastream,https://github.com/samuelmaddock/metastream,,2023-10-03 01:42:42-0700,programmatic,unknown,unknown
+Metastream,https://github.com/samuelmaddock/metastream,,2023-10-03 19:13:43-0700,programmatic,unknown,unknown
 Metronome,,,,programmatic,unknown,unknown
-Metronome Wallet,https://github.com/autonomoussoftware/metronome-wallet-desktop,13.1.4,2023-10-03 01:42:43-0700,programmatic,vulnerable,vulnerable
+Metronome Wallet,https://github.com/autonomoussoftware/metronome-wallet-desktop,13.1.4,2023-10-03 19:13:44-0700,programmatic,vulnerable,vulnerable
 Microsoft Teams,,19.1.8,,manual,patched,vulnerable
 Microstockr,,,,programmatic,unknown,unknown
 Mikropausen,,,,programmatic,unknown,unknown
-Min,https://github.com/minbrowser/min,26.2.1,2023-10-03 01:42:45-0700,programmatic,patched,vulnerable
-Mindmapp,https://github.com/Mindmapp/mindmapp,,2023-10-03 01:42:46-0700,programmatic,unknown,unknown
+Min,https://github.com/minbrowser/min,26.2.1,2023-10-03 19:13:45-0700,programmatic,patched,vulnerable
+Mindmapp,https://github.com/Mindmapp/mindmapp,,2023-10-03 19:13:47-0700,programmatic,unknown,unknown
 Mingo,https://github.com/mingo-app/mingo,,,programmatic,unknown,unknown
-Mini Diary,https://github.com/samuelmeuli/mini-diary,^8.3.0,2023-10-03 01:42:48-0700,programmatic,vulnerable,vulnerable
+Mini Diary,https://github.com/samuelmeuli/mini-diary,^8.3.0,2023-10-03 19:13:49-0700,programmatic,vulnerable,vulnerable
 Minimal Image Viewer,,,,programmatic,unknown,unknown
 Missive,,,,programmatic,unknown,unknown
 Mixmax,,,,programmatic,unknown,unknown
-MJML App,https://github.com/mjmlio/mjml-app,7.2.4,2023-10-03 01:42:50-0700,programmatic,vulnerable,vulnerable
+MJML App,https://github.com/mjmlio/mjml-app,7.2.4,2023-10-03 19:13:51-0700,programmatic,vulnerable,vulnerable
 Mobile Locker,,,,programmatic,unknown,unknown
 Mobirise,https://github.com/Mobirise/Mobirise,,,programmatic,unknown,unknown
 MockingBot,,,,programmatic,unknown,unknown
-Mockoon,https://github.com/255kb/mockoon,,2023-10-03 01:42:53-0700,programmatic,unknown,unknown
+Mockoon,https://github.com/255kb/mockoon,,2023-10-03 19:13:53-0700,programmatic,unknown,unknown
 modelDBA,,,,programmatic,unknown,unknown
-ModernDeck for Twitter,https://github.com/dangeredwolf/ModernDeck,^19.1.9,2023-10-03 01:42:54-0700,programmatic,vulnerable,vulnerable
+ModernDeck for Twitter,https://github.com/dangeredwolf/ModernDeck,^19.1.9,2023-10-03 19:13:55-0700,programmatic,vulnerable,vulnerable
 MonAmi Note,,,,programmatic,unknown,unknown
-MongoDB Compass,,24.8.2,,programmatic,patched,unknown
+MongoDB Compass,,24.8.2,,manual,vulnerable,unknown
 Mongomix,,,,programmatic,unknown,unknown
 Mongotron,,,,programmatic,unknown,unknown
-Monokle,https://github.com/kubeshop/monokle,26.2.2,2023-10-03 01:42:55-0700,programmatic,patched,vulnerable
-monolith code,https://github.com/Haeri/MonolithCode2,^26.2.3,2023-10-03 01:42:57-0700,programmatic,patched,vulnerable
+Monokle,https://github.com/kubeshop/monokle,26.2.2,2023-10-03 19:13:56-0700,programmatic,patched,vulnerable
+monolith code,https://github.com/Haeri/MonolithCode2,^26.2.3,2023-10-03 19:13:57-0700,programmatic,patched,vulnerable
 MonsterWriter,,,,programmatic,unknown,unknown
 Moonitor,,,,programmatic,unknown,unknown
-Moosync,https://github.com/Moosync/Moosync,25.5.0,2023-10-03 01:42:58-0700,programmatic,vulnerable,vulnerable
+Moosync,https://github.com/Moosync/Moosync,25.5.0,2023-10-03 19:13:58-0700,programmatic,vulnerable,vulnerable
 Morgen,,,,programmatic,unknown,unknown
-Motrix,https://github.com/agalwood/Motrix,^22.3.9,2023-10-03 01:42:59-0700,programmatic,vulnerable,vulnerable
-MoviePrint,https://github.com/fakob/MoviePrint_v004,7.1.11,2023-10-03 01:43:01-0700,programmatic,vulnerable,vulnerable
-Mr Noplay,https://github.com/scris/mrnoplay,,2023-10-03 01:43:03-0700,programmatic,unknown,unknown
+Motrix,https://github.com/agalwood/Motrix,^22.3.9,2023-10-03 19:14:00-0700,programmatic,vulnerable,vulnerable
+MoviePrint,https://github.com/fakob/MoviePrint_v004,7.1.11,2023-10-03 19:14:01-0700,programmatic,vulnerable,vulnerable
+Mr Noplay,https://github.com/scris/mrnoplay,,2023-10-03 19:14:03-0700,programmatic,unknown,unknown
 Mr.Dclutterer,,,,programmatic,unknown,unknown
-mStream,https://github.com/IrosTheBeggar/mStream,,2023-10-03 01:43:04-0700,programmatic,unknown,unknown
+mStream,https://github.com/IrosTheBeggar/mStream,,2023-10-03 19:14:04-0700,programmatic,unknown,unknown
 muezzin,,,,programmatic,unknown,unknown
 Multiple File Manager,,,,programmatic,unknown,unknown
 Multrin,,,,programmatic,unknown,unknown
-Museeks,https://github.com/martpie/museeks,26.1.0,2023-10-03 01:43:05-0700,programmatic,vulnerable,vulnerable
-Music Player,https://github.com/Tenpi/Music-Player,^17.2.0,2023-10-03 01:43:06-0700,programmatic,vulnerable,vulnerable
-music-player,https://github.com/Aveek-Saha/MusicPlayer,^7.3.3,2023-10-03 01:43:08-0700,programmatic,vulnerable,vulnerable
-Musify,https://github.com/SrGMC/musify,^7.2.4,2023-10-03 01:43:09-0700,programmatic,vulnerable,vulnerable
+Museeks,https://github.com/martpie/museeks,26.1.0,2023-10-03 19:14:05-0700,programmatic,vulnerable,vulnerable
+Music Player,https://github.com/Tenpi/Music-Player,^17.2.0,2023-10-03 19:14:06-0700,programmatic,vulnerable,vulnerable
+music-player,https://github.com/Aveek-Saha/MusicPlayer,^7.3.3,2023-10-03 19:14:08-0700,programmatic,vulnerable,vulnerable
+Musify,https://github.com/SrGMC/musify,^7.2.4,2023-10-03 19:14:09-0700,programmatic,vulnerable,vulnerable
 MuteMe,,23.2.2,,programmatic,vulnerable,unknown
-MyLottery,https://gitee.com/gemron/myLottery,,2023-10-03 01:43:13-0700,programmatic,unknown,unknown
+MyLottery,https://gitee.com/gemron/myLottery,,2023-10-03 19:14:14-0700,programmatic,unknown,unknown
 MyTools,,,,programmatic,unknown,unknown
 NATTT,,,,programmatic,unknown,unknown
-Nertivia,https://github.com/supertiger1234/nertivia-desktop-app/,^15.3.1,2023-10-03 01:43:15-0700,programmatic,vulnerable,vulnerable
-Netron,https://github.com/lutzroeder/netron,26.2.4,2023-10-03 01:43:16-0700,programmatic,patched,patched
-Network Status Check,https://github.com/cjerrington/net-check,^22.0.0,2023-10-03 01:43:17-0700,programmatic,vulnerable,vulnerable
+Nertivia,https://github.com/supertiger1234/nertivia-desktop-app/,^15.3.1,2023-10-03 19:14:16-0700,programmatic,vulnerable,vulnerable
+Netron,https://github.com/lutzroeder/netron,26.2.4,2023-10-03 19:14:17-0700,programmatic,patched,patched
+Network Status Check,https://github.com/cjerrington/net-check,^22.0.0,2023-10-03 19:14:18-0700,programmatic,vulnerable,vulnerable
 NetworkAssembler,,,,programmatic,unknown,unknown
 NeuCalculator,,,,programmatic,unknown,unknown
 Nicepage,https://github.com/NicepageApp/Nicepage,,,programmatic,unknown,unknown
@@ -384,40 +384,40 @@ NorthReader,,,,programmatic,unknown,unknown
 Nota,https://github.com/notaapp/releases,,,programmatic,unknown,unknown
 Notable,https://github.com/notable/notable,,,programmatic,unknown,unknown
 Notejoy,,,,programmatic,unknown,unknown
-Notion,,26.2.1,,programmatic,patched,unknown
-nteract,https://github.com/nteract/nteract,11.5.0,2023-10-03 01:43:24-0700,programmatic,vulnerable,vulnerable
+Notion,,26.2.1,,manual,patched,vulnerable
+nteract,https://github.com/nteract/nteract,11.5.0,2023-10-03 19:14:25-0700,programmatic,vulnerable,vulnerable
 NubiDo,,,,programmatic,unknown,unknown
-nuclear,https://github.com/nukeop/nuclear,^12.1.0,2023-10-03 01:43:25-0700,programmatic,vulnerable,vulnerable
+nuclear,https://github.com/nukeop/nuclear,^12.1.0,2023-10-03 19:14:26-0700,programmatic,vulnerable,vulnerable
 Nuclide,,,,programmatic,unknown,unknown
 nxshell,,,,programmatic,unknown,unknown
-Obsidian,,25.8.1,,programmatic,patched,unknown
+Obsidian,,25.8.1,,manual,patched,vulnerable
 octopi-init,https://github.com/OutsourcedGuru/octopi-init/blob/master/electron_README.md,2.0.8,,programmatic,vulnerable,unknown
 ODrive,,,,programmatic,unknown,unknown
-OhHai Browser,https://github.com/OhHaiBrowser/Browser/,^8.2.5,2023-10-03 01:43:27-0700,programmatic,vulnerable,vulnerable
+OhHai Browser,https://github.com/OhHaiBrowser/Browser/,^8.2.5,2023-10-03 19:14:27-0700,programmatic,vulnerable,vulnerable
 One Copy,,,,programmatic,unknown,unknown
 Open Log Viewer,,,,programmatic,unknown,unknown
 Open Stage Control,,,,programmatic,unknown,unknown
 OpenBazaar,,,,programmatic,unknown,unknown
 OpenComic,,,,programmatic,unknown,unknown
 OpenSpeedTest-Server,https://github.com/openspeedtest/Speed-Test,,,programmatic,unknown,unknown
-Oversetter,https://github.com/4gray/oversetter,^7.1.9,2023-10-03 01:43:30-0700,programmatic,vulnerable,vulnerable
-P3X OneNote,https://github.com/patrikx3/onenote,^25.8.2,2023-10-03 01:43:31-0700,programmatic,patched,vulnerable
-P3X Redis UI,https://github.com/patrikx3/redis-ui,^26.1.0,2023-10-03 01:43:32-0700,programmatic,vulnerable,vulnerable
+Oversetter,https://github.com/4gray/oversetter,^7.1.9,2023-10-03 19:14:30-0700,programmatic,vulnerable,vulnerable
+P3X OneNote,https://github.com/patrikx3/onenote,^25.8.2,2023-10-03 19:14:31-0700,programmatic,patched,vulnerable
+P3X Redis UI,https://github.com/patrikx3/redis-ui,^26.1.0,2023-10-03 19:14:32-0700,programmatic,vulnerable,vulnerable
 PamFax,,,,programmatic,unknown,unknown
 Panda 2,,,,programmatic,unknown,unknown
-PanWriter,https://github.com/mb21/panwriter,^26.2.4,2023-10-03 01:43:33-0700,programmatic,patched,patched
+PanWriter,https://github.com/mb21/panwriter,^26.2.4,2023-10-03 19:14:34-0700,programmatic,patched,patched
 PaperArxiv,,,,programmatic,unknown,unknown
 PaperCubes,,,,programmatic,unknown,unknown
 Papyrus,,,,programmatic,unknown,unknown
 Parsify Desktop,,,,programmatic,unknown,unknown
 Particle Dev,,,,programmatic,unknown,unknown
-passky,https://github.com/Rabbit-Company/Passky-Desktop,^22.1.0,2023-10-03 01:43:35-0700,programmatic,vulnerable,vulnerable
-Patchwork,https://github.com/ssbc/patchwork,^11.3.0,2023-10-03 01:43:36-0700,programmatic,vulnerable,vulnerable
+passky,https://github.com/Rabbit-Company/Passky-Desktop,^22.1.0,2023-10-03 19:14:35-0700,programmatic,vulnerable,vulnerable
+Patchwork,https://github.com/ssbc/patchwork,^11.3.0,2023-10-03 19:14:36-0700,programmatic,vulnerable,vulnerable
 Paymo Time Tracker,,,,programmatic,unknown,unknown
 Peacock,,,,programmatic,unknown,unknown
 PeerShare,,,,programmatic,unknown,unknown
-Pencil,https://github.com/evolus/pencil,16.0.0,2023-10-03 01:43:37-0700,programmatic,vulnerable,vulnerable
-Pendulums,https://github.com/Swing-team/pendulums-web-client,^6.0.7,2023-10-03 01:43:39-0700,programmatic,vulnerable,vulnerable
+Pencil,https://github.com/evolus/pencil,16.0.0,2023-10-03 19:14:38-0700,programmatic,vulnerable,vulnerable
+Pendulums,https://github.com/Swing-team/pendulums-web-client,^6.0.7,2023-10-03 19:14:39-0700,programmatic,vulnerable,vulnerable
 Pennywise,,,,programmatic,unknown,unknown
 Petal,,,,programmatic,unknown,unknown
 Phiewer,,,,programmatic,unknown,unknown
@@ -425,28 +425,28 @@ PhonePresenter,,,,programmatic,unknown,unknown
 Photo Viewer,,,,programmatic,unknown,unknown
 PhotoScreenSaver,,,,programmatic,unknown,unknown
 Pic Crop,,,,programmatic,unknown,unknown
-Picturama,https://github.com/picturama/picturama,~11.1.0,2023-10-03 01:43:40-0700,programmatic,vulnerable,vulnerable
+Picturama,https://github.com/picturama/picturama,~11.1.0,2023-10-03 19:14:40-0700,programmatic,vulnerable,vulnerable
 PileMd,,,,programmatic,unknown,unknown
-PiTV,https://github.com/ozankaraali/PiTV,22.0.0,2023-10-03 01:43:41-0700,programmatic,vulnerable,vulnerable
+PiTV,https://github.com/ozankaraali/PiTV,22.0.0,2023-10-03 19:14:41-0700,programmatic,vulnerable,vulnerable
 Playback,,,,programmatic,unknown,unknown
 PlayCode,,,,programmatic,unknown,unknown
 Pocket Server,,,,programmatic,unknown,unknown
 Poddycast,,,,programmatic,unknown,unknown
-poi,https://github.com/poooi/poi,^24.2.0,2023-10-03 01:43:43-0700,programmatic,vulnerable,vulnerable
-Polypane,,26.2.4,,programmatic,patched,unknown
+poi,https://github.com/poooi/poi,^24.2.0,2023-10-03 19:14:43-0700,programmatic,vulnerable,vulnerable
+Polypane,,26.2.4,,manual,patched,vulnerable
 pomodoro-logger,,,,programmatic,unknown,unknown
 Pomolectron,,,,programmatic,unknown,unknown
-Pomotroid,https://github.com/Splode/pomotroid,^11.0.1,2023-10-03 01:43:44-0700,programmatic,vulnerable,vulnerable
+Pomotroid,https://github.com/Splode/pomotroid,^11.0.1,2023-10-03 19:14:44-0700,programmatic,vulnerable,vulnerable
 PopSQL,,,,programmatic,unknown,unknown
 Postbird,,,,programmatic,unknown,unknown
 Postman,,18.3.5,,programmatic,vulnerable,unknown
 Pragli,,,,programmatic,unknown,unknown
-PreMiD,https://github.com/PreMiD/PreMiD,11.3.0,2023-10-03 01:43:45-0700,programmatic,vulnerable,vulnerable
+PreMiD,https://github.com/PreMiD/PreMiD,11.3.0,2023-10-03 19:14:45-0700,programmatic,vulnerable,vulnerable
 Preserver,,,,programmatic,unknown,unknown
 Presets.io,,,,programmatic,unknown,unknown
-PrettyEarth,https://github.com/evertdespiegeleer/PrettyEarth,^15.0.0,2023-10-03 01:43:47-0700,programmatic,vulnerable,vulnerable
+PrettyEarth,https://github.com/evertdespiegeleer/PrettyEarth,^15.0.0,2023-10-03 19:14:46-0700,programmatic,vulnerable,vulnerable
 PrexView,,,,programmatic,unknown,unknown
-Primate,https://github.com/getprimate/primate,^22.0.3,2023-10-03 01:43:48-0700,programmatic,vulnerable,vulnerable
+Primate,https://github.com/getprimate/primate,^22.0.3,2023-10-03 19:14:48-0700,programmatic,vulnerable,vulnerable
 primitive.nextgen,,,,programmatic,unknown,unknown
 ProDoctor Medicamentos,,,,programmatic,unknown,unknown
 Proposales,,,,programmatic,unknown,unknown
@@ -455,64 +455,64 @@ ProtegoPDF,,,,programmatic,unknown,unknown
 Protoman,,,,programmatic,unknown,unknown
 ProtoPie,,,,programmatic,unknown,unknown
 Pullp,,,,programmatic,unknown,unknown
-Puppetry,https://github.com/dsheiko/puppetry/,^12.0.6,2023-10-03 01:43:50-0700,programmatic,vulnerable,vulnerable
+Puppetry,https://github.com/dsheiko/puppetry/,^12.0.6,2023-10-03 19:14:50-0700,programmatic,vulnerable,vulnerable
 Putler,,,,programmatic,unknown,unknown
 Q-player,https://github.com/Toooorch/q-player/,,,programmatic,unknown,unknown
-Qawl,https://github.com/sufone/qawl,^10.2.0,2023-10-03 01:43:53-0700,programmatic,vulnerable,vulnerable
+Qawl,https://github.com/sufone/qawl,^10.2.0,2023-10-03 19:14:53-0700,programmatic,vulnerable,vulnerable
 qikQR,,,,programmatic,unknown,unknown
-QMUI Web,https://github.com/QMUI/qmui_web_desktop,,2023-10-03 01:43:55-0700,programmatic,unknown,unknown
+QMUI Web,https://github.com/QMUI/qmui_web_desktop,,2023-10-03 19:14:54-0700,programmatic,unknown,unknown
 Quail,,,,programmatic,unknown,unknown
-Quark,https://github.com/Nishkalkashyap/Quark-electron,^6.1.9,2023-10-03 01:43:56-0700,programmatic,vulnerable,vulnerable
-Quba E-Invoice Viewer,https://github.com/ZUGFeRD/quba-viewer,20.0.0,2023-10-03 01:43:57-0700,programmatic,vulnerable,vulnerable
+Quark,https://github.com/Nishkalkashyap/Quark-electron,^6.1.9,2023-10-03 19:14:55-0700,programmatic,vulnerable,vulnerable
+Quba E-Invoice Viewer,https://github.com/ZUGFeRD/quba-viewer,20.0.0,2023-10-03 19:14:57-0700,programmatic,vulnerable,vulnerable
 QuickBooks,,,,programmatic,unknown,unknown
-QuickRedis,https://github.com/quick123official/quick_redis_blog,15.5.5,2023-10-03 01:43:59-0700,programmatic,vulnerable,vulnerable
+QuickRedis,https://github.com/quick123official/quick_redis_blog,15.5.5,2023-10-03 19:14:58-0700,programmatic,vulnerable,vulnerable
 r2e-todoworks,,,,programmatic,unknown,unknown
-R6RC,https://github.com/austinleath/r6rc,^9.1.0,2023-10-03 01:44:00-0700,programmatic,vulnerable,vulnerable
+R6RC,https://github.com/austinleath/r6rc,^9.1.0,2023-10-03 19:14:59-0700,programmatic,vulnerable,vulnerable
 Racompass,https://github.com/racompass/racompass,,,programmatic,unknown,unknown
 Radio 50/50 Player,,,,programmatic,unknown,unknown
 Raider for Instagram,https://github.com/AssetKid/raider-release,,,programmatic,unknown,unknown
-Rainbow Board,https://github.com/HarshKhandeparkar/rainbow-board,^12.0.1,2023-10-03 01:44:02-0700,programmatic,vulnerable,vulnerable
-Rambox,https://github.com/saenzramiro/rambox,13.6.3,2023-10-03 01:44:04-0700,programmatic,vulnerable,vulnerable
+Rainbow Board,https://github.com/HarshKhandeparkar/rainbow-board,^12.0.1,2023-10-03 19:15:02-0700,programmatic,vulnerable,vulnerable
+Rambox,https://github.com/saenzramiro/rambox,13.6.3,2023-10-03 19:15:03-0700,programmatic,vulnerable,vulnerable
 Raven Reader,,,,programmatic,unknown,unknown
 raycho,,,,programmatic,unknown,unknown
 Reach Podcast Player,,,,programmatic,unknown,unknown
 React-Explorer,,,,programmatic,unknown,unknown
-Rebaslight,https://github.com/rebaslight/rebaslight,^23.1.0,2023-10-03 01:44:05-0700,programmatic,vulnerable,vulnerable
-Recode Converter,https://github.com/murgatt/recode-converter,^11.5.0,2023-10-03 01:44:06-0700,programmatic,vulnerable,vulnerable
+Rebaslight,https://github.com/rebaslight/rebaslight,^23.1.0,2023-10-03 19:15:05-0700,programmatic,vulnerable,vulnerable
+Recode Converter,https://github.com/murgatt/recode-converter,^11.5.0,2023-10-03 19:15:06-0700,programmatic,vulnerable,vulnerable
 Recollectr,https://github.com/Recollectr/releases,,,programmatic,unknown,unknown
-Redis GUI (unofficial),https://github.com/ekvedaras/redis-gui,19.1.9,2023-10-03 01:44:09-0700,programmatic,vulnerable,vulnerable
+Redis GUI (unofficial),https://github.com/ekvedaras/redis-gui,19.1.9,2023-10-03 19:15:09-0700,programmatic,vulnerable,vulnerable
 Remaining Time,,,,programmatic,unknown,unknown
 Remember,,,,programmatic,unknown,unknown
 Remind,,,,programmatic,unknown,unknown
 Remindr,https://github.com/MrDavidRios/remindr_releases,,,programmatic,unknown,unknown
 RemSupp,,,,programmatic,unknown,unknown
-RenderTune,https://github.com/MartinBarker/RenderTune,11.3.0,2023-10-03 01:44:11-0700,programmatic,vulnerable,vulnerable
+RenderTune,https://github.com/MartinBarker/RenderTune,11.3.0,2023-10-03 19:15:11-0700,programmatic,vulnerable,vulnerable
 Repic,,,,programmatic,unknown,unknown
 ReqView,,,,programmatic,unknown,unknown
 Responsively App,https://github.com/manojVivek/responsively-app,,,programmatic,unknown,unknown
-Responsivize,https://github.com/virejdasani/Responsivize,^12.0.7,2023-10-03 01:44:15-0700,programmatic,vulnerable,vulnerable
+Responsivize,https://github.com/virejdasani/Responsivize,^12.0.7,2023-10-03 19:15:15-0700,programmatic,vulnerable,vulnerable
 Reversee,,,,programmatic,unknown,unknown
 RIDE,,,,programmatic,unknown,unknown
-Ride Receipts,https://github.com/ridereceipts/ridereceipts,^9.0.4,2023-10-03 01:44:17-0700,programmatic,vulnerable,vulnerable
-Riot,https://github.com/vector-im/element-desktop,^26.2.1,2023-10-03 01:44:18-0700,programmatic,patched,vulnerable
+Ride Receipts,https://github.com/ridereceipts/ridereceipts,^9.0.4,2023-10-03 19:15:17-0700,programmatic,vulnerable,vulnerable
+Riot,https://github.com/vector-im/element-desktop,^26.2.1,2023-10-03 19:15:18-0700,programmatic,patched,vulnerable
 rmclient,,,,programmatic,unknown,unknown
 Rocket.Chat,,,,programmatic,unknown,unknown
 RunJS,,,,programmatic,unknown,unknown
 Runlet,https://github.com/runletapp/runlet,,,programmatic,unknown,unknown
-RStudio,https://github.com/rstudio/rstudio,26.2.4,,programmatic,patched,unknown
+RStudio,https://github.com/rstudio/rstudio,26.2.4,,manual,patched,vulnerable
 Saadhn,,,,programmatic,unknown,unknown
-Scratch For Discord,https://github.com/scratch-for-discord/scratch-for-discord-app,^19.0.8,2023-10-03 01:44:27-0700,programmatic,vulnerable,vulnerable
+Scratch For Discord,https://github.com/scratch-for-discord/scratch-for-discord-app,^19.0.8,2023-10-03 19:15:21-0700,programmatic,vulnerable,vulnerable
 ScreenCat,,,,programmatic,unknown,unknown
 ScreenTray,https://github.com/DSnopov/screentray-distribution,,,programmatic,unknown,unknown
-SeaPig,https://github.com/yasumichi/seapig,^7.0.0,2023-10-03 01:44:30-0700,programmatic,vulnerable,vulnerable
+SeaPig,https://github.com/yasumichi/seapig,^7.0.0,2023-10-03 19:15:24-0700,programmatic,vulnerable,vulnerable
 Sejda PDF Desktop,,^7.0.0,,programmatic,vulnerable,unknown
 Sencha Architect,,,,programmatic,unknown,unknown
 Sencha Inspector,,,,programmatic,unknown,unknown
 Sencha Test,,,,programmatic,unknown,unknown
 Sencha Themer,,,,programmatic,unknown,unknown
-SEOBrowse,https://github.com/seobrowse/serp/,^9.0.0,2023-10-03 01:44:31-0700,programmatic,vulnerable,vulnerable
+SEOBrowse,https://github.com/seobrowse/serp/,^9.0.0,2023-10-03 19:15:25-0700,programmatic,vulnerable,vulnerable
 Serene App,,,,programmatic,unknown,unknown
-Serina,https://github.com/ORN-Fox/serina-1,^24.2.0,2023-10-03 01:44:32-0700,programmatic,vulnerable,vulnerable
+Serina,https://github.com/ORN-Fox/serina-1,^24.2.0,2023-10-03 19:15:26-0700,programmatic,vulnerable,vulnerable
 Ses,,,,programmatic,unknown,unknown
 sFTP Client,,,,programmatic,unknown,unknown
 shadowsocks-electron,,,,programmatic,unknown,unknown
@@ -520,152 +520,152 @@ Shapespark,,,,programmatic,unknown,unknown
 sheepChat,,,,programmatic,unknown,unknown
 Shift,,,,programmatic,unknown,unknown
 Shuttle,,,,programmatic,unknown,unknown
-Signal,https://github.com/signalapp/Signal-Desktop,25.8.4,2023-10-03 01:44:34-0700,programmatic,patched,patched
-Silex website builder,https://github.com/silexlabs/silex-desktop/,10.1.5,2023-10-03 01:44:35-0700,programmatic,vulnerable,vulnerable
+Signal,https://github.com/signalapp/Signal-Desktop,25.8.4,2023-10-03 19:15:27-0700,programmatic,patched,patched
+Silex website builder,https://github.com/silexlabs/silex-desktop/,10.1.5,2023-10-03 19:15:29-0700,programmatic,vulnerable,vulnerable
 Simpico,,,,programmatic,unknown,unknown
 Simple-Finder,,,,programmatic,unknown,unknown
-SimpleInstaBot,https://github.com/mifi/SimpleInstaBot,^19.1.8,2023-10-03 01:44:36-0700,programmatic,vulnerable,vulnerable
-Simplenote,https://github.com/Automattic/simplenote-electron,12.0.5,2023-10-03 01:44:38-0700,programmatic,vulnerable,vulnerable
-Singlebox,https://github.com/webcatalog/neutron,18.0.1,2023-10-03 01:44:39-0700,programmatic,vulnerable,vulnerable
+SimpleInstaBot,https://github.com/mifi/SimpleInstaBot,^19.1.8,2023-10-03 19:15:30-0700,programmatic,vulnerable,vulnerable
+Simplenote,https://github.com/Automattic/simplenote-electron,12.0.5,2023-10-03 19:15:32-0700,programmatic,vulnerable,vulnerable
+Singlebox,https://github.com/webcatalog/neutron,18.0.1,2023-10-03 19:15:33-0700,programmatic,vulnerable,vulnerable
 Sizzy,,,,programmatic,unknown,unknown
 Skype,,,,programmatic,unknown,unknown
-Slack,,26.2.1,,programmatic,patched,unknown
+Slack,,26.2.1,,manual,patched,vulnerable
 Slapdash,,,,programmatic,unknown,unknown
 sleek,,,,programmatic,unknown,unknown
 Smallpdf,,,,programmatic,unknown,unknown
-SnailFM,https://github.com/snaildos/SnailFM-Application,25.8.1,2023-10-03 01:44:40-0700,programmatic,patched,vulnerable
+SnailFM,https://github.com/snaildos/SnailFM-Application,25.8.1,2023-10-03 19:15:34-0700,programmatic,patched,vulnerable
 SnipAway,,,,programmatic,unknown,unknown
 SnipCommand,,,,programmatic,unknown,unknown
 Snipline,,,,programmatic,unknown,unknown
-Snippet Store,https://github.com/ZeroX-DG/SnippetStore,^7.3.3,2023-10-03 01:44:42-0700,programmatic,vulnerable,vulnerable
+Snippet Store,https://github.com/ZeroX-DG/SnippetStore,^7.3.3,2023-10-03 19:15:35-0700,programmatic,vulnerable,vulnerable
 SnowyOwl,,,,programmatic,unknown,unknown
 Social Amnesia,,,,programmatic,unknown,unknown
-Socially,https://github.com/JackHumphries9/Socially,^12.0.2,2023-10-03 01:44:43-0700,programmatic,vulnerable,vulnerable
+Socially,https://github.com/JackHumphries9/Socially,^12.0.2,2023-10-03 19:15:37-0700,programmatic,vulnerable,vulnerable
 Sofia,,,,programmatic,unknown,unknown
 Somiibo,,,,programmatic,unknown,unknown
 SongRiffer,,,,programmatic,unknown,unknown
 Sononym,,,,programmatic,unknown,unknown
 Soundboard,,,,programmatic,unknown,unknown
 Soundglass,,,,programmatic,unknown,unknown
-Soundnode,https://github.com/Soundnode/soundnode-app,^8.0.1,2023-10-03 01:44:44-0700,programmatic,vulnerable,vulnerable
+Soundnode,https://github.com/Soundnode/soundnode-app,^8.0.1,2023-10-03 19:15:38-0700,programmatic,vulnerable,vulnerable
 Source Me,,,,programmatic,unknown,unknown
-SpaceEye,https://github.com/KYDronePilot/SpaceEye,~9.2.0,2023-10-03 01:44:45-0700,programmatic,vulnerable,vulnerable
+SpaceEye,https://github.com/KYDronePilot/SpaceEye,~9.2.0,2023-10-03 19:15:39-0700,programmatic,vulnerable,vulnerable
 SparkChess,,,,programmatic,unknown,unknown
-SpinShare Client,https://github.com/SpinShare/client,12.2.3,2023-10-03 01:44:47-0700,programmatic,vulnerable,vulnerable
+SpinShare Client,https://github.com/SpinShare/client,12.2.3,2023-10-03 19:15:40-0700,programmatic,vulnerable,vulnerable
 Splice,,,,programmatic,unknown,unknown
 spofly,https://github.com/itsjustaplant/spofly,,,programmatic,unknown,unknown
 SportFX Studio,,,,programmatic,unknown,unknown
 SpotSpot,,,,programmatic,unknown,unknown
 Spreaker Studio,,,,programmatic,unknown,unknown
-Sqlectron,https://github.com/sqlectron/sqlectron-gui,^12.0.1,2023-10-03 01:44:49-0700,programmatic,vulnerable,vulnerable
-sqlui-native,https://github.com/synle/sqlui-native,^20.2.0,2023-10-03 01:44:50-0700,programmatic,vulnerable,vulnerable
+Sqlectron,https://github.com/sqlectron/sqlectron-gui,^12.0.1,2023-10-03 19:15:43-0700,programmatic,vulnerable,vulnerable
+sqlui-native,https://github.com/synle/sqlui-native,^20.2.0,2023-10-03 19:15:45-0700,programmatic,vulnerable,vulnerable
 Stack,,,,programmatic,unknown,unknown
-stacker,https://github.com/enqueuer-land/stacker,^22.3.24,2023-10-03 01:44:51-0700,programmatic,patched,vulnerable
+stacker,https://github.com/enqueuer-land/stacker,^22.3.24,2023-10-03 19:15:46-0700,programmatic,patched,vulnerable
 Stacks,,,,programmatic,unknown,unknown
 STAMP,,,,programmatic,unknown,unknown
-Standard Notes,https://github.com/standardnotes/desktop,17.4.2,2023-10-03 01:44:53-0700,programmatic,vulnerable,vulnerable
-Standup Picker,https://github.com/Mokkapps/scrum-daily-standup-picker,^16.0.7,2023-10-03 01:44:54-0700,programmatic,vulnerable,vulnerable
+Standard Notes,https://github.com/standardnotes/desktop,17.4.2,2023-10-03 19:15:48-0700,programmatic,vulnerable,vulnerable
+Standup Picker,https://github.com/Mokkapps/scrum-daily-standup-picker,^16.0.7,2023-10-03 19:15:49-0700,programmatic,vulnerable,vulnerable
 Station,,,,programmatic,unknown,unknown
 stay-hydrated,,,,programmatic,unknown,unknown
 SteelSeries Engine 3,,23.1.3,,programmatic,vulnerable,unknown
 StickyNotes,,,,programmatic,unknown,unknown
-Stinker,https://github.com/PatentLobster/stinker,^11.4.11,2023-10-03 01:44:55-0700,programmatic,vulnerable,vulnerable
+Stinker,https://github.com/PatentLobster/stinker,^11.4.11,2023-10-03 19:15:50-0700,programmatic,vulnerable,vulnerable
 Stockifier,,,,programmatic,unknown,unknown
 Stopawu,,,,programmatic,unknown,unknown
 StopLight,,,,programmatic,unknown,unknown
 Storaji,,,,programmatic,unknown,unknown
 Storm,https://github.com/StormSDK/StormApp,,,programmatic,unknown,unknown
-StreamBop,https://github.com/snaildos/StreamBop,25.8.1,2023-10-03 01:44:57-0700,programmatic,patched,vulnerable
-Streamlabs Desktop,https://github.com/stream-labs/desktop,17.4.11,2023-10-03 01:44:59-0700,programmatic,vulnerable,vulnerable
+StreamBop,https://github.com/snaildos/StreamBop,25.8.1,2023-10-03 19:15:52-0700,programmatic,patched,vulnerable
+Streamlabs Desktop,https://github.com/stream-labs/desktop,17.4.11,2023-10-03 19:15:53-0700,programmatic,vulnerable,vulnerable
 Street View Download 360,,,,programmatic,unknown,unknown
 StudioTrans,,,,programmatic,unknown,unknown
 StudyMD,,,,programmatic,unknown,unknown
-Sturdy,https://github.com/sturdy-dev/sturdy,,2023-10-03 01:45:02-0700,programmatic,unknown,unknown
+Sturdy,https://github.com/sturdy-dev/sturdy,,2023-10-03 19:15:56-0700,programmatic,unknown,unknown
 Subordination,,,,programmatic,unknown,unknown
-Subtitler,https://github.com/s8sachin/subtitler,^8,2023-10-03 01:45:03-0700,programmatic,vulnerable,vulnerable
-Super Productivity,https://github.com/johannesjo/super-productivity,^23.3.13,2023-10-03 01:45:04-0700,programmatic,vulnerable,vulnerable
+Subtitler,https://github.com/s8sachin/subtitler,^8,2023-10-03 19:15:58-0700,programmatic,vulnerable,vulnerable
+Super Productivity,https://github.com/johannesjo/super-productivity,^23.3.13,2023-10-03 19:15:59-0700,programmatic,vulnerable,vulnerable
 Superpowers — HTML5 2D+3D game maker,,,,programmatic,unknown,unknown
 Superscript,,,,programmatic,unknown,unknown
 Svgsus,,,,programmatic,unknown,unknown
 Swifty,,,,programmatic,unknown,unknown
 Swit,,,,programmatic,unknown,unknown
-Switch,https://github.com/ahkohd/switch-desktop,^7.0.0-beta.6,2023-10-03 01:45:06-0700,programmatic,vulnerable,vulnerable
-SwitchHosts,https://github.com/oldj/SwitchHosts,24.8.3,2023-10-03 01:45:07-0700,programmatic,patched,vulnerable
-Symphony,https://github.com/symphonyoss/SymphonyElectron,26.2.3,2023-10-03 01:45:08-0700,programmatic,patched,vulnerable
+Switch,https://github.com/ahkohd/switch-desktop,^7.0.0-beta.6,2023-10-03 19:16:01-0700,programmatic,vulnerable,vulnerable
+SwitchHosts,https://github.com/oldj/SwitchHosts,24.8.3,2023-10-03 19:16:02-0700,programmatic,patched,vulnerable
+Symphony,https://github.com/symphonyoss/SymphonyElectron,26.2.3,2023-10-03 19:16:03-0700,programmatic,patched,vulnerable
 Synap,,,,programmatic,unknown,unknown
 T.Viewer,,,,programmatic,unknown,unknown
 Tabby,,,,programmatic,unknown,unknown
-Tabby Terminal,https://github.com/Eugeny/tabby,^25.3.0,2023-10-03 01:45:10-0700,programmatic,vulnerable,vulnerable
+Tabby Terminal,https://github.com/Eugeny/tabby,^25.3.0,2023-10-03 19:16:04-0700,programmatic,vulnerable,vulnerable
 TagFlow,,,,programmatic,unknown,unknown
-TagSpaces,https://github.com/tagspaces/tagspaces,25.8.3,2023-10-03 01:45:11-0700,programmatic,patched,vulnerable
+TagSpaces,https://github.com/tagspaces/tagspaces,25.8.3,2023-10-03 19:16:06-0700,programmatic,patched,vulnerable
 Tagstoo,https://sourceforge.net/projects/tagstoo/files/Tagstoo__sourcecode/,,,programmatic,unknown,unknown
 Taskade,,,,programmatic,unknown,unknown
-Taskana,https://github.com/mountainash/taskana,26.2.4,2023-10-03 01:45:13-0700,programmatic,patched,patched
+Taskana,https://github.com/mountainash/taskana,26.2.4,2023-10-03 19:16:07-0700,programmatic,patched,patched
 TEA Ebook,,,,programmatic,unknown,unknown
 Teleios Bible,,,,programmatic,unknown,unknown
-Ten Hands,https://github.com/saisandeepvaddi/ten-hands,,2023-10-03 01:45:14-0700,programmatic,unknown,unknown
-Tèsèvè,https://github.com/teseve/teseve,,2023-10-03 01:45:16-0700,programmatic,unknown,unknown
+Ten Hands,https://github.com/saisandeepvaddi/ten-hands,,2023-10-03 19:16:09-0700,programmatic,unknown,unknown
+Tèsèvè,https://github.com/teseve/teseve,,2023-10-03 19:16:10-0700,programmatic,unknown,unknown
 Tess,,,,programmatic,unknown,unknown
 TestCafe Studio,,,,programmatic,unknown,unknown
 TestMace,https://github.com/TestMace/TestMace-issues,,,programmatic,unknown,unknown
 Testrec,,,,programmatic,unknown,unknown
 texpaste,,,,programmatic,unknown,unknown
-TextureLab,https://github.com/njbrown/texturelab,^13.0.0,2023-10-03 01:45:18-0700,programmatic,vulnerable,vulnerable
+TextureLab,https://github.com/njbrown/texturelab,^13.0.0,2023-10-03 19:16:12-0700,programmatic,vulnerable,vulnerable
 The Poker Timer,,,,programmatic,unknown,unknown
 themebuilder,,,,programmatic,unknown,unknown
 ThisMyPC,,,,programmatic,unknown,unknown
-Thorium Reader,https://github.com/edrlab/thorium-reader/,^25.5.0,2023-10-03 01:45:19-0700,programmatic,vulnerable,vulnerable
+Thorium Reader,https://github.com/edrlab/thorium-reader/,^25.5.0,2023-10-03 19:16:13-0700,programmatic,vulnerable,vulnerable
 Threema For Desktop,,,,programmatic,unknown,unknown
 ThunderDocs,,,,programmatic,unknown,unknown
 TIDAL,,,,programmatic,unknown,unknown
 TidGi,,,,programmatic,unknown,unknown
 Tilde,,,,programmatic,unknown,unknown
 Tiliq,,,,programmatic,unknown,unknown
-Time Series Admin,https://github.com/timeseriesadmin/timeseriesadmin,8.5.2,2023-10-03 01:45:20-0700,programmatic,vulnerable,vulnerable
+Time Series Admin,https://github.com/timeseriesadmin/timeseriesadmin,8.5.2,2023-10-03 19:16:15-0700,programmatic,vulnerable,vulnerable
 Time Zone Converter and World Clock,,,,programmatic,unknown,unknown
 timeBuzzer,,,,programmatic,unknown,unknown
 Timetable,,,,programmatic,unknown,unknown
-To Do,https://github.com/luapp/ToDo,^11.1.1,2023-10-03 01:45:22-0700,programmatic,vulnerable,vulnerable
-Tockler,https://github.com/MayGo/tockler,,2023-10-03 01:45:23-0700,programmatic,unknown,unknown
-todometer,https://github.com/cassidoo/todometer/,^22.0.2,2023-10-03 01:45:24-0700,programmatic,vulnerable,vulnerable
+To Do,https://github.com/luapp/ToDo,^11.1.1,2023-10-03 19:16:16-0700,programmatic,vulnerable,vulnerable
+Tockler,https://github.com/MayGo/tockler,,2023-10-03 19:16:17-0700,programmatic,unknown,unknown
+todometer,https://github.com/cassidoo/todometer/,^22.0.2,2023-10-03 19:16:18-0700,programmatic,vulnerable,vulnerable
 Tofino,,,,programmatic,unknown,unknown
 tonfotos,,,,programmatic,unknown,unknown
 Top Browser,https://bitbucket.org/speedydemon/electron_top_browser/,,,programmatic,unknown,unknown
 Tough Cookies,,,,programmatic,unknown,unknown
 Trackabi Time Tracker,https://github.com/Trackabi/desktop-time-tracking,,,programmatic,unknown,unknown
 TrackingTime,,,,programmatic,unknown,unknown
-Transee,https://github.com/alessioforte/transee,^18.0.1,2023-10-03 01:45:28-0700,programmatic,vulnerable,vulnerable
+Transee,https://github.com/alessioforte/transee,^18.0.1,2023-10-03 19:16:22-0700,programmatic,vulnerable,vulnerable
 Translation Editor,https://bitbucket.org/bflower/react-intl-editor,,,programmatic,unknown,unknown
-Translatium,https://github.com/webcatalog/translatium-desktop,16.1.0,2023-10-03 01:45:30-0700,programmatic,vulnerable,vulnerable
+Translatium,https://github.com/webcatalog/translatium-desktop,16.1.0,2023-10-03 19:16:24-0700,programmatic,vulnerable,vulnerable
 Trello,,,,programmatic,unknown,unknown
 TriCo,,,,programmatic,unknown,unknown
 Trilium Notes,,,,programmatic,unknown,unknown
 Trivia Desktop,,,,programmatic,unknown,unknown
-Tropy,https://github.com/tropy/tropy/,^25.8.4,2023-10-03 01:45:31-0700,programmatic,patched,patched
+Tropy,https://github.com/tropy/tropy/,^25.8.4,2023-10-03 19:16:25-0700,programmatic,patched,patched
 Trym,,,,programmatic,unknown,unknown
 ttth,,,,programmatic,unknown,unknown
 Tunlookup,https://github.com/thephucit/tunlookup,,,programmatic,unknown,unknown
 Turbo Download Manager,,,,programmatic,unknown,unknown
-Tusk,https://github.com/klaussinani/tusk,6.0.11,2023-10-03 01:45:36-0700,programmatic,vulnerable,vulnerable
+Tusk,https://github.com/klaussinani/tusk,6.0.11,2023-10-03 19:16:30-0700,programmatic,vulnerable,vulnerable
 Tutti Quanti Shelf,,,,programmatic,unknown,unknown
 TweakStyle,,,,programmatic,unknown,unknown
 Tweeten,,,,programmatic,unknown,unknown
-Twinkle Tray,https://github.com/xanderfrangos/twinkle-tray,^20.3.6,2023-10-03 01:45:37-0700,programmatic,vulnerable,vulnerable
+Twinkle Tray,https://github.com/xanderfrangos/twinkle-tray,^20.3.6,2023-10-03 19:16:31-0700,programmatic,vulnerable,vulnerable
 Twitch,,,,programmatic,unknown,unknown
-TwitterTron,https://github.com/afractal/twittertron-app,,2023-10-03 01:45:38-0700,programmatic,unknown,unknown
+TwitterTron,https://github.com/afractal/twittertron-app,,2023-10-03 19:16:32-0700,programmatic,unknown,unknown
 Typetalk,,,,programmatic,unknown,unknown
 Tzared,,,,programmatic,unknown,unknown
-U Stair,https://github.com/afmorenosa/U_Stair,^9.3.4,2023-10-03 01:45:40-0700,programmatic,vulnerable,vulnerable
-UbAuth,https://github.com/chrisenytc/ubauth,,2023-10-03 01:45:41-0700,programmatic,unknown,unknown
-ueli,https://github.com/oliverschwendener/ueli,^26.2.1,2023-10-03 01:45:43-0700,programmatic,patched,vulnerable
+U Stair,https://github.com/afmorenosa/U_Stair,^9.3.4,2023-10-03 19:16:34-0700,programmatic,vulnerable,vulnerable
+UbAuth,https://github.com/chrisenytc/ubauth,,2023-10-03 19:16:35-0700,programmatic,unknown,unknown
+ueli,https://github.com/oliverschwendener/ueli,^26.2.1,2023-10-03 19:16:37-0700,programmatic,patched,vulnerable
 UMLBoard,,,,programmatic,unknown,unknown
-Unfx Proxy Checker,https://github.com/assnctr/unfx-proxy-checker,^20.1.4,2023-10-03 01:45:44-0700,programmatic,vulnerable,vulnerable
+Unfx Proxy Checker,https://github.com/assnctr/unfx-proxy-checker,^20.1.4,2023-10-03 19:16:39-0700,programmatic,vulnerable,vulnerable
 Unicopedia Plus,,,,programmatic,unknown,unknown
 Unicopedia Sinica,,,,programmatic,unknown,unknown
 Unofficial Desktop Client for Google Assistant,,,,programmatic,unknown,unknown
 Unofficial Google Chat App,,,,programmatic,unknown,unknown
 Unofficial Zalo,,,,programmatic,unknown,unknown
-Upcount,https://github.com/madisvain/upcount,^10.2.0,2023-10-03 01:45:45-0700,programmatic,vulnerable,vulnerable
+Upcount,https://github.com/madisvain/upcount,^10.2.0,2023-10-03 19:16:40-0700,programmatic,vulnerable,vulnerable
 uPhone,,,,programmatic,unknown,unknown
 Utilso,,,,programmatic,unknown,unknown
 Vade Mecum Shelf,,,,programmatic,unknown,unknown
@@ -674,9 +674,9 @@ Vectr,,,,programmatic,unknown,unknown
 Vershd,,,,programmatic,unknown,unknown
 Video Hub App,,,,programmatic,unknown,unknown
 Video Player,,,,programmatic,unknown,unknown
-Vikunja,https://code.vikunja.io/desktop,,2023-10-03 01:45:50-0700,programmatic,unknown,unknown
+Vikunja,https://code.vikunja.io/desktop,,2023-10-03 19:16:45-0700,programmatic,unknown,unknown
 Visual Family Tree,https://github.com/Jisco/VisualFamilyTree,,,programmatic,unknown,unknown
-Visual Studio Code,https://github.com/microsoft/vscode,25.8.4,2023-10-03 01:45:54-0700,programmatic,patched,patched
+Visual Studio Code,https://github.com/microsoft/vscode,25.8.4,2023-10-03 19:16:49-0700,programmatic,patched,patched
 VivifyScrum,https://github.com/Vivify-Ideas/vivifyscrum2-electron/,,,programmatic,unknown,unknown
 VK Messenger,,,,programmatic,unknown,unknown
 Voice Notifies,,,,programmatic,unknown,unknown
@@ -697,8 +697,8 @@ Web Net,https://github.com/MEGAMINDMK,,,programmatic,unknown,unknown
 Web Toolbox,,,,programmatic,unknown,unknown
 WebCatalog,,,,programmatic,unknown,unknown
 Webkiosk-Wrapper,,,,programmatic,unknown,unknown
-WebKitty,https://github.com/yikuansun/webkitty,^17.1.0,2023-10-03 01:45:58-0700,programmatic,vulnerable,vulnerable
-WebTorrent,https://github.com/webtorrent/webtorrent-desktop,15.5.7,2023-10-03 01:45:59-0700,programmatic,vulnerable,vulnerable
+WebKitty,https://github.com/yikuansun/webkitty,^17.1.0,2023-10-03 19:16:53-0700,programmatic,vulnerable,vulnerable
+WebTorrent,https://github.com/webtorrent/webtorrent-desktop,15.5.7,2023-10-03 19:16:54-0700,programmatic,vulnerable,vulnerable
 WeekToDo,,,,programmatic,unknown,unknown
 WeFlow,,,,programmatic,unknown,unknown
 WeightHub,,,,programmatic,unknown,unknown
@@ -709,8 +709,8 @@ WhatsApp,,,,programmatic,unknown,unknown
 Wildlink,,,,programmatic,unknown,unknown
 winds.yml,https://github.com/getstream/winds,,,programmatic,unknown,unknown
 Wire,https://github.com/wireapp,,,programmatic,unknown,unknown
-WizardMirror,https://www.github.com/Sanjit1/WizardMirror,^6.0.2,2023-10-03 01:46:06-0700,programmatic,vulnerable,vulnerable
-wnr,https://github.com/RoderickQiu/wnr,22.3.18,2023-10-03 01:46:07-0700,programmatic,vulnerable,vulnerable
+WizardMirror,https://www.github.com/Sanjit1/WizardMirror,^6.0.2,2023-10-03 19:17:01-0700,programmatic,vulnerable,vulnerable
+wnr,https://github.com/RoderickQiu/wnr,22.3.18,2023-10-03 19:17:03-0700,programmatic,vulnerable,vulnerable
 WordMark,,,,programmatic,unknown,unknown
 WordofTheHour,,,,programmatic,unknown,unknown
 WordPress,,,,programmatic,unknown,unknown
@@ -718,25 +718,25 @@ WorkPuls,,,,programmatic,unknown,unknown
 WORKSHEETS Data Studio,https://github.com/FalconSoft/worksheets-data.studio,,,programmatic,unknown,unknown
 World History AP,,,,programmatic,unknown,unknown
 WoW Stat,,,,programmatic,unknown,unknown
-WriteBar,https://github.com/alexander-shvets/writebar,,2023-10-03 01:46:10-0700,programmatic,unknown,unknown
+WriteBar,https://github.com/alexander-shvets/writebar,,2023-10-03 19:17:05-0700,programmatic,unknown,unknown
 XMind ZEN,,,,programmatic,unknown,unknown
 Xuanxuan IM,,,,programmatic,unknown,unknown
 y2mp3,,,,programmatic,unknown,unknown
-yana,https://github.com/lukasbach/yana,^10.1.1,2023-10-03 01:46:11-0700,programmatic,vulnerable,vulnerable
+yana,https://github.com/lukasbach/yana,^10.1.1,2023-10-03 19:17:07-0700,programmatic,vulnerable,vulnerable
 Yet-Another-Gitbook-Reader,,,,programmatic,unknown,unknown
 Yoheim,,,,programmatic,unknown,unknown
 Yout,,,,programmatic,unknown,unknown
-Youtube Music for Desktop (Unofficial),https://github.com/Venipa/ytmdesktop2,^20.3.3,2023-10-03 01:46:12-0700,programmatic,vulnerable,vulnerable
-YTMDesktop App,https://github.com/adlerluiz/ytmdesktop,^11.4.9,2023-10-03 01:46:14-0700,programmatic,vulnerable,vulnerable
-Zap,https://github.com/LN-Zap/zap-desktop,9.4.4,2023-10-03 01:46:15-0700,programmatic,vulnerable,vulnerable
+Youtube Music for Desktop (Unofficial),https://github.com/Venipa/ytmdesktop2,^20.3.3,2023-10-03 19:17:08-0700,programmatic,vulnerable,vulnerable
+YTMDesktop App,https://github.com/adlerluiz/ytmdesktop,^11.4.9,2023-10-03 19:17:10-0700,programmatic,vulnerable,vulnerable
+Zap,https://github.com/LN-Zap/zap-desktop,9.4.4,2023-10-03 19:17:11-0700,programmatic,vulnerable,vulnerable
 Zector,,,,programmatic,unknown,unknown
 Zefenify,https://github.com/Zefenify/Wolf-Cola,,,programmatic,unknown,unknown
 Zello,,,,programmatic,unknown,unknown
 Zeplin,,,,programmatic,unknown,unknown
 Zerabase,,,,programmatic,unknown,unknown
-Zettlr,https://github.com/zettlr/zettlr,^25.8.1,2023-10-03 01:46:18-0700,programmatic,patched,vulnerable
+Zettlr,https://github.com/zettlr/zettlr,^25.8.1,2023-10-03 19:17:14-0700,programmatic,patched,vulnerable
 Znote,https://github.com/alagrede/znote-app,,,programmatic,unknown,unknown
 zonote,,,,programmatic,unknown,unknown
 Zoommy,,,,programmatic,unknown,unknown
-Zulip,https://github.com/zulip/zulip-desktop,^25.8.1,2023-10-03 01:46:21-0700,programmatic,patched,vulnerable
+Zulip,https://github.com/zulip/zulip-desktop,^25.8.1,2023-10-03 19:17:17-0700,programmatic,patched,vulnerable
 白前,,,,programmatic,unknown,unknown
