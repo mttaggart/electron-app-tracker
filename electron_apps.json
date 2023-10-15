@@ -57,7 +57,7 @@
         "app_name": "Advanced REST Client",
         "repo": "https://github.com/advanced-rest-client/arc-electron",
         "electron_version": "^17.0.0",
-        "date_accessed": "2023-10-03 19:10:52-0700",
+        "date_accessed": "2023-10-14 21:37:08-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -75,7 +75,7 @@
         "app_name": "Aeon",
         "repo": "https://github.com/leinelissen/aeon",
         "electron_version": "23.2.0",
-        "date_accessed": "2023-10-03 19:10:54-0700",
+        "date_accessed": "2023-10-14 21:37:09-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -93,7 +93,7 @@
         "app_name": "Agora Flat",
         "repo": "https://github.com/netless-io/flat",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:10:56-0700",
+        "date_accessed": "2023-10-14 21:37:12-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -120,7 +120,7 @@
         "app_name": "Altair GraphQL Client",
         "repo": "https://github.com/imolorhe/altair",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:10:58-0700",
+        "date_accessed": "2023-10-14 21:37:14-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -147,7 +147,7 @@
         "app_name": "Antares",
         "repo": "https://github.com/Fabio286/antares",
         "electron_version": "~22.3.23",
-        "date_accessed": "2023-10-03 19:10:59-0700",
+        "date_accessed": "2023-10-14 21:37:15-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -156,7 +156,7 @@
         "app_name": "Appium Desktop",
         "repo": "https://github.com/appium/appium-desktop",
         "electron_version": "^10.0",
-        "date_accessed": "2023-10-03 19:11:01-0700",
+        "date_accessed": "2023-10-14 21:37:16-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -182,10 +182,10 @@
     {
         "app_name": "Assessment Disaggregation",
         "repo": "https://github.com/tazzben/Assessment-Disaggregation.git",
-        "electron_version": "^25.8.1",
-        "date_accessed": "2023-10-03 19:11:03-0700",
+        "electron_version": "^27.0.0",
+        "date_accessed": "2023-10-14 21:37:18-0700",
         "access_type": "programmatic",
-        "vulnerable_cve_2023_4863": "patched",
+        "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
     },
     {
@@ -210,7 +210,7 @@
         "app_name": "Atom",
         "repo": "https://github.com/atom/atom",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:11:04-0700",
+        "date_accessed": "2023-10-14 21:37:19-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -227,17 +227,17 @@
     {
         "app_name": "awsaml",
         "repo": "https://github.com/rapid7/awsaml",
-        "electron_version": "^26.1.0",
-        "date_accessed": "2023-10-03 19:11:05-0700",
+        "electron_version": "^26.2.4",
+        "date_accessed": "2023-10-14 21:37:20-0700",
         "access_type": "programmatic",
-        "vulnerable_cve_2023_4863": "vulnerable",
-        "vulnerable_cve_2023_5217": "vulnerable"
+        "vulnerable_cve_2023_4863": "patched",
+        "vulnerable_cve_2023_5217": "patched"
     },
     {
         "app_name": "Barklarm",
         "repo": "https://github.com/kanekotic/barklarm",
         "electron_version": "25.3.2",
-        "date_accessed": "2023-10-03 19:11:07-0700",
+        "date_accessed": "2023-10-14 21:37:21-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -273,7 +273,7 @@
         "app_name": "Beekeeper Studio",
         "repo": "https://github.com/beekeeper-studio/beekeeper-studio",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:11:11-0700",
+        "date_accessed": "2023-10-14 21:37:26-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -282,7 +282,7 @@
         "app_name": "Believers Sword",
         "repo": "https://github.com/Bible-Projects/believers-sword-app",
         "electron_version": "^19.0.0",
-        "date_accessed": "2023-10-03 19:11:12-0700",
+        "date_accessed": "2023-10-14 21:37:27-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -309,7 +309,7 @@
         "app_name": "Blockbench",
         "repo": "https://github.com/JannisX11/blockbench",
         "electron_version": "^25.7.0",
-        "date_accessed": "2023-10-03 19:11:15-0700",
+        "date_accessed": "2023-10-14 21:37:29-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -336,7 +336,7 @@
         "app_name": "BoxHero",
         "repo": "https://github.com/bgpworks/boxhero-electron",
         "electron_version": "23.0.0",
-        "date_accessed": "2023-10-03 19:11:16-0700",
+        "date_accessed": "2023-10-14 21:37:31-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -354,7 +354,7 @@
         "app_name": "Brim",
         "repo": "https://github.com/brimsec/brim",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:11:17-0700",
+        "date_accessed": "2023-10-14 21:37:32-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -399,7 +399,7 @@
         "app_name": "Buttercup",
         "repo": "https://github.com/buttercup/buttercup-desktop",
         "electron_version": "^22.0.0",
-        "date_accessed": "2023-10-03 19:11:18-0700",
+        "date_accessed": "2023-10-14 21:37:33-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -426,7 +426,7 @@
         "app_name": "Camunda Modeler",
         "repo": "https://github.com/camunda/camunda-modeler/",
         "electron_version": "^26.2.4",
-        "date_accessed": "2023-10-03 19:11:20-0700",
+        "date_accessed": "2023-10-14 21:37:34-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "patched",
         "vulnerable_cve_2023_5217": "patched"
@@ -516,7 +516,7 @@
         "app_name": "Cider",
         "repo": "https://github.com/ciderapp/Cider",
         "electron_version": "github:castlabs/electron-releases",
-        "date_accessed": "2023-10-03 19:11:21-0700",
+        "date_accessed": "2023-10-14 21:37:36-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -570,7 +570,7 @@
         "app_name": "Clovery",
         "repo": "https://github.com/webcatalog/neutron",
         "electron_version": "18.0.1",
-        "date_accessed": "2023-10-03 19:11:22-0700",
+        "date_accessed": "2023-10-14 21:37:37-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -588,7 +588,7 @@
         "app_name": "Cocos Creator",
         "repo": "https://github.com/cocos-creator/engine",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:11:24-0700",
+        "date_accessed": "2023-10-14 21:37:38-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -596,11 +596,11 @@
     {
         "app_name": "Codex",
         "repo": "https://github.com/jcv8000/Codex",
-        "electron_version": "^22.3.18",
-        "date_accessed": "2023-10-03 19:11:25-0700",
+        "electron_version": "^22.3.27",
+        "date_accessed": "2023-10-14 21:37:40-0700",
         "access_type": "programmatic",
-        "vulnerable_cve_2023_4863": "vulnerable",
-        "vulnerable_cve_2023_5217": "vulnerable"
+        "vulnerable_cve_2023_4863": "patched",
+        "vulnerable_cve_2023_5217": "patched"
     },
     {
         "app_name": "Colibri",
@@ -633,7 +633,7 @@
         "app_name": "Colorpicker",
         "repo": "https://github.com/Toinane/colorpicker",
         "electron_version": "^19.1.7",
-        "date_accessed": "2023-10-03 19:11:26-0700",
+        "date_accessed": "2023-10-14 21:37:41-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -642,7 +642,7 @@
         "app_name": "Commandeer",
         "repo": "https://github.com/commandeer/open",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:11:27-0700",
+        "date_accessed": "2023-10-14 21:37:42-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -705,7 +705,7 @@
         "app_name": "Cozy Desktop",
         "repo": "https://github.com/cozy-labs/cozy-desktop",
         "electron_version": "23.0.0",
-        "date_accessed": "2023-10-03 19:11:28-0700",
+        "date_accessed": "2023-10-14 21:37:43-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -714,7 +714,7 @@
         "app_name": "CryptoARM GOST",
         "repo": "https://github.com/TrustedRu/CryptoARMGOST",
         "electron_version": "7.1.13",
-        "date_accessed": "2023-10-03 19:11:30-0700",
+        "date_accessed": "2023-10-14 21:37:45-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -795,7 +795,7 @@
         "app_name": "Dat",
         "repo": "https://github.com/datproject/dat-desktop",
         "electron_version": "^6.1.7",
-        "date_accessed": "2023-10-03 19:11:33-0700",
+        "date_accessed": "2023-10-14 21:37:48-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -840,7 +840,7 @@
         "app_name": "DbGate",
         "repo": "https://github.com/dbgate/dbgate",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:11:36-0700",
+        "date_accessed": "2023-10-14 21:37:50-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -849,7 +849,7 @@
         "app_name": "DBGlass",
         "repo": "https://github.com/web-pal/DBGlass",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:11:37-0700",
+        "date_accessed": "2023-10-14 21:37:51-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -867,7 +867,7 @@
         "app_name": "DECK",
         "repo": "https://github.com/sfx101/docker-stacks",
         "electron_version": "^13.0.0",
-        "date_accessed": "2023-10-03 19:11:39-0700",
+        "date_accessed": "2023-10-14 21:37:53-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -885,7 +885,7 @@
         "app_name": "DeckMaster",
         "repo": "https://github.com/TheOtterlord/deckmaster",
         "electron_version": "^11.2.1",
-        "date_accessed": "2023-10-03 19:11:42-0700",
+        "date_accessed": "2023-10-14 21:37:56-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -939,7 +939,7 @@
         "app_name": "Deskfiler",
         "repo": "https://github.com/deskfiler/deskfiler",
         "electron_version": "6.0.9",
-        "date_accessed": "2023-10-03 19:11:45-0700",
+        "date_accessed": "2023-10-14 21:38:00-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -966,7 +966,7 @@
         "app_name": "Dict",
         "repo": "https://github.com/bryht/Dict",
         "electron_version": "^9.4.4",
-        "date_accessed": "2023-10-03 19:11:47-0700",
+        "date_accessed": "2023-10-14 21:38:01-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -975,7 +975,7 @@
         "app_name": "Diffuse",
         "repo": "https://github.com/icidasset/diffuse",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:11:48-0700",
+        "date_accessed": "2023-10-14 21:38:03-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -1002,7 +1002,7 @@
         "app_name": "Discord RPC Maker",
         "repo": "https://github.com/thatonecalculator/discordrpcmaker",
         "electron_version": "^22.0.0",
-        "date_accessed": "2023-10-03 19:11:49-0700",
+        "date_accessed": "2023-10-14 21:38:04-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1011,7 +1011,7 @@
         "app_name": "display-dj",
         "repo": "https://github.com/synle/display-dj",
         "electron_version": "^19.0.2",
-        "date_accessed": "2023-10-03 19:11:50-0700",
+        "date_accessed": "2023-10-14 21:38:05-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1047,7 +1047,7 @@
         "app_name": "Doki Doki Mod Manager",
         "repo": "https://github.com/DokiDokiModManager/Mod-Manager",
         "electron_version": "^10.1.3",
-        "date_accessed": "2023-10-03 19:11:53-0700",
+        "date_accessed": "2023-10-14 21:38:08-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1074,7 +1074,7 @@
         "app_name": "DomTerm",
         "repo": "https://github.com/PerBothner/DomTerm",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:11:56-0700",
+        "date_accessed": "2023-10-14 21:38:11-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -1083,7 +1083,7 @@
         "app_name": "Dopamine",
         "repo": "https://github.com/digimezzo/dopamine",
         "electron_version": "^21.0.0",
-        "date_accessed": "2023-10-03 19:11:57-0700",
+        "date_accessed": "2023-10-14 21:38:12-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1101,7 +1101,7 @@
         "app_name": "DropPoint",
         "repo": "https://github.com/GameGodS3/DropPoint",
         "electron_version": "^21.3.1",
-        "date_accessed": "2023-10-03 19:11:59-0700",
+        "date_accessed": "2023-10-14 21:38:18-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1119,7 +1119,7 @@
         "app_name": "Dusk Player",
         "repo": "https://github.com/Aveek-Saha/MusicPlayer",
         "electron_version": "^7.3.3",
-        "date_accessed": "2023-10-03 19:12:00-0700",
+        "date_accessed": "2023-10-14 21:38:25-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1155,7 +1155,7 @@
         "app_name": "EBTCalc",
         "repo": "https://github.com/EricTerrell/EBTCalc",
         "electron_version": "^26.1.0",
-        "date_accessed": "2023-10-03 19:12:01-0700",
+        "date_accessed": "2023-10-14 21:38:26-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1164,7 +1164,7 @@
         "app_name": "echo",
         "repo": "https://github.com/afractal/echo-app",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:12:02-0700",
+        "date_accessed": "2023-10-14 21:38:27-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -1200,7 +1200,7 @@
         "app_name": "ElectroCRUD",
         "repo": "https://github.com/garrylachman/ElectroCRUD",
         "electron_version": "^22.0.0",
-        "date_accessed": "2023-10-03 19:12:04-0700",
+        "date_accessed": "2023-10-14 21:38:28-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1209,7 +1209,7 @@
         "app_name": "Electron App Store (Unofficial)",
         "repo": "https://github.com/Electron-Store/electron-app-store",
         "electron_version": "^15.3.0",
-        "date_accessed": "2023-10-03 19:12:05-0700",
+        "date_accessed": "2023-10-14 21:38:30-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1263,7 +1263,7 @@
         "app_name": "encrypt0r",
         "repo": "https://github.com/kunalnagar/encrypt0r",
         "electron_version": "18.3.15",
-        "date_accessed": "2023-10-03 19:12:06-0700",
+        "date_accessed": "2023-10-14 21:38:31-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1281,7 +1281,7 @@
         "app_name": "Erin",
         "repo": "https://github.com/losbiw/erin",
         "electron_version": "^20.1.0",
-        "date_accessed": "2023-10-03 19:12:08-0700",
+        "date_accessed": "2023-10-14 21:38:32-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1290,7 +1290,7 @@
         "app_name": "eSearch",
         "repo": "https://github.com/xushengfeng/eSearch",
         "electron_version": "^22.3.6",
-        "date_accessed": "2023-10-03 19:12:09-0700",
+        "date_accessed": "2023-10-14 21:38:33-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1299,7 +1299,7 @@
         "app_name": "ETCD Manager",
         "repo": "https://github.com/icellmobilsoft/etcdmanager.git",
         "electron_version": "^6",
-        "date_accessed": "2023-10-03 19:12:11-0700",
+        "date_accessed": "2023-10-14 21:38:35-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1308,7 +1308,7 @@
         "app_name": "Etcher",
         "repo": "https://github.com/resin-io/etcher",
         "electron_version": "^19.1.9",
-        "date_accessed": "2023-10-03 19:12:12-0700",
+        "date_accessed": "2023-10-14 21:38:36-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1344,7 +1344,7 @@
         "app_name": "ExifCleaner",
         "repo": "https://github.com/szTheory/exifcleaner",
         "electron_version": "^11.0",
-        "date_accessed": "2023-10-03 19:12:13-0700",
+        "date_accessed": "2023-10-14 21:38:38-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1380,7 +1380,7 @@
         "app_name": "F-Curator",
         "repo": "https://github.com/xizon/F-Curator/",
         "electron_version": "^16.0.6",
-        "date_accessed": "2023-10-03 19:12:15-0700",
+        "date_accessed": "2023-10-14 21:38:39-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1388,11 +1388,11 @@
     {
         "app_name": "FAIRshare",
         "repo": "https://github.com/fairdataihub/FAIRshare",
-        "electron_version": "25.8.1",
-        "date_accessed": "2023-10-03 19:12:16-0700",
+        "electron_version": "25.8.4",
+        "date_accessed": "2023-10-14 21:38:40-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "patched",
-        "vulnerable_cve_2023_5217": "vulnerable"
+        "vulnerable_cve_2023_5217": "patched"
     },
     {
         "app_name": "fangyuanjian",
@@ -1434,7 +1434,7 @@
         "app_name": "Fifo",
         "repo": "https://github.com/snaildos/Fifo-Browser",
         "electron_version": "21.4.4",
-        "date_accessed": "2023-10-03 19:12:18-0700",
+        "date_accessed": "2023-10-14 21:38:42-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1452,7 +1452,7 @@
         "app_name": "FileCtor",
         "repo": "https://github.com/tomaschyly/FileCtor",
         "electron_version": "^9.2.0",
-        "date_accessed": "2023-10-03 19:12:19-0700",
+        "date_accessed": "2023-10-14 21:38:44-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1496,8 +1496,8 @@
     {
         "app_name": "Fishing Funds",
         "repo": "https://github.com/1zilc/fishing-funds",
-        "electron_version": "^26.0.0",
-        "date_accessed": "2023-10-03 19:12:20-0700",
+        "electron_version": "^27.0.0",
+        "date_accessed": "2023-10-14 21:38:45-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1515,7 +1515,7 @@
         "app_name": "FLB Music",
         "repo": "https://github.com/Patrick-web/FLB-Music-Player-Official",
         "electron_version": "13.2.2",
-        "date_accessed": "2023-10-03 19:12:22-0700",
+        "date_accessed": "2023-10-14 21:38:46-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1551,7 +1551,7 @@
         "app_name": "Fluent Reader",
         "repo": "https://github.com/yang991178/fluent-reader",
         "electron_version": "^21.0.1",
-        "date_accessed": "2023-10-03 19:12:23-0700",
+        "date_accessed": "2023-10-14 21:38:47-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1614,7 +1614,7 @@
         "app_name": "Frame",
         "repo": "https://github.com/floating/frame.git",
         "electron_version": "23.1.3",
-        "date_accessed": "2023-10-03 19:12:24-0700",
+        "date_accessed": "2023-10-14 21:38:49-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1632,7 +1632,7 @@
         "app_name": "Free Chess Club",
         "repo": "https://github.com/freechessclub/freechessclub-app",
         "electron_version": "^24.1.3",
-        "date_accessed": "2023-10-03 19:12:26-0700",
+        "date_accessed": "2023-10-14 21:38:50-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1686,7 +1686,7 @@
         "app_name": "Gaucho",
         "repo": "https://github.com/angrykoala/gaucho",
         "electron_version": "~13.1.9",
-        "date_accessed": "2023-10-03 19:12:27-0700",
+        "date_accessed": "2023-10-14 21:38:51-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1775,17 +1775,17 @@
     {
         "app_name": "GitHub Desktop",
         "repo": "https://github.com/desktop/desktop",
-        "electron_version": "26.2.1",
-        "date_accessed": "2023-10-03 19:12:37-0700",
+        "electron_version": "26.2.4",
+        "date_accessed": "2023-10-14 21:39:01-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "patched",
-        "vulnerable_cve_2023_5217": "vulnerable"
+        "vulnerable_cve_2023_5217": "patched"
     },
     {
         "app_name": "Gitify",
         "repo": "https://github.com/manosim/gitify",
         "electron_version": "^13.1.7",
-        "date_accessed": "2023-10-03 19:12:38-0700",
+        "date_accessed": "2023-10-14 21:39:02-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1893,7 +1893,7 @@
         "app_name": "Graviton Editor",
         "repo": "https://github.com/Graviton-Code-Editor/Graviton-App",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:12:39-0700",
+        "date_accessed": "2023-10-14 21:39:04-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -1902,7 +1902,7 @@
         "app_name": "gSubs",
         "repo": "https://github.com/sanjevirau/gsubs/",
         "electron_version": "~9.1.0",
-        "date_accessed": "2023-10-03 19:12:41-0700",
+        "date_accessed": "2023-10-14 21:39:05-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1947,7 +1947,7 @@
         "app_name": "healthi",
         "repo": "https://github.com/pablopunk/healthi-app",
         "electron_version": "^15.5.5",
-        "date_accessed": "2023-10-03 19:12:43-0700",
+        "date_accessed": "2023-10-14 21:39:07-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -1983,7 +1983,7 @@
         "app_name": "HexoClient",
         "repo": "https://github.com/gaoyoubo/hexo-client",
         "electron_version": "^7.2.4",
-        "date_accessed": "2023-10-03 19:12:44-0700",
+        "date_accessed": "2023-10-14 21:39:09-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2055,7 +2055,7 @@
         "app_name": "Hyper",
         "repo": "https://github.com/vercel/hyper",
         "electron_version": "22.3.24",
-        "date_accessed": "2023-10-03 19:12:46-0700",
+        "date_accessed": "2023-10-14 21:39:10-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "patched",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2118,7 +2118,7 @@
         "app_name": "ImageShrinker",
         "repo": "https://github.com/stefansl/image-shrinker",
         "electron_version": "^11.2.1",
-        "date_accessed": "2023-10-03 19:12:47-0700",
+        "date_accessed": "2023-10-14 21:39:12-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2136,7 +2136,7 @@
         "app_name": "Inboxer",
         "repo": "https://github.com/denysdovhan/inboxer",
         "electron_version": "^3.0",
-        "date_accessed": "2023-10-03 19:12:49-0700",
+        "date_accessed": "2023-10-14 21:39:13-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2163,7 +2163,7 @@
         "app_name": "Infiniti Clips",
         "repo": "https://github.com/azure06/infiniti-clips.git",
         "electron_version": "^21.2.0",
-        "date_accessed": "2023-10-03 19:12:50-0700",
+        "date_accessed": "2023-10-14 21:39:14-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2190,7 +2190,7 @@
         "app_name": "Insomnia",
         "repo": "https://github.com/getinsomnia/insomnia",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:12:52-0700",
+        "date_accessed": "2023-10-14 21:39:16-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -2226,7 +2226,7 @@
         "app_name": "Invizi",
         "repo": "https://github.com/invizi/invizi/",
         "electron_version": "^8.3.0",
-        "date_accessed": "2023-10-03 19:12:53-0700",
+        "date_accessed": "2023-10-14 21:39:17-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2271,7 +2271,7 @@
         "app_name": "itch",
         "repo": "https://github.com/itchio/itch",
         "electron_version": "^22.3.14",
-        "date_accessed": "2023-10-03 19:12:54-0700",
+        "date_accessed": "2023-10-14 21:39:18-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2325,7 +2325,7 @@
         "app_name": "Jasper",
         "repo": "https://github.com/jasperapp/jasper",
         "electron_version": "18.0.4",
-        "date_accessed": "2023-10-03 19:12:56-0700",
+        "date_accessed": "2023-10-14 21:39:20-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2334,7 +2334,7 @@
         "app_name": "Joplin",
         "repo": "https://github.com/laurent22/joplin",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:12:58-0700",
+        "date_accessed": "2023-10-14 21:39:22-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -2352,7 +2352,7 @@
         "app_name": "Juggernaut",
         "repo": "https://github.com/LN-Juggernaut/juggernaut-desktop",
         "electron_version": "8.2.0",
-        "date_accessed": "2023-10-03 19:12:59-0700",
+        "date_accessed": "2023-10-14 21:39:23-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2370,7 +2370,7 @@
         "app_name": "JumpFm",
         "repo": "https://github.com/Gilad-Kutiel-App/jumpfm",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:13:01-0700",
+        "date_accessed": "2023-10-14 21:39:24-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -2379,7 +2379,7 @@
         "app_name": "Kahla",
         "repo": "https://github.com/AiursoftWeb/Kahla.App",
         "electron_version": "^8.3.0",
-        "date_accessed": "2023-10-03 19:13:02-0700",
+        "date_accessed": "2023-10-14 21:39:25-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2406,7 +2406,7 @@
         "app_name": "Kap",
         "repo": "https://github.com/wulkano/kap",
         "electron_version": "13.6.9",
-        "date_accessed": "2023-10-03 19:13:03-0700",
+        "date_accessed": "2023-10-14 21:39:26-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2469,7 +2469,7 @@
         "app_name": "KeeWeb",
         "repo": "https://github.com/keeweb/keeweb",
         "electron_version": "^12.0.7",
-        "date_accessed": "2023-10-03 19:13:07-0700",
+        "date_accessed": "2023-10-14 21:39:31-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2505,7 +2505,7 @@
         "app_name": "Knowte",
         "repo": "https://github.com/digimezzo/knowte-electron",
         "electron_version": "17.3.1",
-        "date_accessed": "2023-10-03 19:13:12-0700",
+        "date_accessed": "2023-10-14 21:39:35-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2523,7 +2523,7 @@
         "app_name": "Kube Dev Dashboard",
         "repo": "https://github.com/prsh9/KubeCtl-Dashboard",
         "electron_version": "^22.0.0",
-        "date_accessed": "2023-10-03 19:13:14-0700",
+        "date_accessed": "2023-10-14 21:39:36-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2532,7 +2532,7 @@
         "app_name": "Kube Forwarder",
         "repo": "https://github.com/pixel-point/kube-forwarder",
         "electron_version": "12.0.2",
-        "date_accessed": "2023-10-03 19:13:15-0700",
+        "date_accessed": "2023-10-14 21:39:38-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2540,17 +2540,17 @@
     {
         "app_name": "LaraDumps",
         "repo": "https://github.com/laradumps/app",
-        "electron_version": "26.2.1",
-        "date_accessed": "2023-10-03 19:13:16-0700",
+        "electron_version": "26.2.4",
+        "date_accessed": "2023-10-14 21:39:39-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "patched",
-        "vulnerable_cve_2023_5217": "vulnerable"
+        "vulnerable_cve_2023_5217": "patched"
     },
     {
         "app_name": "Laravel Kit",
         "repo": "https://github.com/tmdh/laravel-kit",
         "electron_version": "21.0.1",
-        "date_accessed": "2023-10-03 19:13:18-0700",
+        "date_accessed": "2023-10-14 21:39:40-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2559,7 +2559,7 @@
         "app_name": "Last Hit",
         "repo": "https://github.com/last-hit-aab/last-hit",
         "electron_version": "^7.1.1",
-        "date_accessed": "2023-10-03 19:13:19-0700",
+        "date_accessed": "2023-10-14 21:39:41-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2595,7 +2595,7 @@
         "app_name": "LBRY Desktop",
         "repo": "https://github.com/lbryio/lbry-desktop",
         "electron_version": "17.2.0",
-        "date_accessed": "2023-10-03 19:13:20-0700",
+        "date_accessed": "2023-10-14 21:39:43-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2631,7 +2631,7 @@
         "app_name": "Lepton",
         "repo": "https://github.com/hackjutsu/Lepton",
         "electron_version": "^13.0.0",
-        "date_accessed": "2023-10-03 19:13:22-0700",
+        "date_accessed": "2023-10-14 21:39:44-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2649,7 +2649,7 @@
         "app_name": "lightgallery",
         "repo": "https://github.com/sachinchoolur/lightgallery-desktop",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:13:23-0700",
+        "date_accessed": "2023-10-14 21:39:45-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -2667,7 +2667,7 @@
         "app_name": "linked",
         "repo": "https://github.com/lostdesign/linked",
         "electron_version": "17.0.0",
-        "date_accessed": "2023-10-03 19:13:25-0700",
+        "date_accessed": "2023-10-14 21:39:46-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2675,8 +2675,8 @@
     {
         "app_name": "Lisk Hub",
         "repo": "https://github.com/LiskHQ/lisk-hub",
-        "electron_version": "25.2.0",
-        "date_accessed": "2023-10-03 19:13:26-0700",
+        "electron_version": "27.0.0",
+        "date_accessed": "2023-10-14 21:39:48-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2685,7 +2685,7 @@
         "app_name": "Local by Flywheel",
         "repo": "https://github.com/getflywheel/local-components",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:13:28-0700",
+        "date_accessed": "2023-10-14 21:39:49-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -2757,7 +2757,7 @@
         "app_name": "lsdeer",
         "repo": "https://github.com/AlexanderPershin/lsdeer",
         "electron_version": "^8.2.1",
-        "date_accessed": "2023-10-03 19:13:31-0700",
+        "date_accessed": "2023-10-14 21:39:52-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2793,7 +2793,7 @@
         "app_name": "Mailspring",
         "repo": "https://github.com/Foundry376/Mailspring",
         "electron_version": "17.4.0",
-        "date_accessed": "2023-10-03 19:13:32-0700",
+        "date_accessed": "2023-10-14 21:39:53-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2820,7 +2820,7 @@
         "app_name": "Markdownify",
         "repo": "https://github.com/amitmerchant1990/electron-markdownify",
         "electron_version": "^7.2.4",
-        "date_accessed": "2023-10-03 19:13:34-0700",
+        "date_accessed": "2023-10-14 21:39:55-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2838,7 +2838,7 @@
         "app_name": "massCode",
         "repo": "https://github.com/antonreshetov/massCode",
         "electron_version": "^7.1.6",
-        "date_accessed": "2023-10-03 19:13:36-0700",
+        "date_accessed": "2023-10-14 21:39:56-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2865,7 +2865,7 @@
         "app_name": "Mattermost",
         "repo": "https://github.com/mattermost/desktop",
         "electron_version": "26.2.1",
-        "date_accessed": "2023-10-03 19:13:37-0700",
+        "date_accessed": "2023-10-14 21:39:58-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "patched",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2883,7 +2883,7 @@
         "app_name": "mdp",
         "repo": "https://github.com/ericlink/mdp",
         "electron_version": "^13.1.6",
-        "date_accessed": "2023-10-03 19:13:38-0700",
+        "date_accessed": "2023-10-14 21:39:59-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2901,7 +2901,7 @@
         "app_name": "mediaChips",
         "repo": "https://github.com/fupdec/mediaChips",
         "electron_version": "^17.0.0",
-        "date_accessed": "2023-10-03 19:13:39-0700",
+        "date_accessed": "2023-10-14 21:40:00-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2919,7 +2919,7 @@
         "app_name": "M\u00e9lodie",
         "repo": "https://github.com/feugy/melodie",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:13:41-0700",
+        "date_accessed": "2023-10-14 21:40:01-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -2937,7 +2937,7 @@
         "app_name": "Metastream",
         "repo": "https://github.com/samuelmaddock/metastream",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:13:43-0700",
+        "date_accessed": "2023-10-14 21:40:02-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -2955,7 +2955,7 @@
         "app_name": "Metronome Wallet",
         "repo": "https://github.com/autonomoussoftware/metronome-wallet-desktop",
         "electron_version": "13.1.4",
-        "date_accessed": "2023-10-03 19:13:44-0700",
+        "date_accessed": "2023-10-14 21:40:04-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -2991,7 +2991,7 @@
         "app_name": "Min",
         "repo": "https://github.com/minbrowser/min",
         "electron_version": "26.2.1",
-        "date_accessed": "2023-10-03 19:13:45-0700",
+        "date_accessed": "2023-10-14 21:40:05-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "patched",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3000,7 +3000,7 @@
         "app_name": "Mindmapp",
         "repo": "https://github.com/Mindmapp/mindmapp",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:13:47-0700",
+        "date_accessed": "2023-10-14 21:40:06-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -3018,7 +3018,7 @@
         "app_name": "Mini Diary",
         "repo": "https://github.com/samuelmeuli/mini-diary",
         "electron_version": "^8.3.0",
-        "date_accessed": "2023-10-03 19:13:49-0700",
+        "date_accessed": "2023-10-14 21:40:09-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3054,7 +3054,7 @@
         "app_name": "MJML App",
         "repo": "https://github.com/mjmlio/mjml-app",
         "electron_version": "7.2.4",
-        "date_accessed": "2023-10-03 19:13:51-0700",
+        "date_accessed": "2023-10-14 21:40:10-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3090,7 +3090,7 @@
         "app_name": "Mockoon",
         "repo": "https://github.com/255kb/mockoon",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:13:53-0700",
+        "date_accessed": "2023-10-14 21:40:13-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -3108,7 +3108,7 @@
         "app_name": "ModernDeck for Twitter",
         "repo": "https://github.com/dangeredwolf/ModernDeck",
         "electron_version": "^19.1.9",
-        "date_accessed": "2023-10-03 19:13:55-0700",
+        "date_accessed": "2023-10-14 21:40:14-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3152,17 +3152,17 @@
     {
         "app_name": "Monokle",
         "repo": "https://github.com/kubeshop/monokle",
-        "electron_version": "26.2.2",
-        "date_accessed": "2023-10-03 19:13:56-0700",
+        "electron_version": "26.3.0",
+        "date_accessed": "2023-10-14 21:40:15-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "patched",
-        "vulnerable_cve_2023_5217": "vulnerable"
+        "vulnerable_cve_2023_5217": "patched"
     },
     {
         "app_name": "monolith code",
         "repo": "https://github.com/Haeri/MonolithCode2",
         "electron_version": "^26.2.3",
-        "date_accessed": "2023-10-03 19:13:57-0700",
+        "date_accessed": "2023-10-14 21:40:17-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "patched",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3189,7 +3189,7 @@
         "app_name": "Moosync",
         "repo": "https://github.com/Moosync/Moosync",
         "electron_version": "25.5.0",
-        "date_accessed": "2023-10-03 19:13:58-0700",
+        "date_accessed": "2023-10-14 21:40:18-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3207,7 +3207,7 @@
         "app_name": "Motrix",
         "repo": "https://github.com/agalwood/Motrix",
         "electron_version": "^22.3.9",
-        "date_accessed": "2023-10-03 19:14:00-0700",
+        "date_accessed": "2023-10-14 21:40:19-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3216,7 +3216,7 @@
         "app_name": "MoviePrint",
         "repo": "https://github.com/fakob/MoviePrint_v004",
         "electron_version": "7.1.11",
-        "date_accessed": "2023-10-03 19:14:01-0700",
+        "date_accessed": "2023-10-14 21:40:21-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3225,7 +3225,7 @@
         "app_name": "Mr Noplay",
         "repo": "https://github.com/scris/mrnoplay",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:14:03-0700",
+        "date_accessed": "2023-10-14 21:40:22-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -3243,7 +3243,7 @@
         "app_name": "mStream",
         "repo": "https://github.com/IrosTheBeggar/mStream",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:14:04-0700",
+        "date_accessed": "2023-10-14 21:40:24-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -3279,7 +3279,7 @@
         "app_name": "Museeks",
         "repo": "https://github.com/martpie/museeks",
         "electron_version": "26.1.0",
-        "date_accessed": "2023-10-03 19:14:05-0700",
+        "date_accessed": "2023-10-14 21:40:25-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3288,7 +3288,7 @@
         "app_name": "Music Player",
         "repo": "https://github.com/Tenpi/Music-Player",
         "electron_version": "^17.2.0",
-        "date_accessed": "2023-10-03 19:14:06-0700",
+        "date_accessed": "2023-10-14 21:40:27-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3297,7 +3297,7 @@
         "app_name": "music-player",
         "repo": "https://github.com/Aveek-Saha/MusicPlayer",
         "electron_version": "^7.3.3",
-        "date_accessed": "2023-10-03 19:14:08-0700",
+        "date_accessed": "2023-10-14 21:40:28-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3306,7 +3306,7 @@
         "app_name": "Musify",
         "repo": "https://github.com/SrGMC/musify",
         "electron_version": "^7.2.4",
-        "date_accessed": "2023-10-03 19:14:09-0700",
+        "date_accessed": "2023-10-14 21:40:29-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3324,7 +3324,7 @@
         "app_name": "MyLottery",
         "repo": "https://gitee.com/gemron/myLottery",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:14:14-0700",
+        "date_accessed": "2023-10-14 21:40:34-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -3351,7 +3351,7 @@
         "app_name": "Nertivia",
         "repo": "https://github.com/supertiger1234/nertivia-desktop-app/",
         "electron_version": "^15.3.1",
-        "date_accessed": "2023-10-03 19:14:16-0700",
+        "date_accessed": "2023-10-14 21:40:35-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3359,17 +3359,17 @@
     {
         "app_name": "Netron",
         "repo": "https://github.com/lutzroeder/netron",
-        "electron_version": "26.2.4",
-        "date_accessed": "2023-10-03 19:14:17-0700",
+        "electron_version": "27.0.0",
+        "date_accessed": "2023-10-14 21:40:36-0700",
         "access_type": "programmatic",
-        "vulnerable_cve_2023_4863": "patched",
-        "vulnerable_cve_2023_5217": "patched"
+        "vulnerable_cve_2023_4863": "vulnerable",
+        "vulnerable_cve_2023_5217": "vulnerable"
     },
     {
         "app_name": "Network Status Check",
         "repo": "https://github.com/cjerrington/net-check",
         "electron_version": "^22.0.0",
-        "date_accessed": "2023-10-03 19:14:18-0700",
+        "date_accessed": "2023-10-14 21:40:37-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3477,7 +3477,7 @@
         "app_name": "nteract",
         "repo": "https://github.com/nteract/nteract",
         "electron_version": "11.5.0",
-        "date_accessed": "2023-10-03 19:14:25-0700",
+        "date_accessed": "2023-10-14 21:40:45-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3495,7 +3495,7 @@
         "app_name": "nuclear",
         "repo": "https://github.com/nukeop/nuclear",
         "electron_version": "^12.1.0",
-        "date_accessed": "2023-10-03 19:14:26-0700",
+        "date_accessed": "2023-10-14 21:40:46-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3549,7 +3549,7 @@
         "app_name": "OhHai Browser",
         "repo": "https://github.com/OhHaiBrowser/Browser/",
         "electron_version": "^8.2.5",
-        "date_accessed": "2023-10-03 19:14:27-0700",
+        "date_accessed": "2023-10-14 21:40:48-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3612,7 +3612,7 @@
         "app_name": "Oversetter",
         "repo": "https://github.com/4gray/oversetter",
         "electron_version": "^7.1.9",
-        "date_accessed": "2023-10-03 19:14:30-0700",
+        "date_accessed": "2023-10-14 21:40:50-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3621,7 +3621,7 @@
         "app_name": "P3X OneNote",
         "repo": "https://github.com/patrikx3/onenote",
         "electron_version": "^25.8.2",
-        "date_accessed": "2023-10-03 19:14:31-0700",
+        "date_accessed": "2023-10-14 21:40:51-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "patched",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3630,7 +3630,7 @@
         "app_name": "P3X Redis UI",
         "repo": "https://github.com/patrikx3/redis-ui",
         "electron_version": "^26.1.0",
-        "date_accessed": "2023-10-03 19:14:32-0700",
+        "date_accessed": "2023-10-14 21:40:52-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3657,7 +3657,7 @@
         "app_name": "PanWriter",
         "repo": "https://github.com/mb21/panwriter",
         "electron_version": "^26.2.4",
-        "date_accessed": "2023-10-03 19:14:34-0700",
+        "date_accessed": "2023-10-14 21:40:53-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "patched",
         "vulnerable_cve_2023_5217": "patched"
@@ -3711,7 +3711,7 @@
         "app_name": "passky",
         "repo": "https://github.com/Rabbit-Company/Passky-Desktop",
         "electron_version": "^22.1.0",
-        "date_accessed": "2023-10-03 19:14:35-0700",
+        "date_accessed": "2023-10-14 21:40:55-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3720,7 +3720,7 @@
         "app_name": "Patchwork",
         "repo": "https://github.com/ssbc/patchwork",
         "electron_version": "^11.3.0",
-        "date_accessed": "2023-10-03 19:14:36-0700",
+        "date_accessed": "2023-10-14 21:40:56-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3756,7 +3756,7 @@
         "app_name": "Pencil",
         "repo": "https://github.com/evolus/pencil",
         "electron_version": "16.0.0",
-        "date_accessed": "2023-10-03 19:14:38-0700",
+        "date_accessed": "2023-10-14 21:40:57-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3765,7 +3765,7 @@
         "app_name": "Pendulums",
         "repo": "https://github.com/Swing-team/pendulums-web-client",
         "electron_version": "^6.0.7",
-        "date_accessed": "2023-10-03 19:14:39-0700",
+        "date_accessed": "2023-10-14 21:40:58-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3837,7 +3837,7 @@
         "app_name": "Picturama",
         "repo": "https://github.com/picturama/picturama",
         "electron_version": "~11.1.0",
-        "date_accessed": "2023-10-03 19:14:40-0700",
+        "date_accessed": "2023-10-14 21:40:59-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3855,7 +3855,7 @@
         "app_name": "PiTV",
         "repo": "https://github.com/ozankaraali/PiTV",
         "electron_version": "22.0.0",
-        "date_accessed": "2023-10-03 19:14:41-0700",
+        "date_accessed": "2023-10-14 21:41:01-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3899,8 +3899,8 @@
     {
         "app_name": "poi",
         "repo": "https://github.com/poooi/poi",
-        "electron_version": "^24.2.0",
-        "date_accessed": "2023-10-03 19:14:43-0700",
+        "electron_version": "^27.0.0",
+        "date_accessed": "2023-10-14 21:41:02-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3936,7 +3936,7 @@
         "app_name": "Pomotroid",
         "repo": "https://github.com/Splode/pomotroid",
         "electron_version": "^11.0.1",
-        "date_accessed": "2023-10-03 19:14:44-0700",
+        "date_accessed": "2023-10-14 21:41:03-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -3981,7 +3981,7 @@
         "app_name": "PreMiD",
         "repo": "https://github.com/PreMiD/PreMiD",
         "electron_version": "11.3.0",
-        "date_accessed": "2023-10-03 19:14:45-0700",
+        "date_accessed": "2023-10-14 21:41:05-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4008,7 +4008,7 @@
         "app_name": "PrettyEarth",
         "repo": "https://github.com/evertdespiegeleer/PrettyEarth",
         "electron_version": "^15.0.0",
-        "date_accessed": "2023-10-03 19:14:46-0700",
+        "date_accessed": "2023-10-14 21:41:06-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4026,7 +4026,7 @@
         "app_name": "Primate",
         "repo": "https://github.com/getprimate/primate",
         "electron_version": "^22.0.3",
-        "date_accessed": "2023-10-03 19:14:48-0700",
+        "date_accessed": "2023-10-14 21:41:07-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4107,7 +4107,7 @@
         "app_name": "Puppetry",
         "repo": "https://github.com/dsheiko/puppetry/",
         "electron_version": "^12.0.6",
-        "date_accessed": "2023-10-03 19:14:50-0700",
+        "date_accessed": "2023-10-14 21:41:09-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4134,7 +4134,7 @@
         "app_name": "Qawl",
         "repo": "https://github.com/sufone/qawl",
         "electron_version": "^10.2.0",
-        "date_accessed": "2023-10-03 19:14:53-0700",
+        "date_accessed": "2023-10-14 21:41:12-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4152,7 +4152,7 @@
         "app_name": "QMUI Web",
         "repo": "https://github.com/QMUI/qmui_web_desktop",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:14:54-0700",
+        "date_accessed": "2023-10-14 21:41:13-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -4170,7 +4170,7 @@
         "app_name": "Quark",
         "repo": "https://github.com/Nishkalkashyap/Quark-electron",
         "electron_version": "^6.1.9",
-        "date_accessed": "2023-10-03 19:14:55-0700",
+        "date_accessed": "2023-10-14 21:41:14-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4179,7 +4179,7 @@
         "app_name": "Quba E-Invoice Viewer",
         "repo": "https://github.com/ZUGFeRD/quba-viewer",
         "electron_version": "20.0.0",
-        "date_accessed": "2023-10-03 19:14:57-0700",
+        "date_accessed": "2023-10-14 21:41:15-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4197,7 +4197,7 @@
         "app_name": "QuickRedis",
         "repo": "https://github.com/quick123official/quick_redis_blog",
         "electron_version": "15.5.5",
-        "date_accessed": "2023-10-03 19:14:58-0700",
+        "date_accessed": "2023-10-14 21:41:17-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4215,7 +4215,7 @@
         "app_name": "R6RC",
         "repo": "https://github.com/austinleath/r6rc",
         "electron_version": "^9.1.0",
-        "date_accessed": "2023-10-03 19:14:59-0700",
+        "date_accessed": "2023-10-14 21:41:18-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4251,7 +4251,7 @@
         "app_name": "Rainbow Board",
         "repo": "https://github.com/HarshKhandeparkar/rainbow-board",
         "electron_version": "^12.0.1",
-        "date_accessed": "2023-10-03 19:15:02-0700",
+        "date_accessed": "2023-10-14 21:41:20-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4260,7 +4260,7 @@
         "app_name": "Rambox",
         "repo": "https://github.com/saenzramiro/rambox",
         "electron_version": "13.6.3",
-        "date_accessed": "2023-10-03 19:15:03-0700",
+        "date_accessed": "2023-10-14 21:41:22-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4305,7 +4305,7 @@
         "app_name": "Rebaslight",
         "repo": "https://github.com/rebaslight/rebaslight",
         "electron_version": "^23.1.0",
-        "date_accessed": "2023-10-03 19:15:05-0700",
+        "date_accessed": "2023-10-14 21:41:23-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4314,7 +4314,7 @@
         "app_name": "Recode Converter",
         "repo": "https://github.com/murgatt/recode-converter",
         "electron_version": "^11.5.0",
-        "date_accessed": "2023-10-03 19:15:06-0700",
+        "date_accessed": "2023-10-14 21:41:24-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4332,7 +4332,7 @@
         "app_name": "Redis GUI (unofficial)",
         "repo": "https://github.com/ekvedaras/redis-gui",
         "electron_version": "19.1.9",
-        "date_accessed": "2023-10-03 19:15:09-0700",
+        "date_accessed": "2023-10-14 21:41:31-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4386,7 +4386,7 @@
         "app_name": "RenderTune",
         "repo": "https://github.com/MartinBarker/RenderTune",
         "electron_version": "11.3.0",
-        "date_accessed": "2023-10-03 19:15:11-0700",
+        "date_accessed": "2023-10-14 21:41:33-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4422,7 +4422,7 @@
         "app_name": "Responsivize",
         "repo": "https://github.com/virejdasani/Responsivize",
         "electron_version": "^12.0.7",
-        "date_accessed": "2023-10-03 19:15:15-0700",
+        "date_accessed": "2023-10-14 21:41:38-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4449,7 +4449,7 @@
         "app_name": "Ride Receipts",
         "repo": "https://github.com/ridereceipts/ridereceipts",
         "electron_version": "^9.0.4",
-        "date_accessed": "2023-10-03 19:15:17-0700",
+        "date_accessed": "2023-10-14 21:41:39-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4458,7 +4458,7 @@
         "app_name": "Riot",
         "repo": "https://github.com/vector-im/element-desktop",
         "electron_version": "^26.2.1",
-        "date_accessed": "2023-10-03 19:15:18-0700",
+        "date_accessed": "2023-10-14 21:41:40-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "patched",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4521,7 +4521,7 @@
         "app_name": "Scratch For Discord",
         "repo": "https://github.com/scratch-for-discord/scratch-for-discord-app",
         "electron_version": "^19.0.8",
-        "date_accessed": "2023-10-03 19:15:21-0700",
+        "date_accessed": "2023-10-14 21:41:43-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4548,7 +4548,7 @@
         "app_name": "SeaPig",
         "repo": "https://github.com/yasumichi/seapig",
         "electron_version": "^7.0.0",
-        "date_accessed": "2023-10-03 19:15:24-0700",
+        "date_accessed": "2023-10-14 21:41:45-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4602,7 +4602,7 @@
         "app_name": "SEOBrowse",
         "repo": "https://github.com/seobrowse/serp/",
         "electron_version": "^9.0.0",
-        "date_accessed": "2023-10-03 19:15:25-0700",
+        "date_accessed": "2023-10-14 21:41:47-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4620,7 +4620,7 @@
         "app_name": "Serina",
         "repo": "https://github.com/ORN-Fox/serina-1",
         "electron_version": "^24.2.0",
-        "date_accessed": "2023-10-03 19:15:26-0700",
+        "date_accessed": "2023-10-14 21:41:48-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4692,7 +4692,7 @@
         "app_name": "Signal",
         "repo": "https://github.com/signalapp/Signal-Desktop",
         "electron_version": "25.8.4",
-        "date_accessed": "2023-10-03 19:15:27-0700",
+        "date_accessed": "2023-10-14 21:41:49-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "patched",
         "vulnerable_cve_2023_5217": "patched"
@@ -4701,7 +4701,7 @@
         "app_name": "Silex website builder",
         "repo": "https://github.com/silexlabs/silex-desktop/",
         "electron_version": "10.1.5",
-        "date_accessed": "2023-10-03 19:15:29-0700",
+        "date_accessed": "2023-10-14 21:41:50-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4728,7 +4728,7 @@
         "app_name": "SimpleInstaBot",
         "repo": "https://github.com/mifi/SimpleInstaBot",
         "electron_version": "^19.1.8",
-        "date_accessed": "2023-10-03 19:15:30-0700",
+        "date_accessed": "2023-10-14 21:41:51-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4737,7 +4737,7 @@
         "app_name": "Simplenote",
         "repo": "https://github.com/Automattic/simplenote-electron",
         "electron_version": "12.0.5",
-        "date_accessed": "2023-10-03 19:15:32-0700",
+        "date_accessed": "2023-10-14 21:41:53-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4746,7 +4746,7 @@
         "app_name": "Singlebox",
         "repo": "https://github.com/webcatalog/neutron",
         "electron_version": "18.0.1",
-        "date_accessed": "2023-10-03 19:15:33-0700",
+        "date_accessed": "2023-10-14 21:41:54-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4809,7 +4809,7 @@
         "app_name": "SnailFM",
         "repo": "https://github.com/snaildos/SnailFM-Application",
         "electron_version": "25.8.1",
-        "date_accessed": "2023-10-03 19:15:34-0700",
+        "date_accessed": "2023-10-14 21:41:55-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "patched",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4845,7 +4845,7 @@
         "app_name": "Snippet Store",
         "repo": "https://github.com/ZeroX-DG/SnippetStore",
         "electron_version": "^7.3.3",
-        "date_accessed": "2023-10-03 19:15:35-0700",
+        "date_accessed": "2023-10-14 21:41:56-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4872,7 +4872,7 @@
         "app_name": "Socially",
         "repo": "https://github.com/JackHumphries9/Socially",
         "electron_version": "^12.0.2",
-        "date_accessed": "2023-10-03 19:15:37-0700",
+        "date_accessed": "2023-10-14 21:41:57-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4935,7 +4935,7 @@
         "app_name": "Soundnode",
         "repo": "https://github.com/Soundnode/soundnode-app",
         "electron_version": "^8.0.1",
-        "date_accessed": "2023-10-03 19:15:38-0700",
+        "date_accessed": "2023-10-14 21:41:59-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4953,7 +4953,7 @@
         "app_name": "SpaceEye",
         "repo": "https://github.com/KYDronePilot/SpaceEye",
         "electron_version": "~9.2.0",
-        "date_accessed": "2023-10-03 19:15:39-0700",
+        "date_accessed": "2023-10-14 21:42:00-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -4971,7 +4971,7 @@
         "app_name": "SpinShare Client",
         "repo": "https://github.com/SpinShare/client",
         "electron_version": "12.2.3",
-        "date_accessed": "2023-10-03 19:15:40-0700",
+        "date_accessed": "2023-10-14 21:42:01-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -5025,7 +5025,7 @@
         "app_name": "Sqlectron",
         "repo": "https://github.com/sqlectron/sqlectron-gui",
         "electron_version": "^12.0.1",
-        "date_accessed": "2023-10-03 19:15:43-0700",
+        "date_accessed": "2023-10-14 21:42:03-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -5034,7 +5034,7 @@
         "app_name": "sqlui-native",
         "repo": "https://github.com/synle/sqlui-native",
         "electron_version": "^20.2.0",
-        "date_accessed": "2023-10-03 19:15:45-0700",
+        "date_accessed": "2023-10-14 21:42:04-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -5051,11 +5051,11 @@
     {
         "app_name": "stacker",
         "repo": "https://github.com/enqueuer-land/stacker",
-        "electron_version": "^22.3.24",
-        "date_accessed": "2023-10-03 19:15:46-0700",
+        "electron_version": "^22.3.25",
+        "date_accessed": "2023-10-14 21:42:06-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "patched",
-        "vulnerable_cve_2023_5217": "vulnerable"
+        "vulnerable_cve_2023_5217": "patched"
     },
     {
         "app_name": "Stacks",
@@ -5079,7 +5079,7 @@
         "app_name": "Standard Notes",
         "repo": "https://github.com/standardnotes/desktop",
         "electron_version": "17.4.2",
-        "date_accessed": "2023-10-03 19:15:48-0700",
+        "date_accessed": "2023-10-14 21:42:07-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -5088,7 +5088,7 @@
         "app_name": "Standup Picker",
         "repo": "https://github.com/Mokkapps/scrum-daily-standup-picker",
         "electron_version": "^16.0.7",
-        "date_accessed": "2023-10-03 19:15:49-0700",
+        "date_accessed": "2023-10-14 21:42:08-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -5133,7 +5133,7 @@
         "app_name": "Stinker",
         "repo": "https://github.com/PatentLobster/stinker",
         "electron_version": "^11.4.11",
-        "date_accessed": "2023-10-03 19:15:50-0700",
+        "date_accessed": "2023-10-14 21:42:09-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -5187,7 +5187,7 @@
         "app_name": "StreamBop",
         "repo": "https://github.com/snaildos/StreamBop",
         "electron_version": "25.8.1",
-        "date_accessed": "2023-10-03 19:15:52-0700",
+        "date_accessed": "2023-10-14 21:42:11-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "patched",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -5196,7 +5196,7 @@
         "app_name": "Streamlabs Desktop",
         "repo": "https://github.com/stream-labs/desktop",
         "electron_version": "17.4.11",
-        "date_accessed": "2023-10-03 19:15:53-0700",
+        "date_accessed": "2023-10-14 21:42:13-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -5232,7 +5232,7 @@
         "app_name": "Sturdy",
         "repo": "https://github.com/sturdy-dev/sturdy",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:15:56-0700",
+        "date_accessed": "2023-10-14 21:42:16-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -5250,7 +5250,7 @@
         "app_name": "Subtitler",
         "repo": "https://github.com/s8sachin/subtitler",
         "electron_version": "^8",
-        "date_accessed": "2023-10-03 19:15:58-0700",
+        "date_accessed": "2023-10-14 21:42:17-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -5258,11 +5258,11 @@
     {
         "app_name": "Super Productivity",
         "repo": "https://github.com/johannesjo/super-productivity",
-        "electron_version": "^23.3.13",
-        "date_accessed": "2023-10-03 19:15:59-0700",
+        "electron_version": "^25.9.0",
+        "date_accessed": "2023-10-14 21:42:18-0700",
         "access_type": "programmatic",
-        "vulnerable_cve_2023_4863": "vulnerable",
-        "vulnerable_cve_2023_5217": "vulnerable"
+        "vulnerable_cve_2023_4863": "patched",
+        "vulnerable_cve_2023_5217": "patched"
     },
     {
         "app_name": "Superpowers \u2014 HTML5 2D+3D game maker",
@@ -5313,7 +5313,7 @@
         "app_name": "Switch",
         "repo": "https://github.com/ahkohd/switch-desktop",
         "electron_version": "^7.0.0-beta.6",
-        "date_accessed": "2023-10-03 19:16:01-0700",
+        "date_accessed": "2023-10-14 21:42:19-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -5322,7 +5322,7 @@
         "app_name": "SwitchHosts",
         "repo": "https://github.com/oldj/SwitchHosts",
         "electron_version": "24.8.3",
-        "date_accessed": "2023-10-03 19:16:02-0700",
+        "date_accessed": "2023-10-14 21:42:20-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "patched",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -5330,11 +5330,11 @@
     {
         "app_name": "Symphony",
         "repo": "https://github.com/symphonyoss/SymphonyElectron",
-        "electron_version": "26.2.3",
-        "date_accessed": "2023-10-03 19:16:03-0700",
+        "electron_version": "26.2.4",
+        "date_accessed": "2023-10-14 21:42:22-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "patched",
-        "vulnerable_cve_2023_5217": "vulnerable"
+        "vulnerable_cve_2023_5217": "patched"
     },
     {
         "app_name": "Synap",
@@ -5367,7 +5367,7 @@
         "app_name": "Tabby Terminal",
         "repo": "https://github.com/Eugeny/tabby",
         "electron_version": "^25.3.0",
-        "date_accessed": "2023-10-03 19:16:04-0700",
+        "date_accessed": "2023-10-14 21:42:23-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -5385,7 +5385,7 @@
         "app_name": "TagSpaces",
         "repo": "https://github.com/tagspaces/tagspaces",
         "electron_version": "25.8.3",
-        "date_accessed": "2023-10-03 19:16:06-0700",
+        "date_accessed": "2023-10-14 21:42:24-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "patched",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -5412,7 +5412,7 @@
         "app_name": "Taskana",
         "repo": "https://github.com/mountainash/taskana",
         "electron_version": "26.2.4",
-        "date_accessed": "2023-10-03 19:16:07-0700",
+        "date_accessed": "2023-10-14 21:42:26-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "patched",
         "vulnerable_cve_2023_5217": "patched"
@@ -5439,7 +5439,7 @@
         "app_name": "Ten Hands",
         "repo": "https://github.com/saisandeepvaddi/ten-hands",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:16:09-0700",
+        "date_accessed": "2023-10-14 21:42:27-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -5448,7 +5448,7 @@
         "app_name": "T\u00e8s\u00e8v\u00e8",
         "repo": "https://github.com/teseve/teseve",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:16:10-0700",
+        "date_accessed": "2023-10-14 21:42:29-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -5502,7 +5502,7 @@
         "app_name": "TextureLab",
         "repo": "https://github.com/njbrown/texturelab",
         "electron_version": "^13.0.0",
-        "date_accessed": "2023-10-03 19:16:12-0700",
+        "date_accessed": "2023-10-14 21:42:31-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -5538,7 +5538,7 @@
         "app_name": "Thorium Reader",
         "repo": "https://github.com/edrlab/thorium-reader/",
         "electron_version": "^25.5.0",
-        "date_accessed": "2023-10-03 19:16:13-0700",
+        "date_accessed": "2023-10-14 21:42:33-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -5601,7 +5601,7 @@
         "app_name": "Time Series Admin",
         "repo": "https://github.com/timeseriesadmin/timeseriesadmin",
         "electron_version": "8.5.2",
-        "date_accessed": "2023-10-03 19:16:15-0700",
+        "date_accessed": "2023-10-14 21:42:34-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -5637,7 +5637,7 @@
         "app_name": "To Do",
         "repo": "https://github.com/luapp/ToDo",
         "electron_version": "^11.1.1",
-        "date_accessed": "2023-10-03 19:16:16-0700",
+        "date_accessed": "2023-10-14 21:42:35-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -5646,7 +5646,7 @@
         "app_name": "Tockler",
         "repo": "https://github.com/MayGo/tockler",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:16:17-0700",
+        "date_accessed": "2023-10-14 21:42:36-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -5655,7 +5655,7 @@
         "app_name": "todometer",
         "repo": "https://github.com/cassidoo/todometer/",
         "electron_version": "^22.0.2",
-        "date_accessed": "2023-10-03 19:16:18-0700",
+        "date_accessed": "2023-10-14 21:42:37-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -5718,7 +5718,7 @@
         "app_name": "Transee",
         "repo": "https://github.com/alessioforte/transee",
         "electron_version": "^18.0.1",
-        "date_accessed": "2023-10-03 19:16:22-0700",
+        "date_accessed": "2023-10-14 21:42:41-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -5736,7 +5736,7 @@
         "app_name": "Translatium",
         "repo": "https://github.com/webcatalog/translatium-desktop",
         "electron_version": "16.1.0",
-        "date_accessed": "2023-10-03 19:16:24-0700",
+        "date_accessed": "2023-10-14 21:42:43-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -5781,7 +5781,7 @@
         "app_name": "Tropy",
         "repo": "https://github.com/tropy/tropy/",
         "electron_version": "^25.8.4",
-        "date_accessed": "2023-10-03 19:16:25-0700",
+        "date_accessed": "2023-10-14 21:42:44-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "patched",
         "vulnerable_cve_2023_5217": "patched"
@@ -5826,7 +5826,7 @@
         "app_name": "Tusk",
         "repo": "https://github.com/klaussinani/tusk",
         "electron_version": "6.0.11",
-        "date_accessed": "2023-10-03 19:16:30-0700",
+        "date_accessed": "2023-10-14 21:42:48-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -5862,7 +5862,7 @@
         "app_name": "Twinkle Tray",
         "repo": "https://github.com/xanderfrangos/twinkle-tray",
         "electron_version": "^20.3.6",
-        "date_accessed": "2023-10-03 19:16:31-0700",
+        "date_accessed": "2023-10-14 21:42:49-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -5880,7 +5880,7 @@
         "app_name": "TwitterTron",
         "repo": "https://github.com/afractal/twittertron-app",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:16:32-0700",
+        "date_accessed": "2023-10-14 21:42:50-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -5907,7 +5907,7 @@
         "app_name": "U Stair",
         "repo": "https://github.com/afmorenosa/U_Stair",
         "electron_version": "^9.3.4",
-        "date_accessed": "2023-10-03 19:16:34-0700",
+        "date_accessed": "2023-10-14 21:42:52-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -5916,7 +5916,7 @@
         "app_name": "UbAuth",
         "repo": "https://github.com/chrisenytc/ubauth",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:16:35-0700",
+        "date_accessed": "2023-10-14 21:42:53-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -5924,11 +5924,11 @@
     {
         "app_name": "ueli",
         "repo": "https://github.com/oliverschwendener/ueli",
-        "electron_version": "^26.2.1",
-        "date_accessed": "2023-10-03 19:16:37-0700",
+        "electron_version": "^26.3.0",
+        "date_accessed": "2023-10-14 21:42:54-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "patched",
-        "vulnerable_cve_2023_5217": "vulnerable"
+        "vulnerable_cve_2023_5217": "patched"
     },
     {
         "app_name": "UMLBoard",
@@ -5943,7 +5943,7 @@
         "app_name": "Unfx Proxy Checker",
         "repo": "https://github.com/assnctr/unfx-proxy-checker",
         "electron_version": "^20.1.4",
-        "date_accessed": "2023-10-03 19:16:39-0700",
+        "date_accessed": "2023-10-14 21:42:56-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -5997,7 +5997,7 @@
         "app_name": "Upcount",
         "repo": "https://github.com/madisvain/upcount",
         "electron_version": "^10.2.0",
-        "date_accessed": "2023-10-03 19:16:40-0700",
+        "date_accessed": "2023-10-14 21:42:57-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -6078,7 +6078,7 @@
         "app_name": "Vikunja",
         "repo": "https://code.vikunja.io/desktop",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:16:45-0700",
+        "date_accessed": "2023-10-14 21:43:02-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -6096,7 +6096,7 @@
         "app_name": "Visual Studio Code",
         "repo": "https://github.com/microsoft/vscode",
         "electron_version": "25.8.4",
-        "date_accessed": "2023-10-03 19:16:49-0700",
+        "date_accessed": "2023-10-14 21:43:06-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "patched",
         "vulnerable_cve_2023_5217": "patched"
@@ -6285,7 +6285,7 @@
         "app_name": "WebKitty",
         "repo": "https://github.com/yikuansun/webkitty",
         "electron_version": "^17.1.0",
-        "date_accessed": "2023-10-03 19:16:53-0700",
+        "date_accessed": "2023-10-14 21:43:10-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -6294,7 +6294,7 @@
         "app_name": "WebTorrent",
         "repo": "https://github.com/webtorrent/webtorrent-desktop",
         "electron_version": "15.5.7",
-        "date_accessed": "2023-10-03 19:16:54-0700",
+        "date_accessed": "2023-10-14 21:43:11-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -6393,7 +6393,7 @@
         "app_name": "WizardMirror",
         "repo": "https://www.github.com/Sanjit1/WizardMirror",
         "electron_version": "^6.0.2",
-        "date_accessed": "2023-10-03 19:17:01-0700",
+        "date_accessed": "2023-10-14 21:43:18-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -6402,7 +6402,7 @@
         "app_name": "wnr",
         "repo": "https://github.com/RoderickQiu/wnr",
         "electron_version": "22.3.18",
-        "date_accessed": "2023-10-03 19:17:03-0700",
+        "date_accessed": "2023-10-14 21:43:19-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -6474,7 +6474,7 @@
         "app_name": "WriteBar",
         "repo": "https://github.com/alexander-shvets/writebar",
         "electron_version": "",
-        "date_accessed": "2023-10-03 19:17:05-0700",
+        "date_accessed": "2023-10-14 21:43:21-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "unknown",
         "vulnerable_cve_2023_5217": "unknown"
@@ -6510,7 +6510,7 @@
         "app_name": "yana",
         "repo": "https://github.com/lukasbach/yana",
         "electron_version": "^10.1.1",
-        "date_accessed": "2023-10-03 19:17:07-0700",
+        "date_accessed": "2023-10-14 21:43:22-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -6546,7 +6546,7 @@
         "app_name": "Youtube Music for Desktop (Unofficial)",
         "repo": "https://github.com/Venipa/ytmdesktop2",
         "electron_version": "^20.3.3",
-        "date_accessed": "2023-10-03 19:17:08-0700",
+        "date_accessed": "2023-10-14 21:43:24-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -6555,7 +6555,7 @@
         "app_name": "YTMDesktop App",
         "repo": "https://github.com/adlerluiz/ytmdesktop",
         "electron_version": "^11.4.9",
-        "date_accessed": "2023-10-03 19:17:10-0700",
+        "date_accessed": "2023-10-14 21:43:25-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -6564,7 +6564,7 @@
         "app_name": "Zap",
         "repo": "https://github.com/LN-Zap/zap-desktop",
         "electron_version": "9.4.4",
-        "date_accessed": "2023-10-03 19:17:11-0700",
+        "date_accessed": "2023-10-14 21:43:26-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "vulnerable",
         "vulnerable_cve_2023_5217": "vulnerable"
@@ -6617,11 +6617,11 @@
     {
         "app_name": "Zettlr",
         "repo": "https://github.com/zettlr/zettlr",
-        "electron_version": "^25.8.1",
-        "date_accessed": "2023-10-03 19:17:14-0700",
+        "electron_version": "^25.8.4",
+        "date_accessed": "2023-10-14 21:43:29-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "patched",
-        "vulnerable_cve_2023_5217": "vulnerable"
+        "vulnerable_cve_2023_5217": "patched"
     },
     {
         "app_name": "Znote",
@@ -6654,7 +6654,7 @@
         "app_name": "Zulip",
         "repo": "https://github.com/zulip/zulip-desktop",
         "electron_version": "^25.8.1",
-        "date_accessed": "2023-10-03 19:17:17-0700",
+        "date_accessed": "2023-10-14 21:43:32-0700",
         "access_type": "programmatic",
         "vulnerable_cve_2023_4863": "patched",
         "vulnerable_cve_2023_5217": "vulnerable"
